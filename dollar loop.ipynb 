@@ -6,6 +6,30 @@
    "metadata": {},
    "outputs": [],
    "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['$$-$$$']"
+      ]
+     },
+     "execution_count": 41,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "test = ['--$$-$$$--']\n",
+    "\n",
+    "test2 = str(test).split('--')\n",
+    "\n",
+    "[x for x in test2 if \"$\" in x]"
+   ]
   }
  ],
  "metadata": {
