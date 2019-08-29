@@ -1,0 +1,2321 @@
+,Restaurant,Postal code,Pizza,Sushi,Fisk og skaldyr,Thai,Café,Italiensk,Indisk,Mexikansk,Steakhouse
+0,Burger King, 2450 ,False,False,False,False,False,False,False,False,False
+1,Almanac, ,False,False,False,False,False,False,False,False,False
+2,Star Midnight Kebab-Grill, ,False,False,False,False,False,False,False,False,False
+3,Sunset Boulevard, 1570 ,False,False,False,False,False,False,False,False,False
+4,Dwaraka Indisk Restaurant, 2860 ,False,False,False,False,False,False,True,False,False
+5,McDonald's, 1560 ,False,False,False,False,False,False,False,False,False
+6,Præg Kaffebar, 2200 ,False,False,False,False,True,False,False,False,False
+7,Cafe Wok, 2300 ,False,False,False,False,False,False,False,False,False
+8,Kujaku, 1165 ,False,True,False,False,False,False,False,False,False
+9,Gastronomia Italiana Dieci, 1720 ,False,False,False,False,False,False,False,False,False
+10,Restaurant Balkonen, 1500 ,False,False,False,False,False,False,False,False,False
+11,Carisma ApS, ,False,False,False,False,False,False,False,False,False
+12,Dan Dan Restaurant, ,False,False,False,False,False,False,False,False,False
+13,Yam Yam, ,False,False,False,False,False,False,False,False,False
+14,Krunch, 2300 ,False,False,False,False,False,False,False,False,False
+15,Yoburger, 1100 ,False,False,False,False,False,False,False,False,False
+16,McDonald's, 2100 ,False,False,False,False,False,False,False,False,False
+17,Copenhagen Asian Food, 1161 ,False,False,False,False,False,False,False,False,False
+18,La Coruna Pizza, 2450 ,True,False,False,False,False,False,False,False,False
+19,Cafe Restaurant Hollywood, 2100 ,False,False,False,False,False,False,False,False,False
+20,Cafe Q, 2400 ,False,False,False,False,False,False,False,False,False
+21,Kokken & Karry, 1820 ,False,False,False,False,False,False,True,False,False
+22,Cafe Sari, 1450 ,False,False,False,False,True,False,False,False,False
+23,Hong Kong Restaurant, ,False,False,False,False,False,False,False,False,False
+24,"KFC, Rådhuspladsen", ,False,False,False,False,False,False,False,False,False
+25,Cafe-Pavillonen, 2100 ,False,False,False,False,False,False,False,False,False
+26,Tapas Revolution, 1700 ,False,False,False,False,False,False,False,False,False
+27,Sushibar Fields, 2300 ,False,True,False,False,False,False,False,False,False
+28,Burger King Frederiksborggade, 1360 ,False,False,False,False,False,False,False,False,False
+29,Ammessi, 1620 ,True,False,False,False,False,True,False,False,False
+30,Hereford Steak House & Cafe New York, 2100 ,False,False,False,False,False,False,False,False,True
+31,Constellation Burger, 1161 ,False,True,False,False,False,False,False,False,False
+32,Den Sorte Gryde, 2720 ,False,False,False,False,False,False,False,False,False
+33,Original Coffee Nordhavn, 2150 ,False,False,False,False,False,False,False,False,False
+34,Grill 110 & Sandwich, 2300 ,False,False,False,False,False,False,False,False,False
+35,China, ,False,False,False,False,False,False,False,False,False
+36,Café A, 2100 ,False,False,False,False,False,False,False,False,False
+37,Den sorte gryde, ,False,False,False,False,False,False,False,False,False
+38,Joe & The Juice, 1159 ,False,False,False,False,False,False,False,False,False
+39,Bagel Factory, 2300 ,False,False,False,False,False,False,False,False,False
+40,Punjabi, ,False,False,False,False,False,False,True,False,False
+41,Cocolo, 1154 ,False,True,True,False,False,False,False,False,False
+42,Palermo Pizza, 2450 ,True,False,False,False,False,False,False,False,False
+43,Chuck & Cherry, 2200 ,False,False,False,False,False,False,False,False,False
+44,Restaurant Provianten, 2000 ,False,False,False,False,False,False,False,False,False
+45,The Taco Shop, 2000 ,False,False,False,False,False,False,False,False,False
+46,Flintholm Sushi - Running Sushi Og Take Away, 2000 ,False,True,False,False,False,False,False,False,False
+47,Montgomerycph, 1619 ,False,False,False,False,False,False,False,False,False
+48,Thaiboksen, 2000 ,False,False,False,False,False,False,False,False,False
+49,The Potato Factory, 2000 ,False,False,False,False,False,False,False,False,False
+50,Kashmir, 2000 ,False,False,False,False,False,False,True,False,False
+51,City Kroen, 1457 ,False,False,False,False,False,False,False,False,False
+52,Nachos Mexican Restaurant, ,False,False,False,False,False,False,False,False,False
+53,Aviator Lounge, 2770 ,False,False,False,False,False,False,False,False,False
+54,Big bowl, ,False,False,False,False,False,False,False,False,False
+55,America's Grill, 1067 ,False,False,False,False,False,False,False,False,False
+56,Restaurant Parnas, ,False,False,False,False,False,False,False,False,False
+57,HC Andersens Cafe, 1051 ,False,False,False,False,False,False,False,False,False
+58,Scandi Cafe, 1457 ,False,False,False,False,True,False,False,False,False
+59,Bøfhus, 2300 ,False,False,False,False,False,False,False,False,True
+60,Ristorante Santoni, ,False,False,False,False,False,True,False,False,False
+61,Foodmarket - Terminal 2, 2770 ,False,False,False,False,False,False,False,False,False
+62,Kafe Kapers, 2100 ,False,False,False,False,True,False,False,False,False
+63,Cph Asian Food, 1161 ,False,False,False,False,False,False,False,False,False
+64,Cafe Cornelius, ,False,False,False,False,True,False,False,False,False
+65,Restaurant Beijing, 1459 ,False,False,False,False,False,False,False,False,False
+66,Gorm's Fisketorvet, 1560 ,False,False,False,False,False,False,False,False,False
+67,Khorn Vesterbro, 1620 ,False,False,False,False,False,False,False,False,False
+68,Cafe Emma, 1609 ,False,False,False,False,True,False,False,False,False
+69,Upper Crust, 1570 ,False,False,False,False,False,False,False,False,False
+70,Richmond Hotel Restaurant, 1606 ,False,False,False,False,False,False,False,False,False
+71,Restaurant Sunnyside, 1053 ,False,False,False,False,False,True,False,False,False
+72,The Viking House, ,False,False,False,False,False,False,False,False,False
+73,Copenhagen Diner 'n' Steak, 1100 ,False,False,False,False,True,False,False,False,False
+74,Kung Fu Street Food Tivoli Food Hall, 1577 ,False,False,False,False,False,False,False,False,False
+75,Go Away, ,False,False,False,False,False,False,False,False,False
+76,Nachos Vesterbrogade, 1620 ,False,False,False,False,False,False,False,False,False
+77,Restaurant OASI'D ITALIA, 1208 ,False,False,False,False,False,True,False,False,False
+78,Café Stafetten, 2100 ,False,False,False,False,False,False,False,False,False
+79,Pizzeria Leo - Sølvgade, 1307 ,True,False,False,False,False,True,False,False,False
+80,Asian Palace, 2500 ,False,False,False,False,False,False,False,False,False
+81,Cafe´Clouseau, ,False,False,False,False,False,False,False,False,False
+82,The American Restaurant & Diner, 2300 ,False,False,False,False,False,False,False,False,False
+83,Blox Eats, 1473 ,False,False,False,False,True,False,False,False,False
+84,MammaMia, 2300 ,False,False,False,False,False,False,False,False,False
+85,Cafe Ultimo, 1620 ,True,False,False,False,False,True,False,False,False
+86,Medina, 2400 ,False,False,False,False,False,False,False,False,False
+87,Kentucky Fried Chicken, 1550 Kbh V ,False,False,False,False,False,False,False,False,False
+88,Café Dan Turell, 1110 ,False,False,False,False,True,False,False,False,False
+89,Pizzaport Femøren, 2300 ,True,False,False,False,False,True,False,False,False
+90,VACA - Mexican Finger Food, 2100 ,False,False,False,False,False,False,False,False,False
+91,Indian Ocean, 2300 ,False,False,False,False,False,False,False,False,False
+92,Thai2You, ,False,False,False,True,False,False,False,False,False
+93,Dāna, 1360 ,False,False,False,False,False,False,True,False,False
+94,Kaelderen 13, 1208 ,False,False,False,False,False,True,False,False,False
+95,PS Bar, 2100 ,False,False,False,False,True,False,False,False,False
+96,Lazio Italiano, ,True,False,False,False,False,True,False,False,False
+97,Mat 99, 1114 ,False,False,False,False,False,False,False,False,False
+98,Chinos, 1560 ,False,False,False,False,False,False,False,False,False
+99,Den skaldede Kok, ,False,False,False,False,False,False,False,False,False
+100,Fisch-Art, 1436 ,False,False,False,False,False,False,False,False,False
+101,Restaurant New Ankara, ,False,False,False,False,False,False,False,False,False
+102,Bobuska, 1361 ,False,False,False,False,True,False,False,False,False
+103,Nachos, 1620 ,False,False,False,False,False,False,False,False,False
+104,Restaurant Babylon, 1369 ,False,False,False,False,False,False,False,False,False
+105,Vestauranten, ,False,False,False,False,False,False,False,False,False
+106,The Shrimp, 1250 ,False,False,False,False,False,False,False,False,False
+107,Bodega Tivoli Vinstue, ,False,False,False,False,False,False,False,False,False
+108,Eataly, 1100 ,False,False,False,False,False,True,False,False,False
+109,7/11, 1570 ,False,False,False,False,False,False,False,False,False
+110,Café Koebenhavn, ,False,False,False,False,False,False,False,False,False
+111,Café CiCi, 1900 ,False,False,False,False,False,False,False,False,False
+112,RicenCurry, 2000 ,False,False,False,False,False,False,True,False,False
+113,Konnild's, 2000 ,False,False,False,False,False,False,False,False,False
+114,Venus Pizzeria, 2000 ,True,False,False,False,False,False,True,False,False
+115,Mama Rosa, 2000 ,True,False,False,False,False,True,False,False,False
+116,Kageværket, 2000 ,False,False,False,False,True,False,False,False,False
+117,Spise/Bar15, 1958 ,False,False,False,False,False,False,False,False,False
+118,Pasta Mania, 2200 ,False,False,False,False,False,False,False,False,False
+119,La Sirene, 1051 ,True,False,False,False,False,True,False,False,False
+120,Mama Rosa, 1100 ,True,False,False,False,False,True,False,False,False
+121,Kervan, ,False,False,False,False,False,False,False,False,False
+122,Axelborg Chinese Restaurant, A 1609 ,False,False,False,False,False,False,False,False,False
+123,Restaurant Nova, 1159 ,False,False,False,False,False,True,False,False,False
+124,Wan Hao, 2300 ,False,False,False,False,False,False,False,False,False
+125,Benvenuti Pizzeria Emdrup, 2100 ,False,False,False,False,False,True,False,False,False
+126,Maggies, 1620 ,False,False,False,False,False,False,False,False,False
+127,Pirateriet, 1630 ,False,False,False,False,False,False,False,False,False
+128,Stefanos Grønne Hjørne, 2200 ,False,False,False,False,False,False,False,False,False
+129,Cafe Sundet, 2100 ,False,False,False,False,False,False,False,False,False
+130,Kafeteria, 1307 ,False,False,False,False,True,False,False,False,False
+131,7 Seas Restaurant, ,False,False,False,False,False,False,False,False,False
+132,Cafe Two o Two, 2300 ,False,False,False,False,False,False,False,False,False
+133,Wedo burgers, 2300 ,False,False,False,False,False,False,False,False,False
+134,Restaurant Royal Palace, 1165 ,False,True,False,False,False,False,False,False,False
+135,Cafe Bopa, 2100 ,False,False,False,False,True,False,False,False,False
+136,Teglværket, 2450 ,False,False,False,False,False,False,False,False,False
+137,India Palace Restaurant, 1553 ,False,False,False,False,False,False,True,False,False
+138,Cafe Ludwigsen, 1751 ,False,False,False,False,False,False,False,False,False
+139,Hennings Corner, 2300 ,False,False,False,False,False,False,False,False,False
+140,Cafe Phenix, 2300 ,False,False,False,False,False,False,False,False,False
+141,Restaurant Barcelona, ,False,False,False,False,False,False,False,False,False
+142,Senorita Mexicansk Restaurant, 1650 ,False,False,False,False,False,False,False,False,False
+143,Mocca Kaffebar, 2100 ,False,False,False,False,True,False,False,False,False
+144,Indiana Mexican Restaurant, ,False,False,False,False,False,False,True,False,False
+145,McDonald's Kongens Nytorv, 1050 ,False,False,False,False,False,False,False,False,False
+146,Restaurant Laura, ,False,False,False,False,False,False,False,False,False
+147,Canton Restaurant, 1620 ,False,False,False,False,False,False,False,False,False
+148,Mamma's, 1550 ,False,False,False,False,False,False,False,False,False
+149,Nubilo Pizza, 2300 ,False,False,False,False,False,False,False,False,False
+150,Jin Cheng, 1606 ,False,False,False,False,False,False,False,False,False
+151,Rosetta Delikatesser, 2100 ,False,False,False,False,False,False,False,False,False
+152,Kebaben, 1150 ,False,False,False,False,False,False,False,False,False
+153,Hansens Is Kaffe, ,False,False,False,False,False,False,False,False,False
+154,Pizza House, 1561 ,True,False,False,False,False,False,False,False,False
+155,Sicilia Pizzeria, ,True,False,False,False,False,False,False,False,False
+156,Strand Pizza, 2100 ,False,False,False,False,False,False,False,False,False
+157,Dorfs Gastrobar, 1151 ,False,False,False,False,False,False,False,False,False
+158,LETZ SUSHI FISKETORVET, 1561 ,False,True,False,False,False,False,False,False,False
+159,Restaurant Eldorado, 1408 ,False,False,False,False,False,False,False,False,False
+160,Cafe Restaurant Bar Hollywood, 1460 ,False,False,False,False,False,False,False,False,False
+161,Ishuset, 1400 ,False,False,False,False,False,False,False,False,False
+162,Thali, ,False,False,False,False,False,False,False,False,False
+163,Burger Palace, 1620 ,True,False,False,False,False,False,False,False,False
+164,YoSushi, ,False,True,False,False,False,False,False,False,False
+165,Philly's Danmark, 1123 ,False,False,False,False,False,False,False,False,False
+166,Café Bambú, 2200 ,False,False,False,False,True,False,False,False,False
+167,Indian Flavours, 2720 ,False,False,False,False,False,False,True,False,False
+168,Um Hanza, 2200 ,False,False,False,False,False,False,False,False,False
+169,Kødbyens Rosébar, ,False,False,False,False,False,False,False,False,False
+170,ArkArd, ,False,False,False,True,False,False,False,False,False
+171,Hiko Pizza, 2300 ,True,False,False,False,False,False,False,False,False
+172,Stubben Cafe & Bar, 2450 ,False,False,False,False,False,False,False,False,False
+173,Restaurant Fodkold, ,False,False,False,False,False,False,False,False,False
+174,hotel Amerika, 9500 ,False,False,False,False,False,False,False,False,False
+175,Carl's Madhus, 1799 ,False,False,False,False,False,False,False,False,False
+176,Roma Pizzeria & Grill, 2760 ,False,False,False,False,False,False,False,False,False
+177,Cafe Globetrotter, ,False,False,False,False,False,False,False,False,False
+178,Arket, ,False,False,False,False,False,False,False,False,False
+179,The Mexican Donkey, 1123 ,False,False,False,False,False,False,False,False,False
+180,Cafe Temptation, 2100 ,False,False,False,False,False,False,False,False,False
+181,Jabob's Bageri, ,False,False,False,False,False,False,False,False,False
+182,Strædets Kaffebar, 1466 ,False,False,False,False,False,False,False,False,False
+183,Columbia Chicken & Burger, 2300 ,False,False,False,False,False,False,False,False,False
+184,Kuzhi, 1620 ,False,False,False,False,False,False,False,False,False
+185,Nordic Noodles, 1799 ,False,False,False,False,False,False,False,False,False
+186,Cafe Suhrs, 2100 ,False,False,False,False,False,False,False,False,False
+187,Shiimi - A New Taste of Thailand, 2300 ,False,False,False,True,False,False,False,False,False
+188,AC Lounge, 2300 ,False,False,False,False,False,False,False,False,False
+189,Mecca, 2200 N ,False,False,False,False,False,False,False,False,False
+190,Woodhouse Lounge, 1630 ,False,False,False,False,False,False,False,False,False
+191,Elefanten, ,False,False,False,False,False,False,False,False,False
+192,Restaurant Little Italy, 2100 ,True,False,False,False,False,True,False,False,False
+193,Smorhullet, ,True,False,False,False,False,False,True,False,False
+194,Gorm bakery, 1264 ,False,False,False,False,False,False,False,False,False
+195,Brod Vaerten, 2200 ,False,False,False,False,False,False,False,False,False
+196,Guldgrillen, ,False,False,False,False,False,False,False,False,False
+197,The Harbour Grill, 1259 ,False,False,False,False,False,False,False,False,False
+198,Lou Lou, 1103 ,False,False,False,False,False,False,False,False,False
+199,Gelato Italiano, 1164 ,False,False,False,False,False,True,False,False,False
+200,Grab ’n' Go Burgers, 1432 ,False,False,False,False,False,False,False,False,False
+201,Spicy Lounge, 2100 ,False,False,False,False,False,False,False,False,False
+202,wokAmok, 2200 ,False,False,False,True,False,False,False,False,False
+203,Café La Vento, 2300 ,False,False,False,False,False,False,False,False,False
+204,Mama Mia, ,False,False,False,False,False,True,False,False,False
+205,Great China, 1652 ,False,False,False,False,False,False,False,False,False
+206,Sushiya, 2300 ,False,True,False,False,False,False,False,False,False
+207,Just Thai, ,False,False,False,True,False,False,False,False,False
+208,Guldkroen 11, 2200 ,False,False,False,False,False,False,False,False,False
+209,Café B, ,False,False,False,False,False,True,False,False,False
+210,Amarone, ,True,False,False,False,False,True,False,False,False
+211,King Of Kebab Pizza & Grill, 2200 ,False,False,False,False,False,False,False,False,False
+212,YamYam, 1570 ,False,False,False,False,False,False,False,False,False
+213,Rendez, ,False,False,False,False,False,False,False,False,False
+214,Café Le Rouge, 2200 ,False,False,False,False,False,False,False,False,False
+215,Mediterranean Kitchen, 2300 ,False,False,False,False,False,False,False,False,False
+216,Cucinetta, ,False,False,False,False,False,True,False,False,False
+217,Bulko, 1436 ,False,False,False,False,False,False,False,False,False
+218,Mät Copenhagen, 1450 ,False,False,False,False,False,False,False,False,False
+219,Sunset Boulevard, 1150 ,False,False,False,False,False,False,False,False,False
+220,cafe Emil, 2500 ,False,False,False,False,True,False,False,False,False
+221,Wabiwabi Sushi & More, 2300 ,False,True,False,False,False,False,False,False,False
+222,Vapiano Tivoli, 1630 ,True,False,False,False,False,True,False,False,False
+223,Sultan Palace, ,False,False,False,False,False,False,False,False,False
+224,Krôyers, ,False,False,False,False,True,False,False,False,False
+225,La focaccia, 2450 ,False,False,False,False,False,True,False,False,False
+226,Cock's & Cows Prags Blvd, 2300 ,False,False,False,False,False,False,False,False,False
+227,Taco Diner, 1364 ,False,False,False,False,False,False,False,False,False
+228,Rice and Rice, 2100 ,False,False,False,True,False,False,False,False,False
+229,Hanoi, ,False,False,False,False,False,False,False,False,False
+230,Café Nöah, 2300 ,False,False,False,False,False,False,False,False,False
+231,Tapas G., 1155 ,False,False,False,False,False,False,False,False,False
+232,Kyoto Restaurant, ,False,True,False,False,False,False,False,False,False
+233,Nibon Ya, 1620 ,False,True,False,False,False,False,False,False,False
+234,Cock's & Cows Kødbyen, 1714 ,False,False,False,False,False,False,False,False,False
+235,LETZ SUSHI TIVOLI DET JAPANSKE TÅRN, 1630 ,False,True,False,False,False,False,False,False,False
+236,L'Olivo, 1051 ,False,False,False,False,False,True,False,False,False
+237,Indien Maharaja Restaurant, 2300 ,False,False,False,False,False,False,True,False,False
+238,Gaarden & Gaden, 2200 ,False,False,False,False,False,False,False,False,False
+239,Café Livingstone, 2100 ,False,False,False,False,True,False,False,False,False
+240,Le Diamant, 1100 ,False,False,False,False,False,True,False,False,False
+241,Dalle Valle Amager, ,False,False,False,False,False,False,False,False,False
+242,Skagen, ,False,False,True,False,False,False,False,False,False
+243,Kaffesalonen, ,False,False,False,False,True,False,False,False,False
+244,Guldmagerens Cafe, 1051 ,False,False,False,False,False,False,False,False,False
+245,Couloir, 2300 ,False,False,False,False,False,False,False,False,False
+246,Price's diner, 1630 ,False,False,False,False,False,False,False,False,False
+247,Promenaden Tivoli, 1630 ,False,False,False,False,False,False,False,False,False
+248,Le President, 1161 ,False,True,False,False,False,False,False,False,False
+249,Restaurant Rio Bravo, ,False,False,False,False,False,False,False,False,False
+250,Mazzoli's, 1670 ,True,False,False,False,False,True,False,False,False
+251,Jensens Bøfhus København (Axeltorv), 1609 ,False,False,False,False,False,False,False,False,True
+252,Pause, 2000 ,False,False,False,False,True,True,False,False,False
+253,McDonald's, 2000 ,False,False,False,False,False,False,False,False,False
+254,Cafe A, 2000 ,False,False,False,False,False,False,False,False,False
+255,Happy Sushi, 2000 ,False,False,False,False,False,False,False,False,False
+256,Fuji sushi, 2000 ,False,True,False,False,False,False,False,False,False
+257,Kellerdirk, 1820 ,False,False,False,False,False,False,False,False,False
+258,The Old Irish Pub, 2000 ,False,False,False,False,False,False,False,False,False
+259,XO Burgers and Steaks, 1850 ,False,False,False,False,False,False,False,False,True
+260,Backstage Bar & Restaurant, 2000 ,False,False,False,False,False,False,False,False,False
+261,Joe & The Juice, 1850 ,False,False,False,False,False,False,False,False,False
+262,Mr. Rice, 2000 ,False,False,False,True,False,False,False,False,False
+263,Akiba Sushi & Wok, 1958 ,False,False,False,False,False,False,False,False,False
+264,M.G. Petersens Familiehave, 2000 ,False,False,False,False,False,False,False,False,False
+265,Cafe Phenix, 2000 ,False,False,False,False,True,False,False,False,False
+266,Restaurant Amalfi, 1154 ,False,False,False,False,False,True,False,False,False
+267,Kebaben, 1123 ,True,False,False,False,False,True,False,False,False
+268,Express Pizza, 2200 ,True,False,False,False,False,False,False,False,False
+269,The Jock, 1699 ,False,False,False,False,False,False,False,False,False
+270,Eros, 1157 ,False,False,False,False,False,False,False,False,False
+271,Burgerklubben, 2200 ,False,False,False,False,False,False,False,False,False
+272,Retreat, 2300 ,False,False,False,False,False,False,False,False,False
+273,LETZ SUSHI ØSTERBRO, 2100 ,False,True,False,False,False,False,False,False,False
+274,Vietnam, 2100 ,False,False,False,False,False,False,False,False,False
+275,King Chicken, ,False,False,False,False,False,False,False,False,False
+276,Pizza Dronning Regina, 2720 ,False,False,False,False,False,False,False,False,False
+277,Halmtorvet 9, 1700 ,False,False,False,False,False,False,False,False,False
+278,Foodish, ,False,False,False,False,False,False,False,False,False
+279,Sumo Sushi, 2300 ,False,True,False,False,False,False,False,False,False
+280,Brasseriet, 1620 ,False,False,False,False,False,False,False,False,False
+281,Beduin Bar, 1159 ,False,False,False,False,False,False,False,False,False
+282,El Porron, ,False,False,False,False,False,False,False,False,False
+283,Giin Khao, 2300 ,False,False,False,False,False,False,False,False,False
+284,Flisen Bar & Burgers, 1705 ,False,False,False,False,False,False,False,False,False
+285,Cafe La Bella Ristorante, 2500 ,False,False,False,False,False,True,False,False,False
+286,Wedofood, 2100 ,False,False,False,False,False,False,False,False,False
+287,Tacos Chucho, 1432 ,False,False,False,False,False,False,False,False,False
+288,Osteriet & Ko, 1711 ,False,False,False,False,False,False,False,False,False
+289,Sydhavnens Pizzaria, ,True,False,False,False,False,False,False,False,False
+290,Gusto Italiano, 2200 ,False,False,False,False,False,True,False,False,False
+291,Cafe Maroc, ,False,False,False,False,False,False,False,False,False
+292,Cafe casa denmark, ,False,False,False,False,True,False,False,False,False
+293,Thaiaway, 2100 ,False,False,False,False,False,False,False,False,False
+294,Lagkagehuset, 2300 ,False,False,False,False,False,False,False,False,False
+295,Sushi2500, 2000 ,False,False,False,False,False,False,False,False,False
+296,Vietnam Quan, 2400 ,False,False,True,False,False,False,False,False,False
+297,Lagkagehuset, 2770 ,False,False,False,False,False,False,False,False,False
+298,Fuyi, 2700 ,False,False,False,False,False,False,False,False,False
+299,Cafe Grusgraven, 1674 ,False,False,False,False,False,False,False,False,False
+300,Rosengarden Bodega, 1174 ,False,False,False,False,False,False,False,False,False
+301,Intermezzo, 1630 ,False,False,False,False,False,False,False,False,False
+302,Bavnehøj Smørrebrød & Sandwich, 2450 ,False,False,False,False,False,False,False,False,False
+303,LETZ SUSHI NØRREBRO, 2200 ,False,False,True,False,False,False,False,False,False
+304,Karamba, 1307 ,False,False,False,False,False,False,False,False,False
+305,Laboca, ,False,False,False,False,False,False,False,False,False
+306,MAUI Reykjaviksgade ApS, 2300 ,False,False,False,False,False,False,False,False,False
+307,7 Eleven, 2100 ,False,False,False,False,False,False,False,False,False
+308,Blomst, 1160 ,False,False,False,False,False,False,False,False,False
+309,Pejsegaarden, 2700 ,False,False,False,False,False,False,False,False,False
+310,TS Smørrebrød, 2300 ,False,False,False,False,False,False,False,False,False
+311,Suyiyaki Japansk Restaurant, ,False,False,False,False,False,False,False,False,False
+312,Green & Yellow Restaurant, 1457 ,False,False,False,False,False,False,False,False,False
+313,Dragon Grill Express, 2300 ,False,False,False,False,False,False,False,False,False
+314,Cheesecake Huset, ,False,False,False,False,False,False,False,False,False
+315,Yolkie Egg Joint, 2200 ,False,False,False,False,False,False,False,False,False
+316,K15, ,False,False,False,False,False,False,False,False,False
+317,Cafe Dubai, 1171 ,False,False,False,False,True,False,False,False,False
+318,Figaro, 2100 ,False,False,False,False,False,False,False,False,False
+319,Mon Amour Pâtissier - Glacier, 1159 ,False,False,False,False,False,False,False,False,False
+320,BarPasta, 2200 ,False,False,False,False,False,True,False,False,False
+321,Kinesiske Mur, 2300 ,False,True,False,False,False,False,False,False,False
+322,Send flere krydderier, 2200 ,False,False,False,False,False,False,False,False,False
+323,The Bagel Co, 1651 ,False,False,False,False,False,False,False,False,False
+324,Barburrito, 1123 ,False,False,False,False,False,False,False,False,False
+325,Th. Soerensen, 2300 ,False,False,False,False,False,False,False,False,False
+326,CPH Burger & Steakhouse, 1441 ,False,False,False,False,False,False,False,False,False
+327,Madonna Burgerbar, 3000 ,False,False,False,False,False,False,False,False,False
+328,Grand Cafe Field's, 2200 ,False,False,False,False,False,False,False,False,False
+329,H Kitchen, 1171 ,False,False,False,False,False,False,False,False,False
+330,Louise, ,False,False,False,False,False,False,False,False,False
+331,Sunset Boulevard, 6700 ,False,False,False,False,False,False,False,False,False
+332,Tacopop, 2100 ,False,False,False,False,False,False,False,False,False
+333,Kobenhavns Oktoberfest, 2300 ,False,False,False,False,False,False,False,False,False
+334,D'jungle Juice Amager, 2300 ,False,False,False,False,False,False,False,False,False
+335,Jagger Købmagerade, 1150 ,False,False,False,False,False,False,False,False,False
+336,Restaurant Meadow Garden, 2450 ,False,False,False,False,False,False,False,False,False
+337,Il Pane di Mauro, 2300 ,False,False,False,False,False,True,False,False,False
+338,Rice and Rice, 2100 ,False,False,False,False,False,False,False,False,False
+339,Cafe AE, 2400 ,False,False,False,False,True,False,False,False,False
+340,Neru, 2100 ,False,False,False,False,False,False,False,False,False
+341,Cafe Tænk, 2100 ,False,False,False,False,False,False,False,False,False
+342,1408, 1408 ,False,False,False,False,False,False,False,False,False
+343,Egils Deli, 2300 ,True,False,False,False,False,True,False,False,False
+344,Dhaba Indian Street Food, 2400 ,False,False,False,False,False,False,False,False,False
+345,Café A, 2300 ,False,False,False,False,False,False,False,False,False
+346,Mae Pen, 1620 ,False,False,False,True,False,False,False,False,False
+347,Front bistro & bar, 1250 ,False,False,False,False,False,False,False,False,False
+348,Fu Wa Restaurant, 2200 ,False,False,False,False,False,False,False,False,False
+349,Joe & The Juice, 1400 ,False,False,False,False,False,False,False,False,False
+350,Motley, 2200 ,False,False,False,False,False,False,False,False,False
+351,Islands Brygge 21, 2300 ,False,False,False,False,False,False,False,False,False
+352,La Foretta, ,False,False,False,False,False,True,False,False,False
+353,Kafe Krone, 1253 ,False,False,False,False,False,False,False,False,False
+354,Café Phønix, 1175 ,False,False,False,False,False,False,False,False,False
+355,No. 31 - Wine & Food, 1360 ,False,False,False,False,False,True,False,False,False
+356,The Pizza Bro, 2300 ,False,False,False,False,False,True,False,False,False
+357,Café Kongedybet, 2300 ,False,False,False,False,False,False,False,False,False
+358,Restaurant Element, 2450 ,False,False,False,False,False,False,False,False,False
+359,Sauvage, 1203 ,False,False,False,False,False,False,False,False,False
+360,Chicks by Chicks, ,False,False,False,False,False,False,False,False,False
+361,Burgers King, ,False,False,False,False,False,False,False,False,False
+362,Café A, ,False,False,False,False,True,False,False,False,False
+363,Gastronomia Italiana, ,True,False,False,False,False,True,False,False,False
+364,MyPoké Nørrebro, 2200 ,False,False,False,False,False,False,False,False,False
+365,Restaurant Sahara, 2200 ,False,False,False,False,False,False,False,False,False
+366,Fidel's, 1302 ,False,False,False,False,False,False,False,False,False
+367,Restaurant Maharaja - Frederiksberg, 1850 ,False,False,False,False,False,False,True,False,False
+368,Dondon, 1364 ,False,False,False,False,False,False,False,False,False
+369,Magasasa Vesterbrogade, 1630 ,False,False,False,False,False,False,False,False,False
+370,Fedtekaelderen, 1415 K ,False,False,False,False,False,False,False,False,False
+371,August B, 1017 ,False,False,False,False,False,False,False,False,False
+372,Tigermom, 2200 ,False,False,False,False,False,False,False,False,False
+373,SuSu Sushi og Nikkei Restaurant, 2200 ,False,True,False,False,False,False,False,False,False
+374,"Burger Shack, Carlsberg Byen", 1799 ,False,False,False,False,False,False,False,False,False
+375,Ziang Nan, 1617 ,False,False,False,False,False,False,False,False,False
+376,The South Indian Valby, 2500 ,False,False,False,False,False,False,True,False,False
+377,Eattoday, 2100 ,False,False,False,False,False,False,False,False,False
+378,Polsevognen ved Norrebro Runddel, 2200 ,False,False,False,False,False,False,False,False,False
+379,Coffee Industry, 1095 ,False,False,False,False,False,False,False,False,False
+380,Cafiola, 1171 ,False,False,False,False,True,False,False,False,False
+381,Stefanos Mad og Kaffe, 2100 ,False,False,False,False,False,False,False,False,False
+382,The Organic LAB, 1246 ,False,False,False,False,False,False,False,False,False
+383,Tex Mex, ,False,False,False,False,False,False,False,False,False
+384,Tandoori Masala, 1453 ,False,False,False,False,False,False,True,False,False
+385,Lagkagehuset, 2200 ,False,False,False,False,False,False,False,False,False
+386,Shabaz Kaffebar & Køkken, 2100 ,False,False,False,False,False,False,False,False,False
+387,Iki Sushi Vesterbro, 1620 ,False,True,False,False,False,False,False,False,False
+388,Olivaceous, 2720 ,False,False,False,False,False,False,False,False,False
+389,Pasha Kebab, 1674 ,False,False,False,False,False,False,False,False,False
+390,Bindia, 1850 ,False,False,False,False,False,False,False,False,False
+391,TATA - Cocktailbar, 1055 ,False,False,False,False,False,False,False,False,False
+392,Calories, 2450 ,False,False,False,False,False,False,False,False,False
+393,Rock Bar Royal, 1630 ,False,False,False,False,False,False,False,False,False
+394,Riccos Kaffebar, 2100 ,False,False,False,False,False,False,False,False,False
+395,Frankies Pizza Nørrebro, 2200 ,False,False,False,False,False,False,False,False,False
+396,Juicy Burger, 1609 ,False,False,False,False,False,False,False,False,False
+397,Tony's Østerbro, 2100 ,False,False,False,False,False,False,False,False,False
+398,Bacino, 1058 ,False,False,False,False,False,True,False,False,False
+399,LETZ SUSHI NORDHAVN, 2150 ,False,True,False,False,False,False,False,False,False
+400,Cavallino Pizzeria, 2500 ,False,False,False,False,False,True,False,False,False
+401,Tapas Amor, ,False,False,False,False,False,False,False,False,False
+402,Centrum Smorrebrod, ,False,False,False,False,False,False,False,False,False
+403,Dong Yuan, 1057 ,False,False,False,False,False,False,False,False,False
+404,Snapstinget, 1218 ,False,False,False,False,False,False,False,False,False
+405,La Piazza, ,False,False,False,False,False,False,False,False,False
+406,O's American Breakfast & Barbeque, 2100 ,False,False,False,False,True,False,False,False,False
+407,Danhostel Copenhagen City, 1553 ,False,False,False,False,False,False,False,False,False
+408,Restaurant von Plessen, 1260 ,False,False,False,False,False,False,False,False,False
+409,Cock’s & Cows Tivoli, 1630 ,False,False,False,False,False,False,False,False,False
+410,BobbaBella, ,False,False,False,False,False,False,False,False,False
+411,Den gyldne Okse, 2720 ,False,False,False,False,False,False,False,False,False
+412,LETZ SUSHI VESTERBRO, 1619 ,False,True,True,False,False,False,False,False,False
+413,Curry Nation, 2200 ,False,False,False,True,False,False,True,False,False
+414,LêLê Street Kitchen // Østerbro, 2100 ,False,False,False,False,False,False,False,False,False
+415,Kul, 1712 ,False,False,False,False,False,False,False,False,False
+416,Cafe Det Elektriske Hjoerne, 1110 ,False,False,False,False,True,False,False,False,False
+417,Vivah, 2300 ,False,False,False,False,False,False,True,False,False
+418,Yoburger, 2100 ,False,False,False,False,False,False,False,False,False
+419,Karma Sushi Kødbyen, 1714 ,False,True,False,False,False,False,False,False,False
+420,Lauras Bakery Vaernedamsvej, 1619 ,False,False,False,False,False,False,False,False,False
+421,Nordlys Cafe og Spisehus, 2100 ,False,False,False,False,False,False,False,False,False
+422,JAGGER Fast Food, 2300 ,False,False,False,False,False,False,False,False,False
+423,Kiin Kiin Tok Tok, 1620 ,False,False,False,False,False,False,False,False,False
+424,Brasserie Murdoch's Books & Ale, ,False,False,False,False,False,False,False,False,False
+425,Gefahrlich, 2200 ,False,False,False,False,False,False,False,False,False
+426,Pincho Nation, 1171 ,False,False,False,False,False,False,False,False,False
+427,Chopstix, 1172 ,False,False,False,False,False,False,False,False,False
+428,Jagger Fast Food, ,False,False,False,False,False,False,False,False,False
+429,Restaurant Ny Zi Yang, 2820 ,False,True,False,False,False,False,False,False,False
+430,Selina Pizza, 1057 ,True,False,False,False,False,False,False,False,False
+431,The Garden Cafe, 1350 ,False,False,False,False,False,False,False,False,False
+432,Iki Sushi Gammel Kongevej, 1610 ,False,False,False,False,False,False,False,False,False
+433,Traktorstedet Rosenborg Slot, 1350 ,False,False,False,False,True,False,False,False,False
+434,Como Trattoria, 1159 ,False,False,False,False,False,True,False,False,False
+435,Restaurant Hong Cheng, 2100 ,False,False,False,False,False,False,False,False,False
+436,Nyhavnscafeen, 1051 ,False,False,False,False,False,False,False,False,False
+437,Sakaki Sushi, 2300 ,False,True,False,False,False,False,False,False,False
+438,Sunset Boulevard, ,False,False,False,False,False,False,False,False,False
+439,Sebastopol, 2200 ,False,False,False,False,True,False,False,False,False
+440,Shahi Restaurant, 1159 ,False,False,False,False,False,False,True,False,False
+441,Restaurant Panorama, 1560 ,False,False,False,False,False,True,False,False,False
+442,Sushi Best, ,False,False,False,False,False,False,False,False,False
+443,China Palace Restaurant, 1606 ,False,False,False,False,False,False,False,False,False
+444,Pizzeria Spigad'oro Italiano Due, 1208 ,True,False,False,False,False,True,False,False,False
+445,B9 Vinbar, 2200 ,False,False,False,False,False,False,False,False,False
+446,Espresso House, 1150 ,False,False,False,False,True,False,False,False,False
+447,Restaurant Lynetten, 1432 ,False,False,False,False,False,False,False,False,False
+448,OL OG Grill, 1051 ,False,False,False,False,False,False,False,False,False
+449,Il Gabbiano, 2100 ,True,False,False,False,False,True,False,False,False
+450,XO Burgers and Steaks, ,False,False,False,False,False,False,False,False,True
+451,Trattoria Italiana, 1154 ,True,False,False,False,False,True,False,False,False
+452,Brasserie du Nord, 1095 ,False,False,False,False,False,False,False,False,False
+453,Kiin Kiin To Go, 2300 ,False,False,False,False,False,False,False,False,False
+454,Condesa Bar & Spiseri, 1061 ,False,False,False,False,False,False,False,False,False
+455,Karma Sushi - Trianglen, 2100 ,False,True,False,False,False,False,False,False,False
+456,The Market Italian, 1105 ,False,False,False,False,False,True,False,False,False
+457,No. 4 Ny Nordisk Tapas & Vinbar, 2200 ,False,False,False,False,False,False,False,False,False
+458,Café Mambo, 1552 ,False,False,False,False,False,False,False,False,False
+459,Nyhavns Hereford House, 1051 ,False,False,False,False,False,False,False,False,False
+460,LêLê Street Kitchen // Fisketorvet, 1560 ,False,False,False,False,False,False,False,False,False
+461,Kösem, 2200 ,False,False,False,False,False,False,False,False,False
+462,Magasasa, 2300 ,False,False,False,False,False,False,False,False,False
+463,Sanchez, 1650 ,False,False,False,False,False,False,False,False,False
+464,Café Trold, 1620 ,False,False,False,False,True,False,False,False,False
+465,Meyers Deli, 1050 ,False,False,False,False,True,False,False,False,False
+466,Senza Nome - Italiansk Restaurant, 1650 ,False,False,False,False,False,True,False,False,False
+467,Flyvergrillen, 2790 ,False,False,False,False,False,False,False,False,False
+468,Cafe No 11, 1250 ,False,False,False,False,True,False,False,False,False
+469,PS Bar & Grill, 1112 ,False,False,False,False,False,False,False,False,False
+470,Cafe Castro, 2200 ,False,False,False,False,True,False,False,False,False
+471,Gorm's Amagerbrogade, 2300 ,True,False,False,False,False,True,False,False,False
+472,Barabbas, 1264 ,False,False,False,False,False,True,False,False,False
+473,Beyti, 2200 ,False,False,False,False,False,False,False,False,False
+474,Noodle House, 1654 ,False,False,False,False,False,False,False,False,False
+475,Mama Ludbas, 1691 ,False,False,False,False,False,True,False,False,False
+476,Ocean Club Restaurant, 2100 ,False,False,False,False,False,False,False,False,False
+477,Sofienholmcafe, 2800 ,False,False,False,False,True,False,False,False,False
+478,Viften, ,False,False,False,False,False,False,False,False,False
+479,Palace Hotel Restaurant, 1550 ,False,False,False,False,False,False,False,False,False
+480,Kashmir Indisk Restaurant, 2100 ,False,False,False,False,False,False,True,False,False
+481,Madklubben Østerbro, 2100 ,False,False,False,False,False,False,False,False,False
+482,Thai restaurant, 1453 ,False,False,False,True,False,False,False,False,False
+483,Kost & Mask, 1438 ,False,False,False,False,False,False,False,False,False
+484,Søcafeen, 1630 ,False,False,False,False,False,False,False,False,False
+485,Bar Jacobsen, 1001 ,False,False,False,False,False,False,False,False,False
+486,Chicks by Chicks, 1620 ,False,False,False,False,False,False,False,False,False
+487,Cafe 8Tallet, 2300 ,False,False,False,False,True,False,False,False,False
+488,Halvandet, 1432 ,False,False,False,False,False,False,False,False,False
+489,Le Poêlon D'or, 1453 ,False,False,False,False,False,False,False,False,False
+490,The South Indian Fields, 2300 ,False,False,False,False,False,False,True,False,False
+491,Kardemomme, 2900 ,False,False,False,False,False,False,True,False,False
+492,Spise\Bar Nr. 20, 2200 ,False,False,False,False,False,False,False,False,False
+493,Bryggeri Skovlyst, 3500 ,False,False,False,False,False,False,False,False,False
+494,Le Basilic, 1656 ,False,False,False,False,False,False,False,False,False
+495,Fish 'n' chips tivoli, ,False,False,True,False,False,False,False,False,False
+496,Dalle Valle Fields, 2300 ,False,False,False,False,False,False,False,False,False
+497,Restaurant G, 1760 ,False,False,False,False,False,False,False,False,False
+498,Liberty Burgers & Grill, 1560 ,False,False,False,False,False,False,False,False,False
+499,Osterbros Originale Burgerrestaurant, 1650 ,False,False,False,False,False,False,False,False,False
+500,Nyhavn 17, 1051 ,False,False,False,False,False,False,False,False,False
+501,Gorm's Fields, 2300 ,True,False,False,False,False,True,False,False,False
+502,Nagoya, 1307 ,False,True,True,False,False,False,False,False,False
+503,Nakorn Thai, 1264 ,False,False,False,True,False,False,False,False,False
+504,King Ya Running Sushi & Wok, 2300 ,False,True,False,False,False,False,False,False,False
+505,Bryggeriet Apollo, 1620 ,False,False,False,False,False,False,False,False,True
+506,Restaurant Flammen København Nyropsgade, 1602 ,False,False,False,False,False,False,False,False,False
+507,Cock's & Cows Ravnsborggade, 2200 ,False,False,False,False,False,False,False,False,False
+508,"Vapiano Frederiksborggade, København", ,True,False,False,False,False,True,False,False,False
+509,Hereford Village, 1459 ,False,False,False,False,False,False,False,False,True
+510,Cafe cyprus, ,False,False,False,False,False,False,False,False,False
+511,Cafe Hoppes, 1201 ,False,False,False,False,False,False,False,False,False
+512,Restaurant Fyrtøjet, 1051 ,False,False,False,False,False,False,False,False,False
+513,Mirabelle, 2200 ,False,False,False,False,False,False,False,False,False
+514,Bistro Kivi, 1652 ,False,False,False,False,False,False,False,False,False
+515,Leonore Christine, 1051 ,False,False,True,False,False,False,False,False,False
+516,Wok On, 1200 ,False,False,False,False,False,False,False,False,False
+517,La Vecchia Italia, 1620 ,True,False,False,False,False,True,False,False,False
+518,"Magasasa, Dim Sum & Cocktails", 1711 ,False,False,False,False,False,False,False,False,False
+519,Ristorante Fabios Paparazzi, 1107 ,False,False,False,False,False,True,False,False,False
+520,Gran Torino Pizza, 2200 ,True,False,False,False,False,True,False,False,False
+521,Cafe Bjorg's, 1552 ,False,False,False,False,True,False,False,False,False
+522,Shakedown, 2000 ,False,False,False,False,False,False,False,False,False
+523,Cafe Zalt, 1208 ,False,False,False,False,False,False,False,False,False
+524,Spicey Kitchen, ,False,False,False,False,False,False,True,False,False
+525,Bazaar, 1302 ,False,False,False,False,False,False,False,False,False
+526,Salt & Pepper, 2300 ,False,False,False,False,False,False,False,False,False
+527,Meyer's Deli, ,False,False,False,False,True,False,False,False,False
+528,Milano Restaurant & Pizzaria, ,True,False,False,False,False,True,False,False,False
+529,The Scottish Pub, 1550 ,False,False,False,False,False,False,False,False,False
+530,L'Anfora, 1123 ,True,False,False,False,False,True,False,False,False
+531,Café Alma, 2300 ,False,False,False,False,True,False,False,False,False
+532,Greasy Spoon, 1455 ,False,False,False,False,False,False,False,False,False
+533,Bombay, 1462 ,False,False,False,False,False,False,True,False,False
+534,Restaurant Porn-Sak, 1700 ,False,False,False,True,False,False,False,False,False
+535,Pixie, ,False,False,False,False,True,False,False,False,False
+536,Barbar Bar, 1620 ,False,False,False,False,True,False,False,False,False
+537,Boulebar Nørregade, 1165 ,False,False,False,False,False,False,False,False,False
+538,Svane Pub, 2100 ,False,False,False,False,False,False,False,False,False
+539,Streckers, 1620 ,False,False,False,False,False,False,False,False,False
+540,Restaurant BARK, 2300 ,False,False,False,False,False,False,False,False,False
+541,Restaurant Els, 1255 ,False,False,False,False,False,False,False,False,False
+542,Cafe Stella, 1208 ,False,False,False,False,True,False,False,False,False
+543,Restaurant Kul, 1712 ,False,False,False,False,False,False,False,False,False
+544,Cafe Taxa, 2200 ,False,False,False,False,True,False,False,False,False
+545,Magasasa street kitchen, 1650 ,False,False,False,False,False,False,False,False,False
+546,Tivoli Biergarten, 1577 ,False,False,False,False,False,False,False,False,False
+547,Café og Restaurant Ofelia, 1250 ,False,False,False,False,False,False,False,False,False
+548,Grand Vue, ,False,False,False,False,False,False,False,False,False
+549,Tribeca NV, 2200 ,True,False,False,False,False,True,False,False,False
+550,cafe viggo, ,False,False,False,False,True,False,False,False,False
+551,Cafe Wanna'B, 1208 ,False,False,False,False,True,False,False,False,False
+552,Wokshop Cantina Take Away, 1104 ,False,False,False,True,False,False,False,False,False
+553,El Tapeo, 1173 ,False,False,False,False,False,False,False,False,False
+554,A Hereford Beefstouw København, 1124 ,False,False,False,False,False,False,False,False,True
+555,Restaurant Klubben, ,False,False,False,False,False,False,False,False,False
+556,Restaurant Sundby Sejlforening, ,False,False,False,False,False,False,False,False,False
+557,TGI Fridays, 1200 ,False,False,False,False,False,False,False,False,False
+558,Cafe 22, 2200 ,False,False,False,False,True,False,False,False,False
+559,Kiin Kiin Bao Bao, 1620 ,False,False,False,False,False,False,False,False,False
+560,Café Espersen, 2791 ,False,False,False,False,True,False,False,False,False
+561,The Ricemarket, 1128 ,False,False,False,True,False,False,False,False,False
+562,Faergekroen Bryghus, ,False,False,False,False,False,False,False,False,False
+563,Cafe Oven Vande, 1415 ,False,False,False,False,True,False,False,False,False
+564,Café Dalle Valle, 1561 ,False,False,False,False,True,False,False,False,False
+565,Restaurant Ankara, 1172 ,False,False,False,False,False,False,False,False,False
+566,LêLê Street Kitchen // Vesterbro, 1620 ,False,False,False,False,False,False,False,False,False
+567,Brdr. Price i Tivoli, 1630 ,False,False,False,False,False,False,False,False,False
+568,Fu Hao, 1652 ,False,False,False,False,False,False,False,False,False
+569,Geist, 1050 ,False,False,False,False,False,False,False,False,False
+570,Ristorante ITALIANO Pompei, 1175 ,True,False,False,False,False,True,False,False,False
+571,Ved Kajen, ,False,False,True,False,False,False,False,False,False
+572,A Hereford Beefstouw Tivoli, 1620 ,False,False,False,False,False,False,False,False,True
+573,the laundromat cafe, 2100 ,False,False,False,False,True,False,False,False,False
+574,Ristorante Vesuvio of Copenhagen, 1550 ,True,False,False,False,False,True,False,False,False
+575,Sea by Kiin Kiin, 1051 ,False,False,False,True,False,False,False,False,False
+576,Tandoori Masala, 1700 ,False,False,False,False,False,False,True,False,False
+577,"Restaurant Paafuglen,Tivoli", 1650 ,False,False,False,False,False,False,False,False,False
+578,Wagamama, 1704 ,False,False,False,False,False,False,False,False,False
+579,L'Altro, 1400 ,False,False,False,False,False,True,False,False,False
+580,Restaurant 108, 1401 ,False,False,False,False,False,False,False,False,False
+581,Blue Elephant Restaurant, 2300 ,False,False,False,True,False,False,False,False,False
+582,Comfort Hotel Vesterbro, 1620 ,False,False,False,False,False,False,False,False,False
+583,Vesterbro Brewery (Burgers and Brewhouse), ,False,False,False,False,False,False,False,False,False
+584,Mother, V ,True,False,False,False,False,True,False,False,False
+585,Skipperkroen, 1051 ,False,False,True,False,False,False,False,False,False
+586,Zirup, 1201 ,False,False,False,False,False,False,False,False,False
+587,Rossopomodoro Illum, 1001 ,True,False,False,False,False,True,False,False,False
+588,pizzeria Venezia Nyhavn 31, 1051 ,True,False,False,False,False,True,False,False,False
+589,Cafe Europa 1989, ,False,False,False,False,True,False,False,False,False
+590,Midtown Grill, 1560 ,False,False,False,False,False,False,False,False,False
+591,McJoy's Choice, 1051 ,False,False,False,False,False,False,False,False,False
+592,Restaurant Nyhavn C, 1051 ,False,False,False,False,False,False,False,False,False
+593,Carlton, 1700 ,False,False,False,False,False,False,False,False,False
+594,Bøf & Ost, 1154 ,False,False,False,False,False,False,False,False,False
+595,Manfreds, 2200 ,False,False,False,False,False,False,False,False,False
+596,Restaurant Frascati, 1620 ,True,False,False,False,False,True,False,False,False
+597,The Dubliner, 1160 ,False,False,False,False,False,False,False,False,False
+598,Samos, 1159 ,False,False,False,False,False,False,False,False,False
+599,Ankara, 1620 ,False,False,False,False,False,False,False,False,False
+600,Gorm's Nyhavn, 1051 ,True,False,False,False,False,True,False,False,False
+601,Astor Deep Pan Pizza, 1620 ,True,False,False,False,False,True,False,False,False
+602,Tapas Huset, 1608 ,False,False,False,False,False,False,False,False,False
+603,Hard Rock Cafe København, 1550 ,False,False,False,False,False,False,False,False,False
+604,The Italian, ,True,False,False,False,False,True,False,False,False
+605,Restaurant Galionen, K 1051 ,False,False,True,False,False,False,False,False,False
+606,Cafe G, ,False,False,False,False,True,False,False,False,False
+607,Nytorv Restaurant and Cafe, ,False,False,False,False,False,False,False,False,False
+608,Restaurant LêLê, 1620 ,False,False,False,False,False,False,False,False,False
+609,Jensens Bøfhus København (Vesterbrogade), 1620 ,False,False,False,False,False,False,False,False,True
+610,Sweet Giulia, 1850 ,False,False,False,False,False,True,False,False,False
+611,Min Sandwich, 2000 ,False,False,False,False,False,False,False,False,False
+612,Palæo Frederiksberg Center, 2000 ,False,False,False,False,False,False,False,False,False
+613,Okawari Sushi, 2000 ,False,True,False,False,False,False,False,False,False
+614,El Guanche, 2000 ,False,False,False,False,False,False,False,False,False
+615,Maesk, 2000 ,False,False,False,False,False,False,False,False,False
+616,Restaurant Folk, 2000 ,False,False,False,False,False,False,False,False,False
+617,Ipanema Café, 1900 ,False,False,False,False,False,False,False,False,False
+618,Emmerys, 2000 ,False,False,False,False,False,False,False,False,False
+619,Wokbaren Spicylicious, 2000 ,False,False,False,False,False,False,False,False,False
+620,La Liberta, 2000 ,False,False,False,False,True,True,False,False,False
+621,THAIAWAY, 2000 ,False,False,False,True,False,False,False,False,False
+622,Thai Gourmet Takeaway, 2000 ,False,False,False,True,False,False,False,False,False
+623,Teppan House ApS, 2000 ,False,True,False,False,False,False,False,False,False
+624,A San Sushi, 2000 ,False,False,False,False,False,False,False,False,False
+625,Burgerklubben, 2000 ,False,False,False,False,False,False,False,False,False
+626,LETZ SUSHI FREDERIKSBERG, 2000 ,False,True,False,False,False,False,False,False,False
+627,Café La Tètè, 2000 ,False,False,False,False,False,False,False,False,False
+628,Café Tænk, 1820 ,False,False,False,False,True,False,False,False,False
+629,MyPoké, 1850 ,False,False,False,False,False,False,False,False,False
+630,Overfor, 1970 ,False,False,False,False,True,False,False,False,False
+631,Joe & the Juice, 2770 ,False,False,False,False,True,False,False,False,False
+632,Domo Restaurant, 1910 ,False,False,False,False,False,False,False,False,False
+633,Wokshop Cantina Frederiksberg, 1850 ,False,False,False,True,False,False,False,False,False
+634,Nyu Sakura, 1879 ,False,True,False,False,False,False,False,False,False
+635,Holm's Café, 2000 ,False,False,False,False,True,False,False,False,False
+636,Cortigiano, 2000 ,False,False,False,False,False,True,False,False,False
+637,VIET - NAM NAM, 2000 ,False,False,False,False,False,False,False,False,False
+638,Bronx, 2000 ,False,False,False,False,False,False,False,False,False
+639,Meyer's deli, ,False,False,False,False,True,False,False,False,False
+640,Karmaman, 1820 ,False,False,False,False,False,False,False,False,False
+641,Promenaden 1932, 1820 ,False,False,False,False,True,False,False,False,False
+642,Cafe Moccador, 2000 ,False,False,False,False,False,False,False,False,False
+643,Chai Wong, 1871 ,False,False,False,True,False,False,False,False,False
+644,Wagamama, 2000 ,False,False,False,False,False,False,False,False,False
+645,Chun bo, 1960 ,False,True,False,False,False,False,False,False,False
+646,La Vecchia Gastronomia Italiana, 2000 ,True,False,False,False,False,True,False,False,False
+647,Allegade 10, 2000 ,False,False,False,False,False,False,False,False,False
+648,Atletica, 1453 ,False,False,False,False,False,True,False,False,False
+649,Nena's, ,False,False,False,False,False,False,False,False,False
+650,Lounge V120, ,False,False,False,False,False,False,False,False,False
+651,Malta Cafeteria Og Selskabslokaler, 2300 ,False,False,False,False,False,False,False,False,False
+652,Olsen, ,False,False,False,False,False,False,False,False,False
+653,Sushi Time, 2400 ,False,True,False,False,False,False,False,False,False
+654,Kaffebaren Soender Boulevard 68, 1720 ,False,False,False,False,True,False,False,False,False
+655,Rosenborggade, ,False,False,False,False,False,False,False,False,False
+656,The Green Corner, 1561 ,False,False,False,False,False,False,False,False,False
+657,Det go'e Smørrebrød, ,False,False,False,False,False,False,False,False,False
+658,Julios Pizze Cucina (Marios Express Pizza), 2300 ,False,False,False,False,False,False,False,False,False
+659,Bellmans café, 2100 ,False,False,False,False,False,False,False,False,False
+660,Styrmanden Cafe-Restaurant, 1058 ,False,False,False,False,False,False,False,False,False
+661,Café La Grotte, 1460 ,False,False,False,False,False,False,False,False,False
+662,Teglholmens-Cafe, 2450 ,False,False,False,False,False,False,False,False,False
+663,Cafe Betty Aps, 2450 ,False,False,False,False,False,False,False,False,False
+664,Kebab Street kitchen, ,False,False,False,False,False,False,False,False,False
+665,Orientalsk Steak House, ,True,False,False,False,False,False,False,False,False
+666,Mozarts grill, 2450 ,False,False,False,True,False,False,False,False,False
+667,Hunkar Restaurant, 2600 ,False,False,False,False,False,False,False,False,False
+668,Riccos Kaffebar, 2100 ,False,False,False,False,False,False,False,False,False
+669,Antico Forno a Legna, 2720 ,False,False,False,False,False,False,False,False,False
+670,Güllüoglu, 2620 ,False,False,False,False,False,False,False,False,False
+671,Stuen 11, ,False,False,False,False,False,False,False,False,False
+672,Cafe Palads, 1609 ,False,False,False,False,False,False,False,False,False
+673,Radhusstræde BAGEL & SALATBAR, 1466 ,False,False,False,False,False,False,False,False,False
+674,Cafe Arcade, 2100 ,False,False,False,False,False,False,False,False,False
+675,Cafe Paris, ,False,False,False,False,True,False,False,False,False
+676,Il Borgo, 1650 ,False,False,False,False,False,False,False,False,False
+677,Isklubben CPH, 1264 ,False,False,False,False,False,False,False,False,False
+678,Bryggen11, 2300 ,False,False,False,False,False,False,False,False,False
+679,Kopan Street, 1362 ,False,False,False,False,False,False,False,False,False
+680,Greta's, 2200 ,False,False,False,False,False,False,False,False,False
+681,Ristorante & Pizzeria Il Rustico, 1175 ,False,False,False,False,False,True,False,False,False
+682,Cafe T, 2300 ,False,False,False,False,False,False,False,False,False
+683,Darling, ,False,False,False,False,False,False,False,False,False
+684,VinBaren i Stefansgade, 2200 ,False,False,False,False,False,False,False,False,False
+685,Ehlers Bageri, 2100 ,False,False,False,False,False,False,False,False,False
+686,Fovl, ,False,False,False,False,True,False,False,False,False
+687,Rossopomodoro, 1001 ,False,False,False,False,False,False,False,False,False
+688,Cafe Midtown Bar, 1358 ,False,False,False,False,True,False,False,False,False
+689,Joe & The Juice, 1051 ,False,False,False,False,False,False,False,False,False
+690,Passion Pizza, 2200 ,False,False,False,False,False,True,False,False,False
+691,Kantina, 2100 ,False,False,False,False,False,False,False,False,False
+692,Havnegade Fiskehandel, 1058 ,False,False,False,False,False,False,False,False,False
+693,Hugo's Pizzaria, 2300 ,True,False,False,False,False,False,False,False,False
+694,Enigma Kantina, 2100 ,False,False,False,False,False,False,False,False,False
+695,Curry Club, 1420 ,False,False,False,False,False,False,True,False,False
+696,Vietnam House, ,False,False,False,False,False,False,False,False,False
+697,7-Eleven, ,False,False,False,False,False,False,False,False,False
+698,Kababji Grill, 1650 ,False,False,False,False,False,False,False,False,False
+699,Nordisk Brodhus, 2200 ,False,False,False,False,False,False,False,False,False
+700,Galaxe Pizza Bar, 1360 ,False,False,False,False,False,False,False,False,False
+701,Fala Fala, 1436 ,False,False,False,False,False,False,False,False,False
+702,YOmmi Frozen Yogurt, 1175 ,False,False,False,False,False,False,False,False,False
+703,Brazaria, ,False,False,False,False,False,False,False,False,False
+704,Harbo Bar, 2200 ,False,False,False,False,False,False,False,False,False
+705,Den Franske Bogcafe, 1171 ,False,False,False,False,False,False,False,False,False
+706,Ristorante La Porchetta, 1721 ,False,False,False,False,False,True,False,False,False
+707,Efess Pizza Bar, 2200 ,False,False,False,False,False,False,False,False,False
+708,Cafe Stærkodder, 1414 ,False,False,False,False,False,False,False,False,False
+709,La Mensa Di Benito, 1721 ,False,False,False,False,False,False,False,False,False
+710,Baker's Juice Cafe, 1634 ,False,False,False,False,False,False,False,False,False
+711,Italiensk Gastronomi Da Giovanni, 2860 ,False,False,False,False,False,False,False,False,False
+712,Cuisine Et Florie, 2500 ,False,False,False,False,True,False,False,False,False
+713,Tap10, 2100 ,False,False,False,False,False,False,False,False,False
+714,Cafe Amokka, 1363 ,False,False,False,False,True,False,False,False,False
+715,Form Bar, 1250 ,False,False,False,False,False,False,False,False,False
+716,Vingaarden - Enoteca E Pizzeria, 1070 ,False,False,False,False,False,True,False,False,False
+717,Eclipse, ,False,False,False,False,False,False,False,False,False
+718,Tasty Fresh Food, 2300 ,True,False,False,False,False,False,False,False,False
+719,Tempo, 1250 ,False,False,False,False,False,False,False,False,False
+720,Gastronetten, 2200 ,False,False,False,False,False,False,False,False,False
+721,Sorte Firkant, ,False,False,False,False,False,False,False,False,False
+722,Resturant Baglokalet, 2300 ,False,False,False,False,False,False,True,False,False
+723,Nr. 30, 1366 ,False,False,True,False,False,False,False,False,False
+724,Sweet Valentine, 1361 ,False,False,False,False,False,False,False,False,False
+725,Mahalle, 2200 ,False,False,False,False,False,False,False,False,False
+726,Sushi Station, 2720 ,False,True,False,False,False,False,False,False,False
+727,Damhuskanten, ,False,False,False,False,False,False,False,False,False
+728,Favorit Baklavici, 2400 ,False,False,False,False,False,False,False,False,False
+729,Østergro, 2100 ,False,False,False,False,False,False,False,False,False
+730,Botanisk Haves Café, 1353 ,False,False,False,False,False,True,False,False,False
+731,Green Buddha, 2200 ,False,False,False,True,False,False,False,False,False
+732,Mille's Minis, 2450 ,False,False,False,False,False,False,False,False,False
+733,Phailin Thai Kitchen, 1955 ,False,False,False,True,False,False,False,False,False
+734,Zorro Pizza, 2400 ,False,False,False,False,False,True,False,False,False
+735,La Centrale, 2200 ,False,False,False,False,False,False,False,False,False
+736,Rohan Indian Restaurant, 1750 ,False,False,False,False,False,False,True,False,False
+737,Cafe Georg, 1620 ,False,False,False,False,False,False,False,False,False
+738,Quatru Fontane, 2200 ,False,False,False,False,False,False,False,False,False
+739,Joe & The Juice, 1069 ,False,False,False,False,False,False,False,False,False
+740,Restaurant TOLV, 1670 ,False,False,False,False,False,False,False,False,False
+741,Cafe Cheftali, 2300 ,False,False,False,False,True,False,False,False,False
+742,Cafe Bjerget, 2400 ,False,False,False,False,False,False,False,False,False
+743,Nordisk Brod, 2300 ,False,False,False,False,False,False,False,False,False
+744,Samosa House, 2400 ,False,False,False,False,False,False,False,False,False
+745,Sjus Bar, ,False,False,False,False,False,False,False,False,False
+746,Reinh. van Hauen Nordre Frihavnsgade, 2100 ,False,False,False,False,False,False,False,False,False
+747,PancakeQueen, 1256 ,False,False,False,False,False,False,False,False,False
+748,Cafe Månefiskeren, 1407 ,False,False,False,False,False,False,False,False,False
+749,Sandwich Pigen, 1159 ,False,False,False,False,False,False,False,False,False
+750,KaffeLaden, 2100 ,False,False,False,False,False,False,False,False,False
+751,Joe & the Juice, 1620 ,False,False,False,False,False,False,False,False,False
+752,Kaffestuen, 2100 ,False,False,False,False,False,False,False,False,False
+753,Dilis, 1760 ,False,False,False,False,False,False,False,False,False
+754,Hos Slagteren, ,False,False,False,False,False,False,False,False,False
+755,Sikhiu Thai Restaurant, 1879 ,False,False,False,False,False,False,False,False,False
+756,Da Misto, 2300 ,False,False,False,False,False,True,False,False,False
+757,Joe & the Juice, 1630 ,False,False,False,False,False,False,False,False,False
+758,Lygtens Kro, 2400 ,False,False,False,False,False,False,False,False,False
+759,restaurant Promenaden, ,False,False,False,False,False,False,False,False,False
+760,Nittiya's Thai Takeaway, ,False,False,False,False,False,False,False,False,False
+761,Thai House Take Away, 2300 ,False,False,False,True,False,False,False,False,False
+762,The Real Greek Reffen, 1432 ,False,False,False,False,False,False,False,False,False
+763,Havnens BBQ, 1400 ,False,False,False,False,False,False,False,False,False
+764,Frede & Vester's, ,False,False,False,False,False,False,False,False,False
+765,The Burger Amager, 2300 ,False,False,False,False,False,False,False,False,False
+766,Veji, 2200 ,False,False,False,False,True,False,False,False,False
+767,Jagger, 2200 ,False,False,False,False,False,False,False,False,False
+768,Kafferiet Christianshavn, 1408 ,False,False,False,False,False,False,False,False,False
+769,Sakura, ,False,False,False,False,False,False,False,False,False
+770,Tutten, 2450 ,False,False,False,False,False,False,False,False,False
+771,Pizzeria Kanalen, 1420 ,False,False,False,False,False,False,False,False,False
+772,Nino’s pizzaria, ,False,False,False,False,False,True,False,False,False
+773,Grabrodre Kro, 1154 ,False,False,False,False,False,False,False,False,False
+774,Restaurant China Garden, 2860 ,False,False,False,False,False,False,False,False,False
+775,Vi Mødtes Gennem Ruden, 2200 ,False,False,False,False,False,False,False,False,False
+776,M, 1264 ,False,False,False,False,False,False,False,False,False
+777,Naked Fish, ,False,False,False,False,False,False,False,False,False
+778,Isola di Lampedusa, 2100 ,False,False,False,False,False,True,False,False,False
+779,Miklagaard Pizza and Pasta, 2400 ,False,False,False,False,False,True,False,False,False
+780,The Corner, 1401 ,False,False,False,False,False,False,False,False,False
+781,Cafe Grabz, 1208 ,False,False,False,False,False,False,False,False,False
+782,Thai Kacha, ,False,False,False,True,False,False,False,False,False
+783,Nikko Sushi, ,False,True,False,False,False,False,False,False,False
+784,Gasoline Grill, 1612 ,False,False,False,False,False,False,False,False,False
+785,Dupong, 2200 ,False,False,False,False,False,False,False,False,False
+786,Massimo - Italiensk Pizzeria, ,True,False,False,False,False,True,False,False,False
+787,Thai me up, 2200 ,False,False,False,False,False,False,False,False,False
+788,Restaurant G, 1600 ,False,False,False,False,False,False,False,False,False
+789,Tino's Pizza, ,False,False,False,False,False,False,False,False,False
+790,Café du Nord, 1650 ,False,False,False,False,False,False,False,False,False
+791,Kaffebaren, 1650 ,False,False,False,False,False,False,False,False,False
+792,The Mudhoney, ,False,False,False,False,False,False,False,False,False
+793,Brasserie Jacobsen ILLUM ROOFTOP, 1100 ,False,False,False,False,False,False,False,False,False
+794,Nozomi, 1264 ,False,True,False,False,False,False,False,False,False
+795,Sund Sult, 2200 ,False,False,False,False,False,False,False,False,False
+796,Floras kaffebar, ,False,False,False,False,False,False,False,False,False
+797,Top Brewer, ,False,False,False,False,True,False,False,False,False
+798,Jasmin Rice, 2300 ,False,False,False,False,False,False,False,False,False
+799,dællekatessen, 1107 ,False,False,False,False,False,False,False,False,False
+800,Charlottenborg Cafe, ,False,False,False,False,True,False,False,False,False
+801,Jailhouse Restaurant, 1455 ,False,False,False,False,False,False,False,False,False
+802,Cafe Oslo Plads, 2100 ,False,False,False,False,False,False,False,False,False
+803,1 DUANG JAI - Thai Restaurant, 2100 ,False,False,False,True,False,False,False,False,False
+804,Mæxico, 2200 ,False,False,False,False,False,False,False,False,False
+805,Sukuri Sushi, 2450 ,False,True,False,False,False,False,False,False,False
+806,Mamma Mokka extra, 1620 ,False,False,False,False,True,False,False,False,False
+807,Bryggen 89, 1561 ,False,False,False,False,False,False,False,False,True
+808,Bodega 54 V/Andreas Pfeif, ,False,False,False,False,False,False,False,False,False
+809,Ditto, ,False,False,False,False,False,False,False,False,False
+810,Nordisk Falafel, 2100 ,False,False,False,False,False,False,False,False,False
+811,Iki Sushi Ndr. Frihavnsgade, 2100 ,False,True,True,False,False,False,False,False,False
+812,Retreat, 1360 ,False,False,False,False,True,False,False,False,False
+813,Ristorante Uno, ,False,False,False,False,False,True,False,False,False
+814,Restaurant Sejlklubben Frem, 2100 ,False,False,False,False,False,False,False,False,False
+815,Thaiaway, 2000 ,False,False,False,True,False,False,False,False,False
+816,Jacobsen, 2930 ,False,False,False,False,False,False,False,False,False
+817,Royal Bagel Copenhagen, 1206 K ,False,False,False,False,True,False,False,False,False
+818,Asmara, 2200 ,False,False,False,False,False,False,False,False,False
+819,Dragon City og Toyama Running Sushi, 2200 ,False,False,False,False,False,False,False,False,False
+820,Wulff & Konstali, 2200 ,False,False,False,False,True,False,False,False,False
+821,Ruffino, 1402 ,False,False,False,False,False,False,False,False,False
+822,Blue House, ,False,False,False,False,False,False,False,False,False
+823,hing's sushi, 1620 ,False,True,False,False,False,False,False,False,False
+824,Kaffeplantagen, 1670 ,False,False,False,False,False,False,False,False,False
+825,Chaophraya, 2720 ,False,False,False,False,False,False,False,False,False
+826,Chin Chin, 2200 ,False,False,False,True,False,False,False,False,False
+827,Crazy Chicken, 2100 ,False,False,False,False,False,False,False,False,False
+828,Nam Thip Restaurant, 1655 ,False,False,False,True,False,False,False,False,False
+829,Izumi, 2100 ,False,True,False,False,False,False,False,False,False
+830,Piccola Italia, 2300 ,False,False,False,False,False,True,False,False,False
+831,Pret a Manger, 2770 ,False,False,False,False,False,False,False,False,False
+832,Namaste Nepal, 2200 ,False,False,False,False,False,False,True,False,False
+833,Mad & Vin i Magasin, ,False,False,False,False,False,False,False,False,False
+834,a roii, ,False,False,False,True,False,False,False,False,False
+835,Lagano, 1302 ,False,False,False,False,False,True,False,False,False
+836,DEJ, 1700 ,False,False,False,False,False,True,False,False,False
+837,Café Sweet Surrender, 1721 ,False,False,False,False,False,False,False,False,False
+838,Løgismose Illum Rooftop, 1259 ,False,False,False,False,False,False,False,False,False
+839,Bojesen i Operaen, 1438 ,False,False,False,False,False,False,False,False,False
+840,MØR Restaurant & Bar, 1717 ,False,False,False,False,False,False,False,False,False
+841,Kuma, 2200 ,False,False,False,False,False,False,False,False,False
+842,Hos Nicola, ,True,False,False,False,False,True,False,False,False
+843,Clarrods & Co, 1255 ,False,False,False,False,False,False,False,False,False
+844,Hanzo, 1619 ,False,False,False,False,False,False,False,False,False
+845,SKT. PETRI Restaurant, 1172 ,True,False,False,False,False,False,False,False,False
+846,Kontikibar og Færgen Ellen, 1437 ,False,False,False,False,False,False,False,False,False
+847,Safir kebab, ,False,False,False,False,False,False,False,False,False
+848,Vaffelbageriet, ,False,False,False,False,False,False,False,False,False
+849,Oyisi Running Sushi, 2300 ,False,True,False,False,False,False,False,False,False
+850,Kongens Bar, 1104 ,False,False,False,False,False,False,False,False,False
+851,Din Nye Ven, 1453 ,False,False,False,False,False,False,False,False,False
+852,Sliders, 1670 ,False,False,False,False,False,False,False,False,False
+853,Yoburger, 1123 ,False,False,False,False,False,False,False,False,False
+854,Osteria del Grappolo Blu, 1606 ,False,False,False,False,False,True,False,False,False
+855,La Valenciana - Latin & Spanish Cuisine, 1360 ,False,False,False,False,False,False,False,False,False
+856,Copenhagen Smørrebrød, 1209 ,False,False,False,False,False,False,False,False,False
+857,The Bagel Co, 1001 ,False,False,False,False,False,False,False,False,False
+858,Restauranten i Koncerthuset, 2300 ,False,False,False,False,False,False,False,False,False
+859,Cava Bar Mar y Montana, 1068 ,False,False,False,False,False,False,False,False,False
+860,Pasteur, 2100 ,False,False,False,False,False,False,False,False,False
+861,Iluka, 1054 ,False,False,True,False,False,False,False,False,False
+862,Brønnum, 1055 ,False,False,False,False,False,False,False,False,False
+863,Dahl & Dahl, 1302 ,False,False,False,False,False,False,False,False,False
+864,Iki Sushi, ,False,False,False,False,False,False,False,False,False
+865,Cafe Sirius, 2400 ,False,False,False,False,False,False,False,False,False
+866,Normandie, 1059 ,False,False,False,False,False,False,False,False,False
+867,Lagkagehuset, 1360 ,False,False,False,False,False,False,False,False,False
+868,The Mad Hatter Bubble Tea Emporium, 2200 ,False,False,False,False,True,False,False,False,False
+869,Fontana Di Trevi, 1620 ,True,False,False,False,False,True,False,False,False
+870,Café Vivaldi - Amagerbrogade, 2300 ,False,False,False,False,True,False,False,False,True
+871,Gourmet street food n' soup, 1107 ,False,False,False,False,False,False,False,False,False
+872,Andre Citroen, ,False,False,False,False,False,False,False,False,False
+873,L'appetit, ,False,False,False,False,False,False,False,False,False
+874,Restaurant Kreta, 2720 ,False,False,False,False,False,False,False,False,False
+875,Meyers Bageri Store Kongensgade, 1264 ,False,False,False,False,False,False,False,False,False
+876,Café René, 1609 ,False,False,False,False,True,True,False,False,False
+877,Lanes and Louges, ,False,False,False,False,False,False,False,False,False
+878,Restaurant Oranje, 1051 ,False,False,True,False,False,False,False,False,False
+879,Bistro Central, 1101 ,False,False,False,False,False,False,False,False,False
+880,Hyggestund, 1655 ,False,False,False,False,True,False,False,False,False
+881,Spisehuset rub og stub, ,False,False,False,False,False,False,False,False,False
+882,Food club, ,False,False,False,False,False,False,False,False,False
+883,Sushi Saiko, 1400 ,False,True,False,False,False,False,False,False,False
+884,Galathea Kroen, 1466 ,False,False,False,False,False,False,False,False,False
+885,Pizzeria 54, ,False,False,False,False,False,True,False,False,False
+886,Brasserie Storm, 2300 ,False,False,False,False,False,False,False,False,False
+887,Stefanos Pizza, 2200 ,True,False,False,False,False,True,False,False,False
+888,Fresh Sushi, 2300 ,False,True,False,False,False,False,False,False,False
+889,Værge Caféen, 1401 ,False,False,False,False,False,False,False,False,False
+890,Holms Bager, ,False,False,False,False,True,False,False,False,False
+891,Restaurant Zafran, ,False,False,False,False,False,False,False,False,False
+892,Tramonto Rooftop Italian Cuisine & bar, 1799 ,False,False,False,False,False,True,False,False,False
+893,Café Baaden, 2300 ,False,False,False,False,True,False,False,False,False
+894,Leo’s Pizza, 1620 ,False,False,False,False,False,True,False,False,False
+895,Restaurant Paustian, 2100 ,False,False,False,False,False,False,False,False,False
+896,Hallernes Smørrebrød, 1050 ,False,False,False,False,True,False,False,False,False
+897,Da Nino e Franco, ,True,False,False,False,False,True,False,False,False
+898,Tino’s Pizzeria, ,True,False,False,False,False,True,False,False,False
+899,Pub og Sport, 1552 ,False,False,False,False,False,False,False,False,False
+900,Mahalle Cph, 2200 ,False,False,False,False,False,False,False,False,False
+901,Cafe Phenix, 1620 ,False,False,False,False,True,False,False,False,False
+902,Kind of Blue, 2200 ,False,False,False,False,False,False,False,False,False
+903,Taste of Thai, 1300 ,False,False,False,True,False,False,False,False,False
+904,Sofiekaelderen Copenhagen, ,False,False,False,False,False,False,False,False,False
+905,The Laundromat Cafe, 1850 ,False,False,False,False,True,False,False,False,False
+906,Spicylicious, 1650 ,False,False,False,True,False,False,False,False,False
+907,Plenum, 2200 ,False,False,False,False,False,False,False,False,False
+908,Gorm's i Tivoli, 1755 ,True,False,False,False,False,True,False,False,False
+909,El Chavo Mexicano, 2720 ,False,False,False,False,False,False,False,False,False
+910,Madklubben Nørrebro, 2200 ,False,False,False,False,False,False,False,False,False
+911,Taste - house of cascabel, ,False,False,False,False,False,False,False,False,False
+912,Bevi Bevi, 1726 ,False,False,False,False,False,True,False,False,False
+913,Gro Spiseri, 2100 ,False,False,False,False,False,False,False,False,False
+914,Pier 5, 1560 ,False,False,False,False,False,False,False,False,False
+915,Aroiidee, 2200 ,False,False,False,True,False,False,False,False,False
+916,Woowok, 2200 ,False,False,False,True,False,False,False,False,False
+917,Hija De Sanchez, 1363 ,False,False,False,False,False,False,False,False,False
+918,Issa, 1615 ,False,False,False,False,False,False,False,False,False
+919,Steak & Thai Restaurant, 1307 ,False,False,False,True,False,False,False,False,False
+920,Himalaya Restaurant, 1052 ,False,False,False,False,False,False,False,False,False
+921,Wagamama, 1630 ,False,False,False,False,False,False,False,False,False
+922,Klint - Designmuseets Cafe, 1260 ,False,False,False,False,True,False,False,False,False
+923,Restaurant Romarin, 2100 ,False,False,False,False,False,False,False,False,False
+924,The a la menthe, 1469 ,False,False,False,False,True,False,False,False,False
+925,Restaurant Smör, 1471 ,False,False,False,False,False,False,False,False,False
+926,Toscana Due Italiensk Pizza, 2300 ,True,False,False,False,False,True,False,False,False
+927,Silom Restaurant, 2100 ,False,False,False,False,False,False,False,False,False
+928,Mangia Bar & Ristorante, 1610 ,False,False,False,False,False,True,False,False,False
+929,P2 by Maleck, 2200 ,False,False,False,False,False,False,False,False,False
+930,Ranee's, ,False,False,False,True,False,False,False,False,False
+931,Takii Sushi, 2200 ,False,True,True,False,False,False,False,False,False
+932,Watami, 2820 ,False,True,False,False,False,False,False,False,False
+933,Mahalle Cph, 1366 ,False,False,False,False,False,False,False,False,False
+934,Toga Vinstue, 1073 ,False,False,False,False,False,False,False,False,False
+935,Mission Cph, 1058 ,False,False,False,False,False,False,False,False,False
+936,Wannisa, ,False,False,False,False,False,False,False,False,False
+937,Thai Asien Take Away, 1053 ,False,False,False,True,False,False,False,False,False
+938,Miklagaard Café & Steakhouse, 2400 ,False,False,False,False,False,False,False,False,False
+939,1. th, 1052 ,False,False,False,False,False,False,False,False,False
+940,Ancestrale, 1663 ,False,False,False,False,False,False,False,False,False
+941,Rugantino, 2860 ,False,False,False,False,False,True,False,False,False
+942,Cafe Høegs, 1674 ,False,False,False,False,True,False,False,False,False
+943,Good Morning Vietnam, ,False,False,False,False,False,False,False,False,False
+944,Empire Copenhagen, 1608 ,False,False,False,False,False,False,False,False,False
+945,The First Lady, ,False,False,False,False,False,False,False,False,False
+946,Søpromenaden, ,False,False,False,False,False,False,False,False,False
+947,Il Locale Italian Craft Beer, 2200 ,False,False,False,False,False,True,False,False,False
+948,Soernes Olbar, ,False,False,False,False,False,False,False,False,False
+949,Restaurant Ilden København, 1553 ,False,False,False,False,False,False,False,False,True
+950,Cicchetti, 2200 ,False,False,False,False,False,True,False,False,False
+951,Plaza Grill, ,False,False,False,False,False,False,False,False,False
+952,Den Vandrette, 1058 ,False,False,False,False,False,False,False,False,False
+953,Sapore D´Italia, 2200 ,True,False,False,False,False,True,False,False,False
+954,La Banchina, 1432 ,False,False,False,False,False,False,False,False,False
+955,Berlin Bar, 1850 ,False,False,False,False,False,False,False,False,False
+956,The Grill, 1601 ,False,False,False,False,False,False,False,False,False
+957,Cava Bar, 1061 ,False,False,False,False,False,False,False,False,False
+958,Moose Bar, 1118 ,False,False,False,False,False,False,False,False,False
+959,Restaurant Vandvid, 2450 ,False,False,False,False,False,False,False,False,False
+960,Kasai sushi, 2300 ,False,False,False,False,False,False,False,False,False
+961,Okko, 1201 ,False,False,False,False,True,False,False,False,False
+962,Otto's, 2100 ,False,False,False,False,False,False,False,False,False
+963,Cafe Fata'Morgana, 2200 ,False,False,False,False,True,False,False,False,False
+964,Hos Fischer, 2100 ,False,False,False,False,False,True,False,False,False
+965,Oki Sushi, 2400 ,False,True,False,False,False,False,False,False,False
+966,Leifs Pizzeria, 2200 ,True,False,False,False,False,True,False,False,False
+967,Ayuttaya, 2200 ,False,False,False,True,False,False,False,False,False
+968,Be Steak, 1100 ,False,False,False,False,False,False,False,False,True
+969,Boutique Fisk, 1360 ,False,False,False,False,False,False,False,False,False
+970,Restaurant Tokyo, 1620 ,False,True,False,False,False,False,False,False,False
+971,LETZ SUSHI CHRISTIANSHAVN, 1411 ,False,True,False,False,False,False,False,False,False
+972,Halifax Amager, 2300 ,False,False,False,False,False,False,False,False,False
+973,Restaurant Rimini, 2300 ,True,False,False,False,False,True,False,False,False
+974,Restaurant Flakfortet, ,False,False,False,False,False,False,False,False,False
+975,PMY, 1055 ,False,False,False,False,False,False,False,False,False
+976,Frederik VI, ,False,False,False,False,False,False,False,False,False
+977,The Modern, 1250 ,False,False,False,False,False,False,False,False,False
+978,Casa d'Antino, ,False,False,False,False,False,True,False,False,False
+979,Cock's & Cows Østerbro, 2100 ,False,False,False,False,False,False,False,False,False
+980,O'learys Mayfair, 1650 ,False,False,False,False,False,False,False,False,False
+981,Sticks'n'Sushi, 2300 ,False,True,True,False,False,False,False,False,False
+982,Mado Copenhagen, 1620 ,False,False,False,False,True,False,False,False,False
+983,Tandoori Masala, 2200 ,False,False,False,False,False,False,True,False,False
+984,Charlottehaven, 2100 ,False,False,False,False,False,False,False,False,False
+985,Madsalen, 1467 ,False,False,False,False,False,False,False,False,False
+986,Quattro Fontane Italiensk Restaurant, 2200 ,True,False,False,False,False,True,False,False,False
+987,Rabes Have, 1411 ,False,False,False,False,False,False,False,False,False
+988,Ristorante San Giorgio, 1130 ,False,False,False,False,False,True,False,False,False
+989,Grillen Amagerbro, 2300 ,False,False,False,False,False,False,False,False,False
+990,Bakaliko Greek-Deli, 1171 ,False,False,False,False,False,False,False,False,False
+991,Ahaaa Det Arabiske Madhus, 2200 ,False,False,False,False,False,False,False,False,False
+992,Nyhavn 14, ,True,False,False,False,False,True,False,False,False
+993,Restaurant Kaptajn, 2200 ,False,False,False,False,False,False,False,False,False
+994,Provins, 2200 ,False,False,False,False,False,False,False,False,False
+995,Gao Dumpling Bar, ,False,False,False,False,False,False,False,False,False
+996,Beau Marche, 1101 ,False,False,False,False,True,False,False,False,False
+997,Otto, 1264 ,False,False,False,False,False,False,False,False,False
+998,Royal Garden, 1302 ,False,False,False,False,False,False,False,False,False
+999,Green Mango, 1400 ,False,False,False,True,False,False,False,False,False
+1000,Sachi Sushi - Borgergade, 1300 ,False,True,False,False,False,False,False,False,False
+1001,Apollo Bar, ,False,False,False,False,True,False,False,False,False
+1002,Deep, ,False,False,False,False,False,False,True,False,False
+1003,Thai Corner, 1650 ,False,False,False,True,False,False,False,False,False
+1004,Grillen Burgerbar, 1620 ,False,False,False,False,False,False,False,False,False
+1005,Trattoria Campo De Fiori, 2870 ,False,False,False,False,False,True,False,False,False
+1006,Taormina, 2100 ,False,False,False,False,False,True,False,False,False
+1007,Madklubben Frederiksberg, 2000 ,False,False,False,False,False,False,False,False,False
+1008,Bone's Restaurant (Amagerbrogade), 2300 ,False,False,False,False,False,False,False,False,True
+1009,Retaurant Miga, ,False,False,False,False,False,False,False,False,False
+1010,The Harbour, 1560 ,False,False,False,False,False,False,False,False,False
+1011,Jah Izakaya & Sake Bar, 1656 ,False,False,False,False,False,False,False,False,False
+1012,La Fabrica, 2200 ,False,False,False,False,False,False,False,False,False
+1013,Restaurant Ankara, 1620 ,False,False,False,False,False,False,False,False,False
+1014,La Lua, 2400 ,False,False,False,False,False,False,False,False,False
+1015,Cafe Diamanten og Ølhalle, 1202 ,False,False,False,False,True,False,False,False,False
+1016,Vesterbro Vinstue, 1650 ,False,False,False,False,False,False,False,False,False
+1017,Shezan Restaurant, 1655 ,False,False,False,False,False,False,True,False,False
+1018,Vinstue 90, ,False,False,False,False,False,False,False,False,False
+1019,Cafe Auto, 2200 ,False,False,False,False,True,False,False,False,False
+1020,La Esquina, 2100 ,False,False,False,False,False,False,False,False,False
+1021,Vinbaren Vesterbro Torv, 1659 ,False,False,False,False,False,False,False,False,False
+1022,Konya Kebab, DK-2800 ,False,False,False,False,False,False,False,False,False
+1023,Filini Restaurant, 2300 ,False,False,False,False,False,True,False,False,False
+1024,Ristorante L'Imperatore, 2100 ,False,False,False,False,False,True,False,False,False
+1025,Sticks'n'Sushi, 2100 ,False,True,False,False,False,False,False,False,False
+1026,City Pub, 1620 ,False,False,False,False,False,False,False,False,False
+1027,Sukiyaki, ,False,True,False,False,False,False,False,False,False
+1028,R Vinbar, 1117 ,False,False,False,False,False,False,False,False,False
+1029,Boathouse, 1401 ,False,False,False,False,False,False,False,False,False
+1030,Restaurant NOI, 1574 ,False,False,False,False,False,False,False,False,False
+1031,The Dubliner Downtown, 1101 ,False,False,False,False,False,False,False,False,False
+1032,Sans Souci Restaurant & Vinstue, 1829 ,False,False,False,False,False,False,False,False,False
+1033,SUKAIBA Copenhagen, 2300 ,False,True,False,False,False,False,False,False,False
+1034,Hvide Lam, 1175 ,False,False,False,False,False,False,False,False,False
+1035,Pho Saigon, ,False,False,False,False,False,False,False,False,False
+1036,Bistro Les Halles, 1362 ,False,False,False,False,False,False,False,False,False
+1037,Mesón España, 1655 ,False,False,False,False,False,False,False,False,False
+1038,Sole D'Italia, 1154 ,True,False,False,False,False,True,False,False,False
+1039,Restaurant Turesen, 1368 ,False,False,False,False,False,False,False,False,False
+1040,Cafe Pelikan, 2300 ,False,False,False,False,True,False,False,False,False
+1041,Papa Ramen, 1709 ,False,False,False,False,False,False,False,False,False
+1042,Dalle Valle, 1609 ,False,False,False,False,False,False,False,False,False
+1043,NOSE2TAIL - Meatpacker, 1711 ,False,False,False,False,False,False,False,False,False
+1044,Bevar's, 2200 ,False,False,False,False,True,False,False,False,False
+1045,Neighbourhood Frederiksborggade, 1360 ,True,False,False,False,False,False,False,False,False
+1046,Gambero Rosso, 2300 ,True,False,False,False,False,True,False,False,False
+1047,Café Nemoland, 1440 ,False,False,False,False,True,False,False,False,False
+1048,Restaurant MANGAL, 1711 ,False,False,False,False,False,False,False,False,False
+1049,Sushi Norregade, ,False,True,False,False,False,False,False,False,False
+1050,Seoul, ,False,False,False,False,False,False,False,False,False
+1051,Jacobsen Brewhouse & Bar, 1799 ,False,False,False,False,False,False,False,False,False
+1052,Spaghetteria, 1606 ,False,False,False,False,False,True,False,False,False
+1053,Kates Joint, 2200 N ,False,False,False,False,False,False,True,False,False
+1054,Forno a Legna, 2000 ,False,False,False,False,False,True,False,False,False
+1055,Akropolis, 1879 ,False,False,False,False,False,False,False,False,False
+1056,Itzi Pitzi Pizza, 1720 ,True,False,False,False,False,False,False,False,False
+1057,Il Buco, 2300 ,False,False,False,False,False,True,False,False,False
+1058,Nyhavn Pizzeria, 1254 ,True,False,False,False,False,False,False,False,False
+1059,DAIZY'S, 1250 ,False,False,False,False,True,False,False,False,False
+1060,Roxie, 1069 ,False,False,False,False,False,False,False,False,False
+1061,Kung Fu 2 Izakaya, 2200 ,False,True,False,False,False,False,False,False,False
+1062,Madhus24, 2870 ,False,False,False,False,False,False,False,False,False
+1063,Tango y Vinos, 1052 ,False,False,False,False,False,False,False,False,True
+1064,Cafe Dyrehaven, 1720 ,False,False,False,False,True,False,False,False,False
+1065,Restaurant Meille, 1453 ,False,False,False,False,False,False,False,False,False
+1066,Aristo, 2300 ,False,False,False,False,False,False,False,False,False
+1067,Højbro Sandwich and Cafe, ,False,False,False,False,True,False,False,False,False
+1068,Bang & Jensen, 1650 ,False,False,False,False,True,False,False,False,False
+1069,Victoria Pub, 1457 ,False,False,False,False,False,False,False,False,False
+1070,Bibendum, 1366 ,False,False,False,False,False,False,False,False,False
+1071,Fars Dreng, 1174 ,False,False,False,False,True,False,False,False,False
+1072,Mercante, 1151 ,False,False,False,False,False,True,False,False,False
+1073,The Bird & The Churchkey, 1202 ,False,False,False,False,False,False,False,False,False
+1074,Thai Asien, 1053 ,False,False,False,True,False,False,False,False,False
+1075,The Globe Irish Pub, 1165 ,False,False,False,False,False,False,False,False,False
+1076,Comedy ZOO Club & Cafe, 1208 ,False,False,False,False,False,False,False,False,False
+1077,Library Bar, 1577 ,False,False,False,False,False,False,False,False,False
+1078,Munchies Copenhagen, 1400 ,False,False,False,False,False,False,False,False,False
+1079,Tivoli Hallen, ,False,False,False,False,False,False,False,False,False
+1080,Ingolfs Kaffebar, 2300 ,False,False,False,False,True,False,False,False,False
+1081,The Royal Cafe, 1611 ,False,False,False,False,True,False,False,False,False
+1082,Christianhavns Bådudlejning og Café, ,False,False,False,False,True,False,False,False,False
+1083,Ristorante Ponte Vecchio, ,False,False,False,False,False,True,False,False,False
+1084,Restaurant Mes, 1551 ,False,False,False,False,False,False,False,False,False
+1085,Alabama Social, 2200 ,False,False,False,False,False,False,False,False,False
+1086,lalala, 1401 ,False,False,False,False,False,False,False,False,False
+1087,Chicky Grill-Bar, ,False,False,False,False,False,False,False,False,False
+1088,Boston Grill Mayfair, 1652 ,False,False,False,False,False,False,False,False,True
+1089,Teaterkaelderen, 1610 ,False,False,False,False,False,False,False,False,False
+1090,Hanzo, 2200 ,False,False,False,False,False,False,False,False,False
+1091,FAMO Metro, 2100 ,False,False,False,False,False,True,False,False,False
+1092,Grillen Christianshavn, 1420 ,False,False,False,False,False,False,False,False,False
+1093,Halifax Vesterbrogade, 1620 ,False,False,False,False,False,False,False,False,False
+1094,Bonjour Vietnam, 1620 ,False,False,False,False,False,False,False,False,False
+1095,The Old English Pub, ,False,False,False,False,False,False,False,False,False
+1096,Restaurant M, 1264 ,False,False,False,False,False,False,False,False,False
+1097,BOB Biomio Organic Bistro, 1700 ,False,False,False,False,False,False,False,False,False
+1098,Nobu, 1700 ,False,False,False,True,False,False,False,False,False
+1099,Ravnsborg Vinbar, 2200 ,False,False,False,False,False,False,False,False,False
+1100,Brooklyn Bar København, 1253 ,False,False,False,False,False,False,False,False,False
+1101,Nimb Bar’N' Grill, 1577 ,False,False,False,False,False,False,False,False,True
+1102,Gemyse, 1630 ,False,False,False,False,False,False,False,False,False
+1103,20 a, 2200 ,False,False,False,False,False,False,False,False,False
+1104,Dag H, 2100 ,False,False,False,False,True,False,False,False,False
+1105,Restaurant Trio, 1608 ,False,False,False,False,False,False,False,False,False
+1106,Restaurant Sankt Annae, ,False,False,False,False,False,False,False,False,False
+1107,Falernum, 1619 ,False,False,False,False,False,False,False,False,False
+1108,Haché Gourmet Burgers, 1362 ,False,False,False,False,False,False,False,False,False
+1109,Restaurant Viva, 1411 ,False,False,True,False,False,False,False,False,False
+1110,MASH Penthouse, 1577 ,False,False,False,False,False,False,False,False,True
+1111,Restaurant Dubrovnik, 1455 ,False,False,False,False,False,False,False,False,False
+1112,Antons Køkken, 2300 ,False,False,False,False,False,False,False,False,False
+1113,Fru Nimb, 1630 ,False,False,False,False,False,False,False,False,False
+1114,Vespa, 1264 ,False,False,False,False,False,True,False,False,False
+1115,Cantina, 1300 ,True,False,False,False,False,True,False,False,False
+1116,Il Ponte Restaurant, 1462 ,False,False,False,False,False,True,False,False,False
+1117,Sticks'n'Sushi, 2900 ,False,True,False,False,False,False,False,False,False
+1118,Hereford Steak, 1264 ,False,False,False,False,False,False,False,False,True
+1119,Rambla, 2300 ,False,False,False,False,False,False,False,False,False
+1120,Rasoi, 2300 ,False,False,False,False,False,False,True,False,False
+1121,Nyhavns Faergekro, 1051 ,False,False,False,False,False,False,False,False,False
+1122,Co-ma Bistro, 1609 ,True,False,False,False,False,False,False,False,False
+1123,The South Indian Frederisberg, 2000 ,False,False,False,False,False,False,True,False,False
+1124,La Galette, 1454 ,False,False,False,False,False,False,False,False,False
+1125,GURU, 1608 ,False,False,False,False,False,False,True,False,False
+1126,Orangeriet, ,False,False,False,False,False,False,False,False,False
+1127,Bankeråt, 1359 ,False,False,False,False,False,False,False,False,False
+1128,Ban Gaw, 1700 ,False,False,False,True,False,False,False,False,False
+1129,Restaurant Bar´bette, 1260 ,False,False,False,False,True,False,False,False,False
+1130,Sachi Sushi, ,False,True,False,False,False,False,False,False,False
+1131,Trattoria FIAT, 1050 ,False,False,False,False,False,True,False,False,False
+1132,Sticks'n'Sushi, 1850 ,False,True,False,False,False,False,False,False,False
+1133,Cap Horn, 1052 ,False,False,False,False,False,False,False,False,False
+1134,Tivoli Hotel, 1577 ,False,False,False,False,False,False,False,False,False
+1135,Tony's, 1058 ,False,False,False,False,False,True,False,False,False
+1136,Cafe Fremtiden, 1250 ,False,False,False,False,False,False,False,False,False
+1137,Almanak - The Standard, 1058 ,False,False,False,False,False,False,False,False,False
+1138,Bistro Royal, 1050 ,False,False,False,False,False,False,False,False,False
+1139,NyhavnsKroen, 1051 ,False,False,False,False,False,False,False,False,False
+1140,Restaurant Grøften, 1620 ,False,False,False,False,False,False,False,False,False
+1141,Vesterbros Originale Burgerrestaurant, 1650 ,False,False,False,False,False,False,False,False,False
+1142,Gorm's Magstræde, 1204 ,True,False,False,False,False,True,False,False,False
+1143,Restaurant Silo, 2150 ,False,False,False,False,False,False,False,False,False
+1144,Scarpetta, ,False,False,False,False,False,True,False,False,False
+1145,Skagen Fiskerestaurant Illum Rooftop, 1001 ,False,False,True,False,False,False,False,False,False
+1146,Nyhavn 37 Café, 1051 ,False,False,False,False,False,False,False,False,False
+1147,Juicy Burger, 1711 ,False,False,False,False,False,False,False,False,False
+1148,Lundgren V.I.P. Bagerstraede, 1617 ,False,False,False,False,False,False,False,False,False
+1149,Blød Hat, 1466 ,False,False,False,False,False,False,False,False,False
+1150,Hot Buns, 1260 ,False,False,False,False,False,False,False,False,False
+1151,Ravage Restaurant Copenhagen, 1050 ,False,False,False,False,False,False,False,False,False
+1152,Toldbod Bodega, 1263 ,False,False,False,False,False,False,False,False,False
+1153,Møller Kaffe & Køkken, 2200 ,False,False,False,False,True,False,False,False,False
+1154,Rosie McGee's Restaurant & Bar, 1620 ,False,False,False,False,False,False,False,False,False
+1155,La Petanque, ,False,False,False,False,False,False,False,False,False
+1156,Restaurant Melee, 1828 ,False,False,False,False,False,False,False,False,False
+1157,Baest, 2200 ,True,False,False,False,False,True,False,False,False
+1158,Poonchai Thai Restaurant, 1650 ,False,False,False,True,False,False,False,False,False
+1159,Al-Diwan, 1620 ,False,False,False,False,False,False,True,False,False
+1160,Nimb Brasserie, 1577 ,False,False,False,False,False,False,False,False,False
+1161,Ristorante L’Appetito, 1606 ,True,False,False,False,False,True,False,False,False
+1162,Floras Cafe & Steakhouse, 1620 ,False,False,False,False,False,False,False,False,True
+1163,Baan Thai Isarn, 1706 ,False,False,False,True,False,False,False,False,False
+1164,Thai Pan, 2200 ,False,False,False,True,False,False,False,False,False
+1165,Oscar Bar Cafe, ,False,False,False,False,True,False,False,False,False
+1166,Cock's & Cows Gl. Strand, 1202 ,False,False,False,False,False,False,False,False,False
+1167,Restaurant SULT, 1120 ,False,False,False,False,False,False,False,False,False
+1168,Les Trois Cochons, 1619 ,False,False,False,False,False,False,False,False,False
+1169,Restaurant Jacobsen, 1175 ,False,False,False,False,False,False,False,False,False
+1170,Peder Oxe, 1154 ,False,False,False,False,False,False,False,False,False
+1171,Restaurant Fridas, 1610 ,False,False,False,False,False,False,False,False,False
+1172,Huks Fluks, 1154 ,False,False,False,False,False,False,False,False,False
+1173,Dalle Valle, 5000 ,False,False,False,False,False,False,False,False,False
+1174,Restaurant Diamond Rice, 1260 ,False,False,True,False,False,False,False,False,False
+1175,The South Indian Vesterbro, 1620 ,False,False,False,False,False,False,True,False,False
+1176,Restaurant Gorilla, 1711 ,False,False,False,False,False,False,False,False,False
+1177,Søren K, 1221 ,False,False,False,False,False,False,False,False,False
+1178,A.C. Perch's Thehandel, 1114 ,False,False,False,False,True,False,False,False,False
+1179,Restaurant Rebel, 1264 ,False,False,False,False,False,False,False,False,False
+1180,Pastis, 1123 ,False,False,False,False,False,False,False,False,False
+1181,Madklubben Grill Copenhagen, 1112 ,False,False,False,False,False,False,False,False,True
+1182,Restaurant Sahil, 1058 ,False,False,False,False,False,False,True,False,False
+1183,Restaurant Uma, 1364 ,False,True,True,False,False,False,False,False,False
+1184,Karma Sushi Nyhavn, 1051 ,False,True,False,False,False,False,False,False,False
+1185,L'éducation Nationale, 1454 ,False,False,False,False,False,False,False,False,False
+1186,Frk. Barners Kaelder, 1653 ,False,False,False,False,False,False,False,False,False
+1187,Café Victor, 1101 ,False,False,False,False,True,False,False,False,False
+1188,Barburrito, 1159 ,False,False,False,False,False,False,False,False,False
+1189,Cafe Munk, 1364 ,False,False,False,False,False,False,True,False,False
+1190,SPIS, 1201 ,False,False,False,False,False,False,False,False,False
+1191,Relæ, 2200 ,False,False,False,False,False,False,False,False,False
+1192,Grillen Nørrebro Burger Bar, 2200 ,False,False,False,False,False,False,False,False,False
+1193,Kystens Perle, 2770 ,False,False,False,False,False,False,False,False,False
+1194,Halifax Østerbro, 2100 ,False,False,False,False,False,False,False,False,False
+1195,Fishmarket, 1103 ,False,False,True,False,False,False,False,False,False
+1196,Tarnet Restaurant, 1218 ,False,False,False,False,False,False,False,False,False
+1197,Madklubben Vesterbro, 1620 ,False,False,False,False,False,False,False,False,False
+1198,Restaurant Flammen Kobenhavn HCA, 1553 ,False,False,False,False,False,False,False,False,False
+1199,The Market Asian Kitchen & Bar, 1106 ,False,True,False,False,False,False,False,False,False
+1200,Hyttefadet, 1051 ,False,False,False,False,False,False,False,False,False
+1201,Restaurant Pilekælderen, 1112 ,False,False,False,False,False,False,False,False,False
+1202,Cock's & Cows SP34, 1453 ,False,False,False,False,False,False,False,False,False
+1203,BollyFood, 1716 ,False,False,False,False,False,False,True,False,False
+1204,La Vecchia Signora, ,True,False,False,False,False,True,False,False,False
+1205,Cafe Oscar, 1264 ,False,False,False,False,True,False,False,False,False
+1206,Restaurant Havfruen, 1051 ,False,False,True,False,False,False,False,False,False
+1207,Apropos - Cafe & Restaurant, 1700 ,False,False,False,False,True,False,False,False,False
+1208,Tivolihallen, ,False,False,False,False,False,False,False,False,False
+1209,Scarpetta, ,False,False,False,False,False,True,False,False,False
+1210,Cafe Sorgenfri, 1211 ,False,False,False,False,False,False,False,False,False
+1211,Heering Restaurant and Bistro, 1051 ,False,False,False,False,False,False,False,False,False
+1212,Restaurant BASALT, 2300 ,False,False,False,False,False,False,False,False,False
+1213,Musling Bistro, 1361 ,False,False,True,False,False,False,False,False,False
+1214,Pluto, ,False,False,False,False,False,False,False,False,False
+1215,Pintxos, 1366 ,False,False,False,False,False,False,False,False,False
+1216,Laundromat Cafe, ,False,False,False,False,True,False,False,False,False
+1217,Restaurant Brdr. Price, 1130 ,False,False,False,False,False,False,False,False,False
+1218,Madklubben Bistro De Luxe, 1264 ,False,False,False,False,False,False,False,False,False
+1219,Axelborg Bodega, 1609 ,False,False,False,False,False,False,False,False,False
+1220,Royal Smushi Cafe, 1160 ,False,False,False,False,True,False,False,False,False
+1221,FAMO, 1662 ,False,False,False,False,False,True,False,False,False
+1222,Retour Steak Vesterbro, 1614 ,False,False,False,False,False,False,False,False,True
+1223,Københavner Cafeen, 1209 ,False,False,False,False,False,False,False,False,False
+1224,Amadeus, ,False,False,False,False,False,False,False,False,False
+1225,Hviids Vinstue, 1050 ,False,False,False,False,False,False,False,False,False
+1226,Norrebro Bryghus, 2200 ,False,False,False,False,False,False,False,False,False
+1227,Restaurant l'Alsace, 1101 ,False,False,True,False,False,False,False,False,False
+1228,Spuntino, ,False,False,False,False,False,True,False,False,False
+1229,RizRaz, 1169 ,False,False,False,False,False,False,False,False,False
+1230,Ida Davidsen, 1264 ,False,False,False,False,False,False,False,False,False
+1231,Det lille Apotek, 1169 ,False,False,False,False,False,False,False,False,False
+1232,Restaurant Vita, ,False,False,False,False,False,False,False,False,False
+1233,SALT bar & restaurant, 1253 ,False,False,False,False,False,False,False,False,False
+1234,Ristorante La Rocca, 1363 ,False,False,False,False,False,True,False,False,False
+1235,Kodbyens Fiskebar, 1711 ,False,False,True,False,False,False,False,False,False
+1236,Restaurant no. 2, 1402 ,False,False,False,False,False,False,False,False,False
+1237,Gitte Kik, 1065 ,False,False,False,False,False,False,False,False,False
+1238,Restaurant HUMMER, 1051 ,False,False,True,False,False,False,False,False,False
+1239,Restaurant Zeleste, 1051 ,False,False,True,False,False,False,False,False,False
+1240,Skindbuksen, 1074 ,False,False,False,False,False,False,False,False,False
+1241,Restaurant Barr, 1401 ,False,False,False,False,False,False,False,False,False
+1242,Mon Amour, 1159 ,False,False,False,False,False,False,False,False,False
+1243,MASH, 1260 ,False,False,False,False,False,False,False,False,True
+1244,BrewPub København, 1456 ,False,False,False,False,False,False,False,False,False
+1245,Neighbourhood, 1650 ,True,False,False,False,False,True,False,False,False
+1246,Cafe Wilder, 1408 ,False,False,False,False,True,False,False,False,False
+1247,Atlas bar, ,False,False,False,False,False,False,False,False,False
+1248,Riz Raz, 1208 ,False,False,False,False,False,False,False,False,False
+1249,Cafe Petersborg, 1260 ,False,False,False,False,False,False,False,False,False
+1250,Café Delfinen, 2000 ,False,False,False,False,False,False,False,False,False
+1251,The Union Kitchen, 1255 ,False,False,False,False,False,False,False,False,False
+1252,Retour Steak, 1101 ,False,False,False,False,False,False,False,False,True
+1253,Cafe Hyggestuen, 2000 ,False,False,False,False,False,False,False,False,False
+1254,Bistro Boheme, 1263 ,False,False,False,False,False,False,False,False,False
+1255,Oysters & Grill, 2200 ,False,False,True,False,False,False,False,False,False
+1256,Piccolino Pizzeria & Sandwichbar, 2000 ,True,False,False,False,False,False,False,False,False
+1257,Pate pate, 1716 ,False,False,False,False,False,False,False,False,False
+1258,Taarnet, 1218 ,False,False,False,False,False,False,False,False,False
+1259,Cafe Katz, 1220 ,False,False,False,False,True,False,False,False,False
+1260,Llama Restaurante & Bar, 1074 ,False,False,False,False,False,False,False,False,False
+1261,Bella Italia, 1879 ,False,False,False,False,False,False,False,False,False
+1262,Fisk & Faerdigt, 1879 ,False,False,False,False,False,False,False,False,False
+1263,Dark Waiter, 2000 ,False,False,False,False,False,False,False,False,False
+1264,Ristorante Italiano, 1171 ,True,False,False,False,False,True,False,False,False
+1265,Restaurant Kanalen, 1403 ,False,False,False,False,False,False,False,False,False
+1266,Mit Lille Kokken, 2000 ,False,False,False,False,False,False,False,False,False
+1267,Opera Cafe, 2000 ,False,False,False,False,False,True,False,False,False
+1268,Aroii Thai Takeaway, 1871 ,False,False,False,True,False,False,False,False,False
+1269,Classic Pizza Frederiksberg C, 2000 ,True,False,False,False,False,True,False,False,False
+1270,Bangkok, 2000 ,False,False,False,True,False,False,False,False,False
+1271,90'eren, ,False,False,False,False,False,False,False,False,False
+1272,Viben Fiskehus, 1819 ,False,False,False,False,False,False,False,False,False
+1273,Det Rene Brød, 2000 ,False,False,False,False,False,False,False,False,False
+1274,Petit Pate, 2000 ,False,False,False,False,False,False,False,False,False
+1275,Wedofood, 1700 ,False,False,False,False,False,False,False,False,False
+1276,Bodenhoff, 2000 ,False,False,False,False,False,False,False,False,False
+1277,Izumi Frederiksberg, 1850 ,False,False,False,False,False,False,False,False,False
+1278,Ramen To Biiru, 1674 ,False,False,False,False,False,False,False,False,False
+1279,Wok King, 2000 ,False,False,False,False,False,False,False,False,False
+1280,MASH Frederiksberg, 1850 ,False,False,False,False,False,False,False,False,True
+1281,Jasmin Corner, 2000 ,False,False,False,True,False,False,False,False,False
+1282,Bartof, 2000 ,False,False,False,False,True,False,False,False,False
+1283,Restaurant India, 1950 ,False,False,False,False,False,False,True,False,False
+1284,Omakase, 1800 ,False,True,False,False,False,False,False,False,False
+1285,Nagoya, 1900 ,False,False,False,False,False,False,False,False,False
+1286,Genki sushi, 2000 ,False,True,False,False,False,False,False,False,False
+1287,Bistro Panpan, 2000 ,False,False,False,False,False,False,False,False,False
+1288,Lundgren V.I.P. Frederiksberg, 2000 ,False,False,False,False,False,True,False,False,False
+1289,Hos Trine og Christian, 2000 ,False,False,False,False,False,False,False,False,False
+1290,Dinner Sushi, 1879 ,False,True,False,False,False,False,False,False,False
+1291,Restaurant Frokosten, 1850 ,False,False,False,False,False,False,False,False,False
+1292,Poco Picante, 1879 ,False,False,False,False,False,False,False,False,False
+1293,Rialto grill, 2000 ,False,False,False,False,False,False,False,False,False
+1294,Restaurant Pilekroen, 2000 ,False,False,False,False,False,False,False,False,False
+1295,Bjælkehuset, 2500 ,False,False,False,False,False,False,False,False,False
+1296,Restaurant Frksbrg, 2000 ,False,False,False,False,False,False,False,False,False
+1297,London Pub, 2000 ,False,False,False,False,False,False,False,False,False
+1298,Cafe Kitchenette, 1879 ,False,False,False,False,True,False,False,False,False
+1299,Granola, 1819 ,False,False,False,False,True,False,False,False,False
+1300,Krøgers Familiehave , 2000 ,False,False,False,False,False,False,False,False,False
+1301,Deligreco, 1850 ,False,False,False,False,False,False,False,False,False
+1302,Ristorante Fabio, 2000 ,False,False,False,False,False,True,False,False,False
+1303,La Fiesta Mexicana, 1820 ,False,False,False,False,False,False,False,False,False
+1304,Hansens Gamle Familiehave, 2000 ,False,False,False,False,False,False,False,False,False
+1305,Halifax Frederiksberg, 2000 ,False,False,False,False,False,False,False,False,False
+1306,Sokkelund Cafe & Brasserie, 2000 ,False,False,False,False,True,False,False,False,True
+1307,Kaktus, 1630 ,False,False,False,False,False,False,False,False,False
+1308,Rouge Oysters, 1610 ,False,False,False,False,False,False,False,False,False
+1309,Salonen, 2100 ,False,False,False,False,False,False,False,False,False
+1310,Mint By India Royale, 1620 ,False,False,False,False,False,False,True,False,False
+1311,Café Danasia, 2500 ,False,False,False,False,False,False,False,False,False
+1312,Marrakesh Kitchen, ,False,False,False,False,False,False,False,False,False
+1313,The Bar, 1051 ,False,False,False,False,False,False,False,False,False
+1314,La Cipa Pizzaria, 2100 ,False,False,False,False,False,False,False,False,False
+1315,Smeralda Copenhagen, 2200 ,False,False,False,False,False,True,False,False,False
+1316,Yan Yan Restaurant, 1361 ,False,False,False,False,False,False,False,False,False
+1317,Ninja Tapas, ,False,True,False,False,False,False,False,False,False
+1318,Pizza Central, 1650 ,False,False,False,False,False,False,False,False,False
+1319,Riccos Kaffebar Magasin du Nord, ,False,False,False,False,False,False,False,False,False
+1320,Rebel Food, 1700 ,False,False,False,False,False,False,False,False,False
+1321,Il Tagliere, 1370 ,False,False,False,False,False,True,False,False,False
+1322,Cafe Engholmen, 2450 ,False,False,False,False,False,False,False,False,False
+1323,Donna Wood, 1051 ,False,False,False,False,False,False,False,False,False
+1324,Restaurant Napa, 1601 ,False,False,False,False,False,False,False,False,False
+1325,Pizzaria Cavallino, 2100 ,False,False,False,False,False,False,False,False,False
+1326,Mokkariet - Odensegade, 2100 ,False,False,False,False,False,False,False,False,False
+1327,Karens Minde Kulturhus, ,False,False,False,False,False,False,False,False,False
+1328,Poonchai Thai Restaurant, 2300 ,False,False,False,False,False,False,False,False,False
+1329,Café Gæst, 2200 ,False,False,False,False,False,False,False,False,False
+1330,Grabs Deli, 1107 ,False,False,False,False,False,False,False,False,False
+1331,Gastronomia Candido, ,False,False,False,False,False,True,False,False,False
+1332,Lagkagehuset, 2100 ,False,False,False,False,False,False,False,False,False
+1333,Fitnesso, 2000 ,False,False,False,False,False,False,False,False,False
+1334,Kabys, 1366 ,False,False,False,False,False,False,False,False,False
+1335,Her Er Ro Pub, ,False,False,False,False,False,False,False,False,False
+1336,Restaurant Skipperkroen, ,False,False,False,False,False,False,False,False,False
+1337,Phago, 2200 ,False,False,False,False,False,False,False,False,False
+1338,Baguette Company, 1130 ,True,False,False,False,False,True,False,False,False
+1339,Us Sandwich APS, 1620 ,False,False,False,False,False,False,False,False,False
+1340,D.D. Thai Take Away, 1665 ,False,False,False,False,False,False,False,False,False
+1341,Kaffe K, 1123 ,False,False,False,False,True,False,False,False,False
+1342,Ostehjornet, ,False,False,False,False,False,False,False,False,False
+1343,Rbabarrab Ølbar, 1720 ,False,False,False,False,False,False,False,False,False
+1344,Det Grønne Køkken, 2000 ,False,False,False,False,False,False,False,False,False
+1345,Madore, 1366 ,False,False,False,False,False,False,False,False,False
+1346,Klai's, ,False,False,False,False,False,False,False,False,False
+1347,Scamorza, 2100 ,False,False,False,False,False,True,False,False,False
+1348,Grabz, 1107 ,False,False,False,False,False,False,False,False,False
+1349,Aloha, 1123 ,False,False,False,False,False,False,False,False,False
+1350,Basal, 2300 ,False,False,False,False,False,False,False,False,False
+1351,MyPoké, 1001 ,False,False,False,False,False,False,False,False,False
+1352,Borgerkroen, 1300 ,False,False,False,False,False,False,False,False,False
+1353,Bryghus, ,False,False,False,False,False,False,False,False,False
+1354,Restaurant Le Basilic., 1656 V ,False,False,False,False,False,False,False,False,False
+1355,Paloma Vermut Cafe, 2200 ,False,False,False,False,True,False,False,False,False
+1356,Alimentari, 2300 ,False,False,False,False,True,True,False,False,False
+1357,Cravings - Cupcakes & Kager, 2200 ,False,False,False,False,True,False,False,False,False
+1358,VeVe Bistro, 2200 ,False,False,False,False,False,False,False,False,False
+1359,Hverdagen, 1700 ,False,False,False,False,False,False,False,False,False
+1360,Peryton, 1302 ,False,False,False,False,False,False,False,False,False
+1361,Bello e Buono, 2200 ,True,False,False,False,False,True,False,False,False
+1362,Shamyat Halawiyat, 2300 ,False,False,False,False,True,False,False,False,False
+1363,Paleo Waterfront Shopping, ,False,False,False,False,False,False,False,False,False
+1364,Cafe Antique, 1370 ,False,False,False,False,False,False,False,False,False
+1365,Quattro Stagioni, ,False,False,False,False,False,False,False,False,False
+1366,Musik-conditoriet, ,False,False,False,False,True,False,False,False,False
+1367,Kulinaris, ,False,False,False,False,False,False,False,False,False
+1368,Lima by Mercedes, 1432 ,False,False,True,False,False,False,False,False,False
+1369,Parc Ferme, 1304 ,False,False,False,False,False,False,False,False,False
+1370,Kaelder 12, ,False,False,False,False,False,False,False,False,False
+1371,Cafe Noura Antik, 1307 ,False,False,False,False,False,True,False,False,False
+1372,The Spoon Company, 1436 ,False,False,False,False,False,False,False,False,False
+1373,Restaurant India Vanlose, 2720 ,False,False,False,False,False,False,True,False,False
+1374,Nimb Vinotek, 1577 ,False,False,False,False,False,False,False,False,False
+1375,Kimchi, 1620 ,False,False,False,False,False,False,False,False,False
+1376,Islands Brygge Wok, 2300 ,False,False,False,True,False,False,False,False,False
+1377,Sticks ’n' Sushi, 2300 ,False,False,False,False,False,False,False,False,False
+1378,Take'n Eat, 2200 ,False,False,False,False,False,False,False,False,False
+1379,San Marzano, 2200 ,True,False,False,False,False,True,False,False,False
+1380,Uganic, 1360 ,False,False,False,False,False,False,False,False,False
+1381,Respect by Plant Power Food, 2100 ,False,False,False,False,True,False,False,False,False
+1382,Koshari-Egyptisk Vegetarisk Street Food, 2200 ,False,False,False,False,False,False,False,False,False
+1383,Royal bagel, 1151 ,False,False,False,False,False,False,False,False,False
+1384,Mit Konditori, 2300 ,False,False,False,False,False,False,False,False,False
+1385,Foodcorner, 2300 ,True,False,False,False,False,True,False,False,False
+1386,Italian Trattoria and wine bar -The Food Collective, 1369 ,False,False,False,False,False,True,False,False,False
+1387,Le Kaff, 1700 ,False,False,False,False,False,False,False,False,False
+1388,Café Du Nord, 1652 ,False,False,False,False,False,False,False,False,False
+1389,Altanen, 1610 ,False,False,False,False,False,False,False,False,False
+1390,Rio Temakeria, 1001 ,False,False,True,False,False,False,False,False,False
+1391,Café Georg, ,False,False,False,False,False,False,False,False,False
+1392,Den Plettede Gris, ,False,False,False,False,False,False,False,False,False
+1393,Hansens Ice Cream Copenhagen, 1264 ,False,False,False,False,True,False,False,False,False
+1394,Spaghetti Martelli, 2100 ,False,False,False,False,False,True,False,False,False
+1395,Restaurant stigs vinkaelder, 1550 ,False,False,False,False,False,False,False,False,False
+1396,Kødbyens Høker, 1715 ,False,False,False,False,False,False,False,False,False
+1397,Kaffekilden, 2200 ,False,False,False,False,False,False,False,False,False
+1398,Kjær Sommerfeldt, 1117 ,False,False,False,False,False,False,False,False,False
+1399,Viadukt Café & Restaurant, 2630 ,False,False,False,False,False,False,False,False,False
+1400,La Vita Pizza Ristorante, 2100 ,False,False,False,False,False,False,False,False,False
+1401,Rooty, 2300 ,False,False,False,False,True,False,False,False,False
+1402,Rumbles, 2450 ,False,False,False,False,False,False,False,False,False
+1403,Columbia Cophagen, 1620 ,False,False,False,False,False,False,False,False,False
+1404,Kerne Pavillonen, 1610 ,False,False,False,False,False,False,False,False,False
+1405,Y's café and cocktail, 1358 ,False,False,False,False,True,False,False,False,False
+1406,Schwein und Bier, ,False,False,False,False,False,False,False,False,False
+1407,Teatro del Gusto, 1057 ,False,False,False,False,False,False,False,False,False
+1408,Sankt Nikolai, ,False,False,False,False,False,False,False,False,False
+1409,Pizzeria Trattoria Vecchia Milano, ,False,False,False,False,False,True,False,False,False
+1410,Oksen Bodega, 2770 ,False,False,False,False,False,False,False,False,False
+1411,Kaffebaren Pa Amager, 2300 ,False,False,False,False,False,False,False,False,False
+1412,Vandkunsten Sandwich Torvegade, 1400 ,False,False,False,False,False,False,False,False,False
+1413,Tvermoesgaard Restaurant and Bar, 1174 ,False,False,False,False,False,False,False,False,False
+1414,Nørreport Bodega, 1358 ,False,False,False,False,False,False,False,False,False
+1415,Den Lykkelige Familie, 2300 ,False,False,False,False,False,False,False,False,False
+1416,Indish, 2100 ,False,False,False,False,False,False,False,False,False
+1417,Durum Bar Øst, 2100 ,False,False,False,False,False,False,False,False,False
+1418,Espresso Huset, 1466 ,False,False,False,False,False,False,False,False,False
+1419,Kolsters, 2200 ,False,False,False,False,False,False,False,False,False
+1420,Café Nick, ,False,False,False,False,False,False,False,False,False
+1421,"Løgismose Vin, Mad & Delikatesser", 1259 ,False,False,False,False,False,True,False,False,False
+1422,Cantinos, 2400 ,True,False,False,False,False,False,False,False,False
+1423,Jack's hole in a wall, 1162 ,False,False,False,False,False,True,False,False,False
+1424,Meyers Bageri, 2100 ,False,False,False,False,False,False,False,False,False
+1425,Glou Glou, 2200 ,False,False,False,False,False,False,False,False,False
+1426,Kolonial Pizza, 2100 ,False,False,False,False,False,False,False,False,False
+1427,Wok'N'Roll, 1467 ,False,False,False,False,False,False,False,False,False
+1428,Kebabland II, 2300 ,False,False,False,False,False,False,False,False,False
+1429,Cafe Snork, ,False,False,False,False,False,False,False,False,False
+1430,Kaffekilden I Carlsberg Byen, 1799 ,False,False,False,False,False,False,False,False,False
+1431,Bear Slice, 1454 ,False,False,False,False,False,False,False,False,False
+1432,Paradis Købmagergade, 1150 ,False,False,False,False,False,False,False,False,False
+1433,Restaurant Nyhavn 41, 1051 ,False,False,False,False,False,False,False,False,False
+1434,Café Griffens, 2200 ,False,False,False,False,False,False,False,False,False
+1435,Kinesisk Restaurant Yuan Hong, 2100 ,False,False,False,False,False,False,False,False,False
+1436,Dhaba Reffen, ,False,False,False,False,False,False,True,False,False
+1437,Southern Sushi, ,False,False,False,False,False,False,False,False,False
+1438,Mood Food, ,False,False,False,False,False,False,False,False,False
+1439,Rallys, 2450 ,False,False,False,False,False,False,False,False,False
+1440,Ambassadeur, 1674 ,False,False,False,False,False,False,False,False,False
+1441,Monellies, ,False,False,False,False,True,False,False,False,False
+1442,The Tipsy Mermaid, 1058 ,False,False,False,False,False,False,False,False,False
+1443,CASA MIA, 2200 ,False,False,False,False,False,True,False,False,False
+1444,The Sixteen Twelve, 2200 ,False,False,False,False,True,False,False,False,False
+1445,Il Gusto Giusto, 2100 ,True,False,False,False,False,True,False,False,False
+1446,Kongens Hytte, 1307 ,False,False,False,False,False,False,False,False,False
+1447,Pizzeria Massimo, 1364 ,True,False,False,False,False,True,False,False,False
+1448,The Noodle Box, 1650 ,False,False,False,False,False,False,False,False,False
+1449,FORSYNINGEN - Mad & Drikke, 1751 ,False,False,False,False,False,False,False,False,False
+1450,Angelini, 1577 ,True,False,False,False,False,True,False,False,True
+1451,Govindas, 1635 ,False,False,False,False,False,False,False,False,False
+1452,Tryk Bar ApS, ,False,False,False,False,False,False,False,False,False
+1453,Cafe North & Indian Cuisine, 1174 ,False,False,False,False,True,False,True,False,False
+1454,Two Monkeys, 1123 ,False,False,False,False,False,False,False,False,False
+1455,LETZ SUSHI STORE KONGENSGADE, 1264 ,False,True,True,False,False,False,False,False,False
+1456,Taj Diner, 1620 ,False,False,False,False,False,False,False,False,False
+1457,Cafe Globen, ,True,False,False,False,False,False,False,False,False
+1458,Plads’N, 2200 ,True,False,False,False,False,False,False,False,False
+1459,Winterspring, 1255 ,False,False,False,False,False,False,False,False,False
+1460,Alanya Kebab, 2200 ,False,False,False,False,False,True,False,False,False
+1461,Boulevarden, 2300 ,False,False,False,False,False,False,False,False,False
+1462,Petrol Cafe, 1650 ,False,False,False,False,True,False,False,False,False
+1463,Café Nutid, 1453 ,False,False,False,False,True,False,False,False,False
+1464,Weltkuglen, 1123 ,False,False,False,False,False,False,False,False,False
+1465,Gasoline Grill, 1401 ,False,False,False,False,False,False,False,False,False
+1466,French Chicken, 2500 ,False,False,False,False,False,False,False,False,False
+1467,La Sardegna, 2300 ,True,False,False,False,False,True,False,False,False
+1468,L & V Café, 1366 ,False,False,False,False,False,True,False,False,False
+1469,Absalon, 1720 ,False,False,False,False,False,False,False,False,False
+1470,Restaurant Værksted 1751, 1751 ,False,False,False,False,False,False,False,False,False
+1471,Graesk Smag, 1620 ,False,False,False,False,False,False,False,False,False
+1472,Beat Café, 1670 ,False,False,False,False,True,False,False,False,False
+1473,Que Pasa, 2720 ,False,False,False,False,False,False,False,False,False
+1474,Marco Polo Restaurant, ,False,False,False,False,False,False,False,False,False
+1475,Restaurant Metier, 2100 ,False,False,False,False,False,False,False,False,False
+1476,Boy's Shawarma & Kylling, 1650 ,False,False,False,False,False,False,False,False,False
+1477,Kaffedepartementet, 2400 ,False,False,False,False,False,False,False,False,False
+1478,Sunday Munday, 1360 ,False,False,False,False,False,False,False,False,False
+1479,La Tradizionale Pizzeria, ,True,False,False,False,False,True,False,False,False
+1480,Svaneke Is, ,False,False,False,False,False,False,False,False,False
+1481,Desserthuset, 1360 ,False,False,False,False,True,False,False,False,False
+1482,Charlie Scotts Bar, 1159 ,False,False,False,False,False,False,False,False,False
+1483,1+1 Street Kitchen, 1674 ,False,False,False,False,False,False,False,False,False
+1484,Taim Restaurant, 1354 ,False,False,False,False,False,False,False,False,False
+1485,Le Coin, ,False,False,False,False,False,False,False,False,False
+1486,Storehouse, 2100 ,False,False,False,False,True,False,False,False,False
+1487,"El Patrón, Tacos By Armando", 1620 ,False,False,False,False,False,False,False,False,False
+1488,Louises Fiskebar, 1552 ,False,False,True,False,False,False,False,False,False
+1489,Taste of Taiwan Bubble Tea, 2200 ,False,False,False,False,True,False,False,False,False
+1490,Herkules Pavillonen, 1307 ,False,False,False,False,False,False,False,False,False
+1491,DAC& CAFE, 1473 ,False,False,False,False,True,False,False,False,False
+1492,Bojesen, ,False,False,False,False,False,False,False,False,False
+1493,Hvitfeldt Kaffe, 1173 ,False,False,False,False,False,False,False,False,False
+1494,Gaza Grill, 2200 ,False,False,False,False,False,False,False,False,False
+1495,pasta house, 2300 ,False,False,False,False,False,True,False,False,False
+1496,Novel Café, ,False,False,False,False,True,False,False,False,False
+1497,& Rudolph, 2100 ,False,False,False,False,False,False,False,False,False
+1498,Brødflov, ,False,False,False,False,False,False,False,False,False
+1499,Djuus Copenhagen, 2100 ,False,False,False,False,False,False,False,False,False
+1500,just-A-winebar, 2150 ,False,False,False,False,False,False,False,False,False
+1501,Lille Bakery, 1432 ,False,False,False,False,False,False,False,False,False
+1502,Durum Bar Nørrebro, 2200 ,False,False,False,False,False,False,False,False,False
+1503,Cafe Christianshavn, 1416 ,False,False,False,False,True,False,False,False,False
+1504,The Bird & Kissmeyer, 1603 ,False,False,False,False,False,False,False,False,False
+1505,Souvlaki Stories, 1307 ,False,False,False,False,False,False,False,False,False
+1506,Go Sushi, 2400 ,False,True,False,False,False,False,False,False,False
+1507,EggSperience, 1640 ,False,False,False,False,False,True,False,False,False
+1508,Mokkariet - Istedgade, 1650 ,False,False,False,False,True,False,False,False,False
+1509,Moi, 1620 ,False,False,False,False,False,False,False,False,False
+1510,California Kitchen, 1620 ,False,False,False,False,False,False,False,False,False
+1511,H15, 1700 ,False,False,False,False,False,False,False,False,False
+1512,Kaf, 2200 ,False,False,False,False,False,False,False,False,False
+1513,Indian Swaad, 1174 ,False,False,False,False,False,False,True,False,False
+1514,Royal cuisine, 2100 ,False,False,True,False,False,False,False,False,False
+1515,Maui, 2200 ,False,False,True,False,False,False,False,False,False
+1516,Broaden & Build, 1432 ,False,False,False,False,False,False,False,False,False
+1517,Le Kaff, 2300 ,False,False,False,False,False,False,False,False,False
+1518,H3 Fiskerestaurant, ,False,False,True,False,False,False,False,False,False
+1519,Glød, 1304 ,False,False,False,False,False,False,False,False,False
+1520,Motto Bar & Trattoria, 1620 ,False,False,False,False,False,True,False,False,False
+1521,Bonden og Adelen, 1104 ,False,False,False,False,False,False,False,False,False
+1522,Froken Sandwich, ,False,False,False,False,False,False,False,False,False
+1523,Døp, ,False,False,False,False,False,False,False,False,False
+1524,Mikkeller Baghaven, 1432 ,False,False,False,False,False,False,False,False,False
+1525,Omegn, 1360 ,False,False,False,False,False,False,False,False,False
+1526,Olufs, 2100 ,False,False,False,False,False,False,False,False,False
+1527,Barkowski, 1364 ,False,False,False,False,False,False,False,False,False
+1528,Chai Shai, ,False,False,False,False,False,False,False,False,False
+1529,Måltid, ,False,False,False,False,False,False,False,False,False
+1530,Classic Pizza Magasin, 1095 ,True,False,False,False,False,False,False,False,False
+1531,Drop Inn, ,False,False,False,False,False,False,False,False,False
+1532,Izumi Vesterbro, 1620 ,False,True,True,False,False,False,False,False,False
+1533,PzNordic, 1123 ,True,False,False,False,True,True,False,False,False
+1534,Hav Torvehallerne, 1362 ,False,False,False,False,False,False,False,False,False
+1535,Bagerdygtigt, 1650 ,False,False,False,False,True,False,False,False,False
+1536,Ritas Smørrebrød, 2200 ,False,False,False,False,False,False,False,False,False
+1537,Kiin Kiin Street at WestMarket, 1620 ,False,False,False,True,False,False,False,False,False
+1538,Cafe Marzano, 2100 ,False,False,False,False,False,True,False,False,False
+1539,Terroiristen, 2200 ,False,False,False,False,False,True,False,False,False
+1540,Hallernes smørrebrød, 1577 ,False,False,False,False,False,False,False,False,False
+1541,Cholon by Lâm Lê, 1057 ,False,False,False,False,True,False,False,False,False
+1542,Gravy, 2100 ,False,False,False,False,False,False,False,False,False
+1543,Restaurant Barshu, 2300 ,False,False,False,False,False,False,False,False,False
+1544,Sofie Kaelderen, 1415 ,False,False,False,False,False,False,False,False,False
+1545,La Baracca, 1577 ,False,False,False,False,False,True,False,False,False
+1546,Sushi2500, 2500 ,False,True,False,False,False,False,False,False,False
+1547,MD Thai, 2300 ,False,False,False,True,False,False,False,False,False
+1548,Boltens Food Court, 1123 ,False,False,False,False,False,False,False,False,False
+1549,Wanthanas Thai Kichen, 2300 ,False,False,False,False,False,False,False,False,False
+1550,Bo-Bi Bar, 1115 ,False,False,False,False,False,False,False,False,False
+1551,Deep, ,False,False,False,False,False,False,False,False,False
+1552,Dia'legd Olbar, 1655 ,False,False,False,False,False,False,False,False,False
+1553,Peter Beier Chokolade A/S, 1264 ,False,False,False,False,False,False,False,False,False
+1554,Bar Rye, 1209 ,False,False,False,False,False,False,False,False,False
+1555,Mikropolis, 1363 ,False,False,False,False,False,False,False,False,False
+1556,Sing Tehus, 1208 ,False,False,False,False,False,False,False,False,False
+1557,Lomos Food Shop, 1000 ,False,False,False,False,False,False,False,False,False
+1558,Huset med det Gronne Trae, ,False,False,False,False,False,False,False,False,False
+1559,Vaertshuset Pinden, V ,False,False,False,False,False,False,False,False,False
+1560,Isted Grill, 1650 ,False,False,False,False,False,False,False,False,False
+1561,Pizzaria Cavallino, 2300 ,True,False,False,False,False,True,False,False,False
+1562,Lillians Smorresbord, 1552 ,False,False,False,False,False,False,False,False,False
+1563,Undici, 1403 ,False,False,False,False,False,True,False,False,False
+1564,Rumbles Sydhavn, 2450 ,False,False,False,False,False,False,False,False,False
+1565,Smag, ,False,False,False,False,False,False,False,False,False
+1566,Peter Beier Chokolade, 1620 ,False,False,False,False,False,False,False,False,False
+1567,Little Italy Pizza, 1552 ,True,False,False,False,False,True,False,False,False
+1568,Kihoskh, ,False,False,False,False,True,False,False,False,False
+1569,Gourmandiet, 2100 ,False,False,False,False,False,False,False,False,True
+1570,Fætter Fætter, 2200 ,False,False,False,False,False,False,False,False,False
+1571,Godtfolk, 1553 ,False,False,False,False,False,False,False,False,False
+1572,Bar 25, 1067 ,False,False,False,False,False,False,False,False,False
+1573,Restaurant Omar, 2200 ,False,False,False,False,False,False,False,False,False
+1574,Cafe Salonen, 1453 ,False,False,False,False,True,False,False,False,False
+1575,Iboo's Pizza & Pakistansk Takeaway, 1552 ,False,False,False,False,False,False,True,False,False
+1576,Kanagawa Sushi, 1620 ,False,False,False,False,False,False,False,False,False
+1577,Eiffel Bar, ,False,False,False,False,False,False,False,False,False
+1578,Plant Power Food, 2200 ,False,False,False,False,False,False,False,False,False
+1579,Orsted Olbar, 1364 ,False,False,False,False,False,False,False,False,False
+1580,Forketta, 2200 ,False,False,True,False,True,True,False,False,False
+1581,Mad Cafeen, 1668 ,False,False,False,False,True,True,False,False,False
+1582,Croissant'en, 1360 ,False,False,False,False,True,False,False,False,False
+1583,kruts karport, ,False,False,False,False,False,False,False,False,False
+1584,Teglkroen, 1452 ,False,False,False,False,False,False,False,False,False
+1585,Nabo, 1408 ,False,False,False,False,False,False,False,False,False
+1586,Nonsolo Pizza, ,True,False,False,False,False,True,False,False,False
+1587,Hav2Go Torvehallerne, 1362 ,False,False,True,False,False,False,False,False,False
+1588,Kellermans Café, 2450 ,False,False,False,False,True,False,False,False,True
+1589,Den Lille Gule, 1460 ,False,False,False,False,False,False,False,False,False
+1590,Vinbodegaen Nørrebro, 2200 ,False,False,False,False,False,False,False,False,False
+1591,Veggie Heroes, ,False,False,False,False,False,False,False,False,False
+1592,Café Grabow, 1208 ,False,False,False,False,False,False,False,False,False
+1593,Olsnedkeren, ,False,False,False,False,False,False,False,False,False
+1594,Ferment, 1455 ,False,False,False,False,False,False,False,False,False
+1595,Reinh. van Hauen Store Kongensgade, 1264 ,False,False,False,False,False,False,False,False,False
+1596,Wrap House, 1650 ,False,False,False,False,False,False,False,False,False
+1597,Kennedy's Irish Bar, 1610 ,False,False,False,False,False,False,False,False,False
+1598,Savana Cafe og Restaurant, ,False,False,False,False,False,False,False,False,False
+1599,Fabro, 1300 ,False,False,False,False,False,False,False,False,False
+1600,Bar Uno, ,True,False,False,False,False,True,False,False,False
+1601,Fredco's Deli, 1107 ,False,False,False,False,False,False,False,False,False
+1602,Restaurant Menu'en, 2300 ,False,False,False,False,False,False,False,False,False
+1603,Suphan Thai Takeaway, ,False,False,False,True,False,False,False,False,False
+1604,CaféLoppen, 1407 ,False,False,False,True,False,False,False,False,False
+1605,Vita Boost Torvehallerne, 1361 ,False,False,False,False,False,False,False,False,False
+1606,Pizzeria Luca, 1202 ,False,False,False,False,False,True,False,False,False
+1607,The Packhouse, 1414 ,False,False,False,False,True,False,False,False,False
+1608,Cafe Baryl, 2100 ,False,False,False,False,False,False,False,False,False
+1609,Hafnia Bar, 1110 ,False,False,False,False,True,False,False,False,False
+1610,Urten, 1454 ,False,False,False,False,False,False,False,False,False
+1611,Spisehuset, 1715 ,False,False,False,False,False,False,False,False,False
+1612,WOK Christianshavn, 1400 ,False,False,False,True,False,False,False,False,False
+1613,O Tempo, 2720 ,False,False,False,False,False,False,False,False,False
+1614,Honen & Aegget, 2100 ,False,False,False,False,True,False,False,False,False
+1615,Mega Bar, 1459 ,False,False,False,False,False,False,False,False,False
+1616,Domhusets Smørrebrød, 1458 ,False,False,False,False,False,False,False,False,False
+1617,Charlie Bistro, 1208 ,False,False,False,False,False,False,False,False,False
+1618,GONZO Café og Spisested, 2200 ,False,False,False,False,True,False,False,False,False
+1619,Det simrer, 2100 ,False,False,False,False,False,False,False,False,False
+1620,Restaurant Salon, 1260 ,False,False,False,False,False,False,False,False,False
+1621,Restaurant Ibu, 1620 ,False,False,False,False,False,False,False,False,False
+1622,1105 Cocktail Bar, 1105 ,False,False,False,False,False,False,False,False,False
+1623,Tjili Pop, 2200 ,False,False,False,False,False,False,False,False,False
+1624,Cafe Klods Hans, 1051 ,False,False,False,False,True,False,False,False,False
+1625,Mother Wine, 1117 ,False,False,False,False,False,True,False,False,False
+1626,Ma Poule, 1362 ,False,False,False,False,False,False,False,False,False
+1627,Fiskekutteren HM800 Jammerbugt - Thorupstrand Fisk, ,False,False,True,False,False,False,False,False,False
+1628,The Vietnamese, 1264 ,False,False,False,False,False,False,False,False,False
+1629,Vandkunsten sandwich og salat, 1466 ,False,False,False,False,False,False,False,False,False
+1630,Taverna Kreta, 2200 ,False,False,False,False,False,False,False,False,False
+1631,Rufino Osteria, 1401 ,False,False,False,False,False,True,False,False,False
+1632,Formatcph, ,False,False,False,False,False,False,False,False,False
+1633,Bar'Vin, ,False,False,False,False,False,False,False,False,False
+1634,Ølbaren, 2200 ,False,False,False,False,False,False,False,False,False
+1635,Selfish Take Away, ,False,True,True,False,False,False,False,False,False
+1636,Da Aldo Pizzeria, 1363 ,True,False,False,False,False,True,False,False,False
+1637,Pizza Huset, 1123 ,True,False,False,False,False,True,False,False,False
+1638,Harrys Place, 2200 ,False,False,False,False,False,False,False,False,False
+1639,Cafe Royal, 1611 ,False,False,False,False,False,False,False,False,False
+1640,Hooked, 1700 ,False,False,True,False,False,False,False,False,False
+1641,Hope Organic, 1454 ,False,False,False,False,False,False,False,False,False
+1642,Balthazar Champagne Bar, ,False,False,False,False,False,False,False,False,False
+1643,Noho, 1711 ,False,False,False,False,False,False,False,False,False
+1644,Pizza Time, 1264 ,True,False,False,False,False,True,False,False,False
+1645,Cafe Langebro, 2300 ,False,False,False,False,False,False,False,False,False
+1646,Gronsagen, 1407 ,False,False,False,False,False,False,False,False,False
+1647,Duck It, 1436 ,False,False,False,False,False,False,False,False,False
+1648,PUBLIC - The Italian Social Dining Bar, 1700 ,False,False,False,False,False,True,False,False,False
+1649,Ristorante Cafe Leo, 1307 ,True,False,False,False,False,True,False,False,False
+1650,Restaurant Taller, ,False,False,False,False,False,False,False,False,False
+1651,Voraz Bar & Café, 1208 ,False,False,False,False,True,False,False,False,False
+1652,Le Petit i Torvehallerne, 1360 ,False,False,False,False,False,False,False,False,False
+1653,Blue Bike Café, 1307 ,False,False,False,False,True,False,False,False,False
+1654,Hot Pot Republic, 1620 ,False,False,False,False,False,False,False,False,False
+1655,Kopan Rice, 1361 ,False,False,False,False,False,False,False,False,False
+1656,Nærvær, 1401 ,False,False,True,False,False,False,False,False,False
+1657,WOK Vesterbro, 1620 ,False,False,False,True,False,False,False,False,False
+1658,Cube Bar, 2620 ,False,False,False,False,False,False,False,False,False
+1659,Behov, 2450 ,True,False,False,False,False,True,False,False,False
+1660,Restaurant D'Angleterre, 1050 ,False,False,False,False,False,False,False,False,False
+1661,Barril, 1653 ,False,False,False,False,False,True,False,False,False
+1662,Hidden Dimsum, 1450 ,False,False,False,False,False,False,False,False,False
+1663,Beyzade, ,False,False,False,False,False,False,False,False,False
+1664,Restaurant Kareten, 2300 ,False,False,False,False,False,False,False,False,False
+1665,Lazio, 2720 ,True,False,False,False,False,True,False,False,False
+1666,Italo Disco, 1663 ,False,False,False,False,False,True,False,False,False
+1667,Wining & Dining, 1154 ,False,False,False,False,False,False,False,False,False
+1668,Sushi Lovers Torvehallerne, 1362 ,False,True,True,False,False,False,False,False,False
+1669,FEDTEGREVEN BistroBodega, 1110 ,False,False,False,False,False,False,False,False,False
+1670,Midori - Izakaya and Greenery, 1107 ,False,False,False,False,False,False,False,False,False
+1671,Cafe Toldboden, ,False,False,True,False,False,False,False,False,False
+1672,Nha Trang, 2200 ,False,False,False,False,False,False,False,False,False
+1673,Broens Gadekøkken, 1401 ,False,False,False,False,False,False,False,False,False
+1674,Restaurant Gilleleje, 1051 ,False,False,False,False,False,False,False,False,False
+1675,restaurant Naert, 1112 ,False,False,False,False,False,False,False,False,False
+1676,Sticks’n’Sushi, 1577 ,False,True,False,False,False,False,False,False,False
+1677,Cafe & Ølhalle 1892, 1362 ,False,False,False,False,False,False,False,False,False
+1678,Lidkoeb, 1620 ,False,False,False,False,False,False,False,False,False
+1679,B'india, 2100 ,False,False,False,False,False,False,True,False,False
+1680,Café Gavlen, 2200 ,False,False,False,False,True,False,False,False,False
+1681,Cafe Feel Good, 1364 ,False,False,False,False,True,False,False,False,False
+1682,Tony's Pizzeria, ,True,False,False,False,False,True,False,False,False
+1683,simpleRAW, 1154 ,False,False,False,False,False,False,False,False,False
+1684,Restauarant Dada, 1172 ,False,False,False,False,False,False,False,False,False
+1685,Ma'ed, ,False,False,False,False,False,False,False,False,False
+1686,Tapa del Toro, 1362 ,False,False,False,False,False,False,False,False,False
+1687,K-bar, 1061 ,False,False,False,False,False,False,False,False,False
+1688,Anarki, 1900 ,False,False,False,False,False,False,False,False,False
+1689,The Fat Pike, 2300 ,False,False,True,False,False,False,False,False,False
+1690,Restaurant Alouette, 2300 ,False,False,False,False,False,False,False,False,False
+1691,Restaurant Godt, 1123 ,False,False,False,False,False,False,False,False,False
+1692,Ristorante La Buca degli Artisti, 2720 ,False,False,False,False,False,True,False,False,False
+1693,Bastards, 1609 ,False,False,False,False,False,False,False,False,False
+1694,Khmer Cuisine, 1264 ,False,False,False,False,False,False,False,False,False
+1695,Ris8, 1620 ,False,False,False,False,False,True,False,False,False
+1696,Admiralgade 26, ,False,False,False,False,False,False,False,False,False
+1697,Meatpacking District Food, ,False,False,False,False,False,False,False,False,False
+1698,Scurry Hub, 1171 ,False,False,False,True,False,False,False,False,False
+1699,Restaurationen, 1116 ,False,False,False,False,False,False,False,False,False
+1700,Brus, 2200 ,False,False,False,False,False,False,False,False,False
+1701,Ellas, ,False,False,False,False,False,False,False,False,False
+1702,Den Gule Cottage, 2930 ,False,False,False,False,False,False,False,False,False
+1703,Je t'aime, 1721 ,False,False,False,False,False,False,False,False,False
+1704,Restaurant Wilhelm, 1068 ,False,False,False,False,False,True,False,False,False
+1705,Nyboders Køkken, 1300 ,False,False,False,False,False,False,False,False,False
+1706,Mad & Kaffe, ,False,False,False,False,True,False,False,False,False
+1707,Altopalato, 2900 ,False,False,False,False,False,True,False,False,False
+1708,Voulez Vous, 1454 ,False,False,False,False,True,False,False,False,False
+1709,Il Grappolo Blu, 1606 ,False,False,False,False,False,True,False,False,False
+1710,Madenitaly, 1057 ,True,False,False,False,False,True,False,False,False
+1711,Duck and Cover, ,False,False,False,False,False,False,False,False,False
+1712,Restaurant CLOU, 2100 ,False,False,False,False,False,False,False,False,False
+1713,Døp, ,False,False,False,False,False,False,False,False,False
+1714,Coq en Pate, 2100 ,False,False,False,False,False,False,False,False,False
+1715,Vinvaerten Gothersgade, 1123 ,False,False,False,False,False,False,False,False,False
+1716,Veve, 2100 ,False,False,False,False,False,False,False,False,False
+1717,SSAM Korean Food Bar, 1652 ,False,False,False,False,False,False,False,False,False
+1718,Lumskebugten, ,False,False,False,False,False,False,False,False,False
+1719,Spiseloppen Christiania, ,False,False,False,False,False,False,False,False,False
+1720,Kayak Bar, 1221 ,False,False,False,False,False,False,False,False,False
+1721,Hatoba Sushi, 2300 ,False,True,False,False,False,False,False,False,False
+1722,Osteria 16, 1671 ,False,False,False,False,False,True,False,False,False
+1723,Cafe Halvvejen, ,False,False,False,False,False,False,False,False,False
+1724,Kanal Cafeen, 1220 ,False,False,False,False,False,False,False,False,False
+1725,Marchal, 1050 ,False,False,False,False,False,False,False,False,False
+1726,Hallernes, ,False,False,False,False,False,False,False,False,False
+1727,Holberg no 19, 1057 ,False,False,False,False,True,False,False,False,False
+1728,Øl & Brød, 1655 ,False,False,False,False,False,False,False,False,False
+1729,Pho Hanoi, 1606 ,False,False,False,False,False,False,False,False,False
+1730,District Tonkin, 1460 ,False,False,False,False,False,False,False,False,False
+1731,Ved Stranden 10, 1061 ,False,False,False,False,False,False,False,False,False
+1732,Krogs Fiskerestaurant, 1202 ,False,False,True,False,False,False,False,False,False
+1733,Reffen, 1432 ,False,False,False,False,False,True,False,False,False
+1734,Sticks'n'Sushi, 1577 ,False,True,False,False,False,False,False,False,False
+1735,Restaurant Puk, 1467 ,False,False,False,False,False,False,False,False,False
+1736,Nebbiolo Winebar, 1255 ,False,False,False,False,False,True,False,False,False
+1737,Pizzeria Villanova, ,True,False,False,False,False,False,False,False,False
+1738,Da Salvo, 1610 ,True,False,False,False,False,True,False,False,False
+1739,Kalaset, 1363 ,False,False,False,False,True,False,False,False,False
+1740,Frank, 1104 ,False,False,False,False,False,False,False,False,False
+1741,Plectrum Vesterbro Restaurant, 1620 ,False,False,False,False,False,False,False,False,False
+1742,Cafe Oum, 1900 ,False,False,False,False,False,False,False,False,False
+1743,Restaurant Maven, 1067 ,False,False,False,False,False,False,False,False,False
+1744,Wedofood, 1850 ,False,False,False,False,False,False,False,False,False
+1745,Spaghetteria La Perla, 1119 ,False,False,False,False,False,False,False,False,False
+1746,Pronto Pizza III, 1800 ,False,False,False,False,False,False,False,False,False
+1747,56°, 1439 ,False,False,False,False,False,False,False,False,False
+1748,El Viejo Mexico, 1264 ,False,False,False,False,False,False,False,False,False
+1749,Told&Snaps, ,False,False,False,False,False,False,False,False,False
+1750,Kompasset, 1051 ,False,False,False,False,False,False,False,False,False
+1751,Restaurant U Formel, 1609 ,False,False,False,False,False,False,False,False,False
+1752,Christianshavns Færgecafé, 1401 ,False,False,True,False,False,False,False,False,False
+1753,Bagelsringen, 2000 ,False,False,False,False,False,False,True,False,False
+1754,Halifax, 1360 ,False,False,False,False,False,False,False,False,False
+1755,Sikhui, 2000 ,False,False,False,False,False,False,False,False,False
+1756,District Tonkin - Bánh Mí, 1302 ,False,False,False,False,False,False,False,False,False
+1757,Flottenheimer, 1159 ,False,False,False,False,True,False,False,False,False
+1758,Villa Vino, 1460 ,False,False,False,False,False,False,False,False,False
+1759,Sidecar, 2200 ,False,False,False,False,False,False,False,False,False
+1760,Joe & The Juice, 3520 ,False,False,False,False,False,False,False,False,False
+1761,Restaurant Tio Marios, 2100 ,True,False,False,False,False,True,False,False,False
+1762,Hiko Pizza og Sandwich, 2000 ,False,False,False,False,False,False,False,False,False
+1763,Mikkeller Bar, 1655 ,False,False,False,False,False,False,False,False,False
+1764,Restaurant Kronborg, 1211 ,False,False,False,False,False,False,False,False,False
+1765,Restaurant Karla, 1556 ,False,False,False,False,False,False,False,False,False
+1766,KaffeVærket, 1879 ,False,False,False,False,False,False,False,False,False
+1767,El Meson, 1127 ,False,False,False,False,False,False,False,False,False
+1768,Aamanns Deli & Take Away, 2100 ,False,False,False,False,False,False,False,False,False
+1769,Slurp Ramen Joint, 1366 ,False,False,False,False,False,False,False,False,False
+1770,Le Pave, 1154 ,False,False,False,False,False,False,False,False,False
+1771,Sticks'n'Sushi, 1366 ,False,False,True,False,False,False,False,False,False
+1772,Fusion Monkey, 2000 ,False,False,False,False,False,False,False,False,False
+1773,Amass, 1432 ,False,False,False,False,False,False,False,False,False
+1774,Damindra, 1054 ,False,True,False,False,False,False,False,False,False
+1775,Sticks'n'Sushi, 1300 ,False,True,True,False,False,False,False,False,False
+1776,Sticks'n'Sushi, 1650 ,False,True,False,False,False,False,False,False,False
+1777,Risteriet Coffee Frederiksberg, 2000 ,False,False,False,False,False,False,False,False,False
+1778,Fleisch, 1716 ,False,False,False,False,False,False,False,False,False
+1779,Fuego, 1057 ,False,False,False,False,False,False,False,False,True
+1780,Restaurant Hercegovina, 2000 ,False,False,False,False,False,False,False,False,False
+1781,Ristorante Buono, 1654 ,False,False,False,False,False,True,False,False,False
+1782,Formel B, 1800 ,False,False,False,False,False,False,False,False,False
+1783,Hadis Café, 2000 ,False,False,False,False,False,False,False,False,False
+1784,Restaurant Koefoed, 1301 ,False,False,False,False,False,False,False,False,False
+1785,Cafe Botanika, 2000 ,False,False,False,False,False,False,False,False,False
+1786,Halifax København K, 1454 ,False,False,False,False,False,False,False,False,False
+1787,Non Solo Trattoria, 2000 ,True,False,False,False,False,True,False,False,False
+1788,simpleRAW, 1154 ,False,False,False,False,False,False,False,False,False
+1789,Pony, 1620 ,False,False,False,False,False,False,False,False,False
+1790,D'Taste, 2000 ,False,False,False,False,False,False,False,False,False
+1791,Restaurant Brace, 1452 ,False,False,False,False,False,True,False,False,False
+1792,Asador, 1414 ,False,False,False,False,False,False,False,False,True
+1793,Cafe Oha, 2000 ,False,False,False,False,True,False,False,False,False
+1794,Cafe Gl. Torv - Huset med det grønne træ, 1457 ,False,False,False,False,False,False,False,False,False
+1795,Toto Vin & Spisebar, 2300 ,False,False,False,False,False,False,False,False,False
+1796,Mors Køkken, 2000 ,False,False,False,False,False,False,False,False,False
+1797,Restaurant Palægade, 1261 ,False,False,False,False,False,False,False,False,False
+1798,Black Swan, 1300 ,False,False,False,False,False,False,False,False,False
+1799,Restaurant AOC, 1302 ,False,False,False,False,False,False,False,False,False
+1800,RetroGusto, 1620 ,False,False,False,False,False,True,False,False,False
+1801,Den Lille Fede Restaurant, 1264 ,False,False,False,False,False,False,False,False,False
+1802,Ravnsborg Kitchen & Bar, 2200 ,False,False,False,False,True,True,False,False,False
+1803,Aamanns 1921, 1153 ,False,False,False,False,False,False,False,False,False
+1804,Bon Bon Ice, 2000 ,False,False,False,False,False,False,False,False,False
+1805,Aamanns Etablissement, 2100 ,False,False,False,False,False,False,False,False,False
+1806,Era Ora, 1414 ,False,False,False,False,False,True,False,False,False
+1807,CORK Vinbar, 1866 ,False,False,False,False,False,False,False,False,False
+1808,Stempel - Bar & Kitchen, 1670 ,False,False,False,False,True,False,False,False,False
+1809,Chez Bruno, 1610 ,False,False,False,False,False,False,False,False,False
+1810,KöD København, 1066 ,False,False,False,False,False,False,False,False,True
+1811,Restaurant Ravelinen, 1400 ,False,False,False,False,False,False,False,False,False
+1812,Kanton 27, 2000 ,False,False,False,False,False,False,False,False,False
+1813,Khun Juk Oriental, ,False,False,False,True,False,False,False,False,False
+1814,Palæ Bar, 1104 ,False,False,False,False,False,False,False,False,False
+1815,Kiin Kiin, 2200 ,False,False,False,True,False,False,False,False,False
+1816,BENTO Restaurant & Cocktail Bar, 1653 ,False,False,False,False,False,False,False,False,False
+1817,Mudan Restaurant, 2000 ,False,False,False,False,False,False,False,False,False
+1818,Souls Nørreport, ,False,False,False,False,False,False,False,False,False
+1819,Mad & Kaffe, 1720 ,False,False,False,False,True,False,False,False,False
+1820,Kato Sushi, 1970 ,False,False,False,False,False,False,False,False,False
+1821,Kadeau, 1408 ,False,False,False,False,False,False,False,False,False
+1822,Restaurant Tight, 1207 ,False,False,False,False,False,False,False,False,False
+1823,Restaurant Amalie, 1256 ,False,False,False,False,False,False,False,False,False
+1824,Olivers Oase, 1820 ,False,False,False,False,True,False,False,False,False
+1825,Restaurant Schoennemann, 1127 ,False,False,False,False,False,False,False,False,False
+1826,Morgenstedet, 1440 ,False,False,False,False,False,False,False,False,False
+1827,Apartment 38, 1879 ,False,False,False,False,False,False,False,False,False
+1828,KöD Vesterbro, 1620 ,False,False,False,False,False,False,False,False,True
+1829,Sushi Factory, 2000 ,False,False,False,False,False,False,False,False,False
+1830,Sporvejen, 1154 ,False,False,False,False,False,False,False,False,False
+1831,Restaurant Radio, ,False,False,False,False,False,False,False,False,False
+1832,Frenchy, 1207 ,False,False,False,False,True,False,False,False,False
+1833,Chao Viet Kitchen, 1458 ,False,False,False,False,False,False,False,False,False
+1834,Temporada Tapasbodega, 2000 ,False,False,False,False,False,False,False,False,False
+1835,Sankt Annae 8, ,False,False,False,False,False,False,False,False,False
+1836,Restaurant Under Uret - Frokost, 2100 ,False,False,False,False,False,False,False,False,False
+1837,Restaurant Nepali Bhancha, 1879 ,False,False,False,False,False,False,False,False,False
+1838,Mad & Kaffe, 2000 ,False,False,False,False,False,False,False,False,False
+1839,Vaekst, 1453 ,False,False,False,False,False,False,False,False,False
+1840,Höst, 1364 ,False,False,False,False,False,False,False,False,False
+1841,L'Enoteca di Mr. Brunello Restaurant & Wine Shop, 1564 ,False,False,False,False,False,True,False,False,False
+1842,Noma, 1432 ,False,False,False,False,False,False,False,False,False
+1843,Hos Otto, 1820 ,False,False,False,False,False,False,False,False,False
+1844,Olioli, 1850 ,False,False,False,False,False,False,False,False,False
+1845,Madglad, 1657 ,False,False,False,False,False,False,False,False,False
+1846,Kong Hans Kaelder, 1070 ,False,False,False,False,False,False,False,False,False
+1847,Trattoria 54, 2000 ,True,False,False,False,False,True,False,False,False
+1848,Restaurant Cofoco, ,False,False,False,False,False,False,False,False,False
+1849,Souls, 2100 ,False,False,False,False,True,False,False,False,False
+1850,Blaabjerg & Madsen - Frederiksberg, 2000 ,False,False,False,False,False,False,False,False,False
+1851,Restaurant Garden, 1123 ,False,False,False,False,False,False,False,False,False
+1852,Ewalds, 2000 ,False,False,False,False,True,False,False,False,False
+1853,Ché Fè, 1300 ,False,False,False,False,False,True,False,False,False
+1854,Restaurant Grønnegade, 1107 ,False,False,True,False,False,False,False,False,False
+1855,Trattoria l’Alba, 1057 ,False,False,True,False,False,True,False,False,False
+1856,Feed Bistro, 2200 ,False,False,False,False,False,False,False,False,False
+1857,Goomi, 1401 ,False,False,False,False,False,False,False,False,False
+1858,Café Patina, 1668 ,False,False,False,False,False,False,False,False,False
+1859,La Bonne, 2000 ,False,False,False,False,False,False,False,False,False
+1860,Studio - The Standard, 1058 ,False,False,False,False,False,False,False,False,False
+1861,The Red Box, 1264 ,False,False,False,False,False,False,False,False,False
+1862,BODIL - et spisested, 1720 ,False,False,False,False,False,False,False,False,False
+1863,Restaurant Schonnemann, 1127 ,False,False,False,False,False,False,False,False,False
+1864,Famosi e Golosi, 1958 ,False,False,False,False,False,True,False,False,False
+1865,Basso København, 1302 ,False,False,False,False,False,True,False,False,False
+1866,Carne Famo, 1610 ,False,False,False,False,False,True,False,False,False
+1867,Trattoria SUD, 1360 ,False,False,False,False,False,True,False,False,False
+1868,Restaurant leaven, 1104 ,False,False,True,False,False,False,False,False,False
+1869,Made in Italy, 1800 ,True,False,False,False,False,True,False,False,False
+1870,Salon 39, 1900 ,False,False,False,False,False,False,False,False,False
+1871,Husmann's Vinstue, 1454 ,False,False,False,False,False,False,False,False,False
+1872,Kokkeriet, 1306 ,False,False,False,False,False,False,False,False,False
+1873,Banana Joe, 2200 ,False,False,False,False,False,False,False,False,False
+1874,San Marco Junior, 2000 ,False,False,False,False,False,True,False,False,False
+1875,Sale é Pepe, 2000 ,False,False,False,False,False,True,False,False,False
+1876,Marv & Ben, 1205 ,False,False,False,False,False,False,False,False,False
+1877,Bowl Market Copenhagen, 1656 ,False,False,False,False,False,False,False,False,False
+1878,Café Komplet, 1264 ,False,False,False,False,False,False,False,False,False
+1879,Mondän, 2000 ,False,False,False,False,False,False,False,False,False
+1880,Geranium, ,False,False,False,False,False,False,False,False,False
+1881,La Vita e Bella, 2000 ,False,False,False,False,False,True,False,False,False
+1882,Bastard Café, 1466 ,False,False,False,False,True,False,False,False,False
+1883,Ristorante Da Claudio, 2000 ,False,False,False,False,False,True,False,False,False
+1884,Reinwald's, 1879 ,False,False,False,False,False,False,False,False,False
+1885,Cafe Lindevang, 2000 ,False,False,False,False,False,False,False,False,False
+1886,Frederiks Have, 2000 ,False,False,False,False,False,False,False,False,False
+1887,Mielcke & Hurtigkarl, 2000 ,False,False,False,False,False,False,False,False,False
+1888,Enomania, 1800 ,False,False,False,False,False,True,False,False,False
+1889,Crispy Pig, 1432 ,False,False,False,False,False,False,False,False,False
+1890,Baobab, 1432 ,False,False,False,False,False,False,False,False,False
+1891,Vi Viet, 2300 ,False,False,False,False,False,False,False,False,False
+1892,Il Paradiso, 2400 ,True,False,False,False,False,False,False,False,False
+1893,Legi Legi, ,False,False,False,False,False,False,False,False,False
+1894,Cous Cous, ,False,False,False,False,False,False,False,False,False
+1895,Ost deli, ,False,False,False,False,False,False,False,False,False
+1896,Café Baggården, 2200 ,False,False,False,False,False,False,False,False,False
+1897,Bedste kaffebar i kbh, ,False,False,False,False,False,False,False,False,False
+1898,New Tokyo Sushi, 1958 ,False,False,False,False,False,False,False,False,False
+1899,Axolotl, 1209 ,False,False,False,False,False,False,False,False,False
+1900,Pizzeria Pepe, 2300 ,False,False,False,False,False,False,False,False,False
+1901,The Set, 2100 ,False,False,False,False,False,False,False,False,False
+1902,Hermes Antik & Kaffebar, 1850 ,False,False,False,False,False,False,False,False,False
+1903,India, 1436 ,False,False,False,False,False,False,False,False,False
+1904,Pizza Gallery Ravnsborggade, 2200 ,False,False,False,False,False,False,False,False,False
+1905,Bubbles, 1799 ,False,False,False,False,False,False,False,False,False
+1906,Smørrebrødsforretningen, 1264 ,False,False,False,False,False,False,False,False,False
+1907,OISHI Sushi, 1620 ,False,False,False,False,False,False,False,False,False
+1908,Byens Bogcafé, 1650 ,False,False,False,False,False,False,False,False,False
+1909,Café Vand og Brød ApS, 1760 ,False,False,False,False,True,False,False,False,False
+1910,Kaffehytten, 2100 ,False,False,False,False,False,False,False,False,False
+1911,The Bagel Bite, 1620 ,False,False,False,False,False,False,False,False,False
+1912,Tampopo, 1361 ,False,False,False,False,False,False,False,False,False
+1913,Monastic, ,False,False,False,False,False,False,False,False,False
+1914,Cake Châlet, 2500 ,False,False,False,False,True,False,False,False,False
+1915,CCR Sunde Køkken, 2100 ,False,False,False,False,False,False,True,False,False
+1916,Ciderbar, 1457 ,False,False,False,False,False,False,False,False,False
+1917,Nye Tider, 1307 ,False,False,False,False,False,False,False,False,False
+1918,Piccola Cosi, 2300 ,False,False,False,False,False,True,False,False,False
+1919,Coffee Licious, 2000 ,False,False,False,False,True,False,False,False,False
+1920,The Bagel CO, 1153 ,False,False,False,False,False,False,False,False,False
+1921,Lins Sushi, 2100 ,False,False,False,False,False,False,False,False,False
+1922,Gastronomia Italiana, 2100 ,False,False,False,False,False,False,False,False,False
+1923,Veneto Pizza, 1751 ,False,False,False,False,False,True,False,False,False
+1924,Lagkagehuset, 1799 ,False,False,False,False,False,False,False,False,False
+1925,CC Restaurant Sushi & Wok, 2200 ,False,False,False,False,False,False,False,False,False
+1926,The Rusty Jiggar, 1705 ,False,False,False,False,False,False,False,False,False
+1927,Street Polenta, 1432 ,False,False,False,False,False,False,False,False,False
+1928,Underwood Ink, 2200 ,False,False,False,False,False,False,False,False,False
+1929,Sala Thai Mad, 2400 ,False,False,False,True,False,False,False,False,False
+1930,Indian Tandoor Restaurant, 1620 ,False,False,False,False,False,False,False,False,False
+1931,Uden Ben, 1650 ,False,False,False,False,False,False,False,False,False
+1932,Den okologiske poles and, ,False,False,False,False,False,False,False,False,False
+1933,Grand Teatret, 1460 ,False,False,False,False,True,False,False,False,False
+1934,RaJuize, 1615 ,False,False,False,False,False,False,False,False,False
+1935,Wok Inside, 1620 ,False,False,False,False,False,False,False,False,False
+1936,Kosmos K, 1453 ,False,False,False,False,False,False,False,False,False
+1937,Limdim, ,False,False,False,True,False,False,False,False,False
+1938,Oishi Sushi, 2300 ,False,False,False,False,False,False,False,False,False
+1939,Minas Kaffebar, 2200 ,False,False,False,False,False,False,False,False,False
+1940,Yokoso Sushi, 2100 ,False,False,False,False,False,False,False,False,False
+1941,Boheme Kaffebar, 2300 ,False,False,False,False,True,False,False,False,False
+1942,Tomasito - Cozy Coffee, 2100 ,False,False,False,False,True,False,False,False,False
+1943,Cafe Lille Peter V.Sild - Per Krog, 2400 ,False,False,False,False,False,False,False,False,False
+1944,VACA - Trianglen, 2100 ,False,False,False,False,False,False,False,False,False
+1945,LeLe Street Kitchen, 2300 ,False,False,False,False,False,False,False,False,False
+1946,Shawarma Huset, 1123 ,False,False,False,False,False,False,False,False,False
+1947,Ismejeriet Tivoli, ,False,False,False,False,True,False,False,False,False
+1948,Vestford Manor, 2200 ,False,False,False,False,False,True,False,False,False
+1949,Baggard 27, 1468 ,False,False,False,False,False,False,False,False,False
+1950,Tokyo Sushi, 2720 ,False,True,False,False,False,False,False,False,False
+1951,Kiin Kiin 71 omakase, 1051 ,False,False,False,False,False,False,False,False,False
+1952,LETZ SUSHI ISLANDS BRYGGE, 2300 ,False,True,True,False,False,False,False,False,False
+1953,Woodomi, 1264 ,False,False,False,False,False,False,False,False,False
+1954,Blaaregn, 2200 ,False,False,False,False,False,False,False,False,False
+1955,Dam Good Goodies, 2200 ,False,False,False,False,False,False,False,False,False
+1956,Katsura Sushi, 2720 ,False,False,False,False,False,False,False,False,False
+1957,Restaurant Kongen, 1850 ,False,False,False,False,False,False,False,False,False
+1958,Garbanzo, 1118 ,False,False,False,False,False,False,False,False,False
+1959,Cafe Badklubben, 1403 ,False,False,False,False,False,False,False,False,False
+1960,Blue Raven, 2300 ,False,False,False,False,False,False,False,False,False
+1961,Asap Food, ,False,False,False,False,False,False,False,False,False
+1962,Unica, 1700 ,False,False,False,False,False,False,False,False,False
+1963,Tacos Chilangos, 1118 ,False,False,False,False,False,False,False,False,False
+1964,Sawaddee, 2300 ,False,False,False,False,False,False,False,False,False
+1965,Pizza Palads, ,True,False,False,False,False,False,False,False,False
+1966,Min nye kaffebar, 1671 ,False,False,False,False,False,False,False,False,False
+1967,Juicy - Nørregade 53, 1165 ,False,False,False,False,False,False,False,False,False
+1968,Pandekagehuset Norrebro, 2200 ,False,False,False,False,False,False,False,False,False
+1969,Bike and Bake, 2200 ,True,False,False,False,False,True,False,False,False
+1970,Badstuen, 1209 ,False,False,False,False,False,False,False,False,False
+1971,Bar rouge københavn, 1103 ,False,False,False,False,False,False,False,False,False
+1972,Shakes and Cakes, 2100 ,False,False,False,False,False,False,False,False,False
+1973,Koi Sushi, 2200 ,False,True,False,False,False,False,False,False,False
+1974,Leonard's, 2870 ,False,False,False,False,False,False,False,False,False
+1975,Tove Smorrebrod, 2100 ,False,False,False,False,False,False,False,False,False
+1976,Dinewithus, 1829 ,False,False,False,False,False,False,False,False,False
+1977,Funder, 2000 ,False,False,False,False,False,False,False,False,False
+1978,Bageren I Nansensgade, ,False,False,False,False,False,False,False,False,False
+1979,LETZ SUSHI VALBY, 2500 ,False,True,True,False,False,False,False,False,False
+1980,The Grid, 1453 ,False,False,False,False,False,False,False,False,False
+1981,LETZ SUSHI AMAGER, 2300 ,False,True,True,False,False,False,False,False,False
+1982,Cafe World, ,False,False,False,False,False,False,False,False,False
+1983,Juice'It, 1172 ,False,False,False,False,True,False,False,False,False
+1984,Cafe Tilda, 2200 ,False,False,False,False,False,False,False,False,False
+1985,Blagards Kebab, 2200 ,True,False,False,False,False,False,False,False,False
+1986,Limar, 2200 ,False,False,False,False,False,False,False,False,False
+1987,OliOli, 1360 ,False,False,True,False,False,False,False,False,False
+1988,Tapa del Toro, 1362 ,False,False,False,False,False,False,False,False,False
+1989,Mattsson Nielsen, 1560 ,False,False,False,False,False,False,False,False,False
+1990,Hanegal, 1150 ,False,False,False,False,False,False,False,False,False
+1991,Pompette, 2200 ,False,False,False,False,False,False,False,False,False
+1992,Cafe Slusen, 2300 ,False,False,False,False,False,False,False,False,False
+1993,Wai Mai, 2450 ,False,False,False,False,False,False,False,False,False
+1994,Snack & Blues, 2200 ,False,False,False,False,False,False,False,False,False
+1995,Aosta Pizza, 2200 ,True,False,False,False,False,True,False,False,False
+1996,Isværket, 2200 ,False,False,False,False,False,False,False,False,False
+1997,Cafe 1620, ,False,False,False,False,False,False,False,False,False
+1998,Kod & Bajer, 1620 ,False,False,False,False,False,False,False,False,False
+1999,Chela Empanadas Aps, 2300 ,False,False,False,False,False,False,False,False,False
+2000,Enghave smørrebrød, 1670 ,False,False,False,False,False,False,False,False,False
+2001,The Lab Kitchen, 2100 ,False,False,False,False,False,False,False,False,False
+2002,"Dispensary, Whisk(e)y & Beer", 2200 ,False,False,False,False,False,False,False,False,False
+2003,Mad Synergi, ,False,False,False,False,True,False,False,False,False
+2004,Zahren Gourmet, ,False,False,False,False,False,False,False,False,False
+2005,The Reception, 1660 ,False,False,False,False,True,False,False,False,False
+2006,KaffeBroen, 2200 ,False,False,False,False,False,False,False,False,False
+2007,Crepe'tastic, 1175 ,False,False,False,False,False,False,False,False,False
+2008,Formaggio Pizza, 2450 ,False,False,False,False,False,False,False,False,False
+2009,Cafe Julia & Safija, 2200 ,False,False,False,False,False,False,False,False,False
+2010,Haven, 1799 ,False,False,False,False,False,False,False,False,False
+2011,Den Fede Kylling, 1620 ,False,False,False,False,False,False,False,False,False
+2012,Restaurant IDA Bryggen, ,False,False,False,False,False,False,False,False,False
+2013,Pizzeria Imperia, 1364 ,True,False,False,False,False,True,False,False,False
+2014,Østerberg Ice Cream, 1618 ,False,False,False,False,True,False,False,False,False
+2015,Emmerys, 2200 ,False,False,False,False,False,False,False,False,False
+2016,Kaffe & Vinbaren, 2200 ,False,False,False,False,False,False,False,False,False
+2017,Tapa del Toro Tivoli, 1577 ,False,False,False,False,False,False,False,False,False
+2018,Met Cph, 2200 ,False,False,False,False,True,False,False,False,False
+2019,La Carmela Pizzeria e Birrateque, 2500 ,False,False,False,False,False,True,False,False,False
+2020,Sasaa, 2200 ,False,False,False,False,False,False,False,False,False
+2021,Woo Wok, ,False,False,False,True,False,False,False,False,False
+2022,Toast CPH, 1253 ,False,False,False,False,False,False,False,False,False
+2023,Hansens Flødeis på Bryggen, 2300 ,False,False,False,False,False,False,False,False,False
+2024,Sultan shawarma, 2200 ,False,False,False,False,False,False,False,False,False
+2025,Bravissimo, 2300 ,False,False,False,False,False,False,False,False,False
+2026,Yum Yoga & Café, 2450 ,False,False,False,False,True,False,False,False,False
+2027,Kato Sushi, 1400 ,False,False,False,False,False,False,False,False,False
+2028,Dhaba Indian street food, 1432 ,False,False,False,False,False,False,True,False,False
+2029,Coffeesound, 2700 ,False,False,False,False,False,False,False,False,False
+2030,The Handsome - Sandwich & Coffee, 1254 ,False,False,False,False,False,False,False,False,False
+2031,La Boca, 1620 ,False,False,False,False,False,False,False,False,False
+2032,Amazonia Cocktails and Kitchen, 2200 ,False,False,False,False,False,False,False,False,False
+2033,Sandwich27, 1360 ,False,False,False,False,False,False,False,False,False
+2034,Alice Ice Cream and Coffee, 2300 ,False,False,False,False,False,False,False,False,False
+2035,Brød, 1670 ,False,False,False,False,True,False,False,False,False
+2036,Cafetid, 1655 ,False,False,False,False,False,False,False,False,False
+2037,Hotdogs & Beers, 2200 ,False,False,False,False,False,False,False,False,False
+2038,So Last Year 2nd Hand & Coffee, 1674 ,False,False,False,False,False,False,False,False,False
+2039,Vinøs Vinbar, 2300 ,False,False,False,False,False,False,False,False,False
+2040,Cafe Grekenlandsvej, 2300 ,False,False,False,False,False,False,False,False,False
+2041,Kaffetarnet, 1165 ,False,False,False,False,False,False,False,False,False
+2042,Grosen & Falkenbergs, 1434 ,False,False,False,False,False,False,False,False,False
+2043,Rays, 2200 ,False,False,False,False,True,False,False,False,False
+2044,Cafe Assistenten, 2200 ,False,False,False,False,False,False,False,False,False
+2045,Mulgeo Blinis & Bubbles Bar Torvehallerne, 1361 ,False,False,True,False,False,False,False,False,False
+2046,Bastionens Cafe, ,False,False,False,False,False,False,False,False,False
+2047,Kaldi Copenhagen, 1650 ,False,False,False,False,False,False,False,False,False
+2048,Koelschip, 2200 ,False,False,False,False,False,False,False,False,False
+2049,Grød, 1620 ,False,False,False,False,False,False,False,False,False
+2050,Restaurant Støj, 1300 ,False,False,False,False,False,False,False,False,False
+2051,Madsens Mekka, 2400 ,False,False,False,False,False,False,False,False,False
+2052,"Woolstock - cotton, wool and coffee", ,False,False,False,False,True,False,False,False,False
+2053,My Poké Illum, 1100 ,False,False,False,False,False,False,False,False,False
+2054,Kahyt & Kaffe, 2450 ,False,False,False,False,False,False,False,False,False
+2055,Kogebogeriet - Kogeboghandel Og Café, 2200 ,False,False,False,False,False,False,False,False,False
+2056,Guilty Copenhagen, 1620 ,False,False,False,False,True,False,False,False,False
+2057,Bj´s Original Burger Joint, 1620 ,False,False,False,False,False,False,False,False,False
+2058,Berkeley take away, ,False,False,False,False,False,False,False,False,False
+2059,One Bowl, 2400 ,False,False,False,False,True,False,False,False,False
+2060,Bon Appetit, 1455 ,False,False,False,False,False,False,False,False,False
+2061,Bak Homemade Sandwich, 1264 ,False,False,False,False,False,False,False,False,False
+2062,Bua Restaurant, 2200 ,False,False,False,False,False,False,False,False,False
+2063,Brewers inc, 2200 ,False,False,False,False,False,False,False,False,False
+2064,Elliot - Coffee & Craft Beer, 1118 ,False,False,False,False,False,False,False,False,False
+2065,Café Parallel, 1620 ,False,False,False,False,True,False,False,False,False
+2066,Impronta, 2900 ,False,False,False,False,False,False,False,False,False
+2067,51 Street Food, 2200 ,False,False,False,False,False,False,False,False,False
+2068,Ali bageri, 2200 ,False,False,False,False,False,False,False,False,False
+2069,The Storm Inn, ,False,False,False,False,False,False,False,False,False
+2070,Homemate Ready to go, 1360 ,False,False,False,False,False,False,False,False,False
+2071,"Holm Cider, ciderbar & shop", 1650 ,False,False,False,False,False,False,False,False,False
+2072,Pio Vin & Bar, ,False,False,False,False,False,False,False,False,False
+2073,Bingo 156, 2300 ,False,False,False,False,False,False,False,False,False
+2074,Smagsløget (City), 1165 ,False,False,False,False,False,True,False,False,False
+2075,Buvette Nordhavn, 2150 ,False,False,False,False,False,False,False,False,False
+2076,Ristorante Zio & Nonna, 2100 ,False,False,True,False,False,True,False,False,False
+2077,Maobao, 2200 ,False,False,False,False,False,False,False,False,False
+2078,Coffee Fellaz, ,False,False,False,False,True,False,False,False,False
+2079,Cafe Ristet Rug, 2200 ,False,False,False,False,False,False,False,False,False
+2080,Cheung's Grill, ,False,False,False,False,False,False,False,False,False
+2081,Natur Tørst, 2300 ,False,False,False,False,False,False,False,False,False
+2082,Tea:licious Café, 1455 ,False,False,False,False,True,False,False,False,False
+2083,Elly's kaffebar, 2200 ,False,False,False,False,False,False,False,False,False
+2084,Mikkeler Barrel Room, ,False,False,False,False,False,False,False,False,False
+2085,nihao YAO, 2000 ,False,False,False,False,False,False,False,False,False
+2086,Brødrene Grim, 2200 ,False,False,False,False,False,False,False,False,False
+2087,Det Argentinske Vinhus Vinos Los Andes, 2300 ,False,False,False,False,False,False,False,False,False
+2088,Cafe Pyt, 2450 ,False,False,False,False,True,False,False,False,False
+2089,Ramsløg by sides., 1432 ,False,False,False,False,False,False,False,False,False
+2090,Kødbyens Is, 1711 ,False,False,False,False,False,True,False,False,False
+2091,Vini Vino, 2200 ,False,False,False,False,False,False,False,False,False
+2092,Victorious Sportsbar & Café, 1459 ,False,False,False,False,True,False,False,False,False
+2093,No 95, 2300 ,False,False,False,False,False,False,False,False,False
+2094,Gorda Empanadas, 1674 ,False,False,False,False,False,False,False,False,False
+2095,20 Grams -Specialty Coffee Shop, 1174 ,False,False,False,False,False,False,False,False,False
+2096,Blaabjerg & Madsen - Vesterbro, 1620 ,False,False,False,False,True,False,False,False,False
+2097,Social Corner Board Game Cafe, 1171 ,False,False,False,False,True,False,False,False,False
+2098,Currybox, 2200 ,False,False,False,False,False,False,True,False,False
+2099,Xilonen - House of Corn, 1360 ,False,False,False,False,False,False,False,False,False
+2100,Pico Pizza, 2200 ,True,False,False,False,False,False,False,False,False
+2101,Kewei's Kitchen, 1715 ,False,False,False,False,False,False,False,False,False
+2102,Burks køkken & bar, 1119 ,False,False,False,False,False,False,False,False,False
+2103,The Fish Project, 1123 ,False,False,True,False,False,False,False,False,False
+2104,The Midwestern Diner, 1369 ,False,False,False,False,False,False,False,False,False
+2105,René Noir, 2100 ,False,False,False,False,False,False,False,False,False
+2106,Cotoa, 1453 ,False,False,False,False,True,False,False,False,False
+2107,Falang Asiateria, 1650 ,False,False,True,True,False,False,False,False,False
+2108,Ro Chokolade, 2200 ,False,False,False,False,False,False,False,False,False
+2109,Sushi-Tsukiji, 1360 ,False,False,False,False,False,False,False,False,False
+2110,4Greeks Food, ,False,False,False,False,False,False,False,False,False
+2111,Parma & Pasta, 2630 ,False,False,False,False,False,True,False,False,False
+2112,K96, 1151 ,False,False,False,False,True,True,False,False,False
+2113,Chill-ee, ,False,False,False,False,True,False,False,False,False
+2114,The Nomad & The Bean, 2300 ,False,False,False,False,True,False,False,False,False
+2115,GROS, 1620 ,False,False,False,False,False,False,False,False,False
+2116,Ambassaden & Konsulatet, 2100 ,False,False,False,False,False,False,False,False,False
+2117,Green Island of Copenhagen, 1560 ,False,False,False,False,False,True,False,False,False
+2118,Restaurant MA, 1117 ,False,False,False,False,False,False,False,False,False
+2119,Banh Mi, 2200 ,False,False,False,False,False,False,False,False,False
+2120,Pasta La Pasta, 1101 ,False,False,False,False,False,True,False,False,False
+2121,Isoteket, 2100 ,False,False,False,False,False,False,False,False,False
+2122,Krystal Sandwich, 1172 ,False,False,False,False,False,False,False,False,False
+2123,Dina Bar Kafe, 1552 ,False,False,False,False,False,True,False,False,False
+2124,Mums Deli, 1208 ,False,False,False,False,True,False,False,False,False
+2125,Perbacco, 1115 ,True,False,False,False,False,True,False,False,False
+2126,Thirion - Charcuterie & Vins, 1422 ,False,False,False,False,False,False,False,False,False
+2127,Hachi Sushi, 2100 ,False,False,True,False,False,False,False,False,False
+2128,JaDa! Cafe, 1208 ,False,False,False,False,False,False,False,False,False
+2129,XOCOVINO, 1155 ,False,False,False,False,False,False,False,False,False
+2130,Le Caprice, 1366 ,False,False,False,False,False,False,False,False,False
+2131,H table, 1369 ,False,False,False,False,False,False,False,False,False
+2132,Restaurant 1733, 1203 ,False,False,True,False,False,False,False,False,False
+2133,Limone Piazza, 1158 ,False,False,False,False,False,True,False,False,False
+2134,Liban Cuisine, 2200 ,False,False,False,False,False,False,False,False,False
+2135,Den Go'e Kaffebar, 1820 ,False,False,False,False,False,False,False,False,False
+2136,Biblioteket Danasvej, 1910 ,False,False,False,False,False,False,False,False,False
+2137,Prætoria Bar, 1866 ,False,False,False,False,False,False,False,False,False
+2138,Tuttitalia Trattoria Pizzeria, 1879 ,False,False,False,False,False,True,False,False,False
+2139,Café Ocean, 1800 ,False,False,False,False,False,False,False,False,False
+2140,Tit Is, 1800 ,False,False,False,False,False,False,False,False,False
+2141,Vintage Coffee, 2000 ,False,False,False,False,True,False,False,False,False
+2142,Pub 53, 2000 ,False,False,False,False,False,False,False,False,False
+2143,Vores Marked, 2000 ,False,False,False,False,False,False,False,False,False
+2144,Vinbodegaen Frederiksberg, 2000 ,False,False,False,False,False,False,False,False,False
+2145,Selma, 1362 ,False,False,False,False,False,False,False,False,False
+2146,Nostos, 1866 ,False,False,False,False,False,False,False,False,False
+2147,Frederiksberg Ismejeri, 2000 ,False,False,False,False,False,False,False,False,False
+2148,Alchemist, 1432 ,False,False,False,False,False,False,False,False,False
+2149,Sansab, 2000 ,False,False,False,False,False,False,False,False,False
+2150,Coffee No24, 2000 ,False,False,False,False,True,False,False,False,False
+2151,Terra Restaurant and Cocktail bar, 2100 ,False,False,False,False,False,True,False,False,False
+2152,Lolly, 1466 ,False,False,False,True,False,False,False,False,False
+2153,Wafu Ramen, 2000 ,False,False,False,False,False,False,False,False,False
+2154,Cafe Delight - Frokost Cafe, 2000 ,False,False,False,False,True,False,False,False,False
+2155,Sushi Stop, 1800 ,False,True,False,False,False,False,False,False,False
+2156,Jurfood, 2300 ,False,False,False,False,True,False,False,False,False
+2157,Punk Royale, 1302 ,False,False,False,False,False,False,False,False,False
+2158,Le Gourmand, 1819 ,False,False,False,False,False,False,False,False,False
+2159,Quattro Fontane Due, 2000 ,False,False,False,False,False,False,False,False,False
+2160,Min Thai Takeaway, 2000 ,False,False,False,True,False,False,False,False,False
+2161,Henckell, 1850 ,False,False,False,False,True,False,False,False,False
+2162,Hey Darling, 2100 ,False,False,False,False,False,False,False,False,False
+2163,Satang Thai Bistro, 1960 ,False,False,False,False,False,False,False,False,False
+2164,Pizzicato, 1850 ,True,False,False,False,False,True,False,False,False
+2165,Pizzeria Mamemi & Wine Bar, 1668 ,True,False,False,False,False,True,False,False,False
+2166,The Pescatarian, 1256 ,False,False,True,False,False,False,False,False,False
+2167,Zahida at Kellerdirk, 1820 ,False,False,False,False,False,False,True,False,False
+2168,Søllerød Kro, 2840 ,False,False,False,False,False,False,False,False,False
+2169,The Olive Kitchen & Bar, 1165 ,False,False,False,False,False,False,False,False,False
+2170,Restaurant Krebsegaarden, 1455 ,False,False,False,False,False,False,False,False,False
+2171,Grams Lækkerier, 1700 ,False,False,False,False,True,False,False,False,False
+2172,Osteria 16, 2200 ,False,False,False,False,False,False,False,False,False
+2173,Esperia Pizza, 2400 ,True,False,False,False,False,False,False,False,False
+2174,Storm B Café, 2400 ,False,False,False,False,True,False,False,False,False
+2175,Vivaldi Pizzabar, 2400 ,True,False,False,False,False,False,False,False,False
+2176,Bronshoj Bistro, 2700 ,False,False,False,False,False,False,False,False,False
+2177,Golden Pizza, 2400 ,True,False,False,False,False,False,False,False,False
+2178,Middelgrundsfortet,,False,False,False,False,False,False,False,False,False
+2179,Spiseloppen, 1407 ,False,False,False,False,False,False,False,False,False
+2180,Square Burger, 1440 ,False,False,False,False,False,False,False,False,False
+2181,Fat Toast, 1107 ,False,False,False,False,True,False,False,False,False
+2182,Bentzons Pizzaria, 2000 ,False,False,False,False,False,True,False,False,False
+2183,Cafe Toasty, ,False,False,False,False,False,False,False,False,False
+2184,233 Sportsbar & Restaurant, 2400 ,False,False,False,False,False,False,False,False,False
+2185,Spicy Indian, 2720 ,False,False,False,False,False,False,False,False,False
+2186,Jørn Pedersen, 2000 ,False,False,False,False,False,False,False,False,False
+2187,Ninova Pizza & Pasta, 2000 ,True,False,False,False,False,True,False,False,False
+2188,Zi Sushi, 1958 ,False,False,False,False,False,False,False,False,False
+2189,Spiseriet, 2000 ,False,False,False,False,False,False,False,False,False
+2190,Joe & The Juice, 2000 ,False,False,False,False,False,False,False,False,False
+2191,Cafe Gologolo, 2000 ,False,False,False,False,False,False,False,False,False
+2192,Little Birds, 2000 ,False,False,False,False,True,False,False,False,False
+2193,Green Room Restaurant & Bar, 2000 ,False,False,False,False,False,False,False,False,False
+2194,Pizza 13, 2000 ,True,False,False,False,False,False,False,False,False
+2195,Amigo Pizza & Grill, 2000 ,True,False,False,False,False,True,False,False,False
+2196,Kebab Amigo, ,True,False,False,False,False,False,False,False,False
+2197,Esperia Pizzabar 2000, 2000 ,True,False,False,False,False,False,False,False,False
+2198,Coffee & bagel house, 2000 ,False,False,False,False,False,False,False,False,False
+2199,Wok92, 2920 ,False,False,False,True,False,False,False,False,False
+2200,Sasula, 2100 ,False,False,False,False,True,False,False,False,False
+2201,Mo's Pizza, 2100 ,False,False,False,False,False,False,False,False,False
+2202,My Sushi, 2100 ,False,True,False,False,False,False,False,False,False
+2203,Froogi, 2500 ,False,False,False,False,False,False,False,False,False
+2204,Sydhavnens Polsevogn, 2450 ,False,False,False,False,False,False,False,False,False
+2205,Desi Corner, 2450 ,False,False,False,False,False,True,True,False,False
+2206,Sydvest Bodega, 2450 ,False,False,False,False,False,False,False,False,False
+2207,Mozarts Bodega, 2450 ,False,False,False,False,False,False,False,False,False
+2208,Café Garagen, ,False,False,False,False,True,False,False,False,False
+2209,Rebel Food, 2100 ,False,False,False,False,False,False,False,False,False
+2210,Caesars Køkken (Caesars Kitchen), 2100 ,False,False,False,False,False,True,False,False,False
+2211,Espresso House, 2100 ,False,False,False,False,False,False,False,False,False
+2212,Rosetta, ,True,False,False,False,False,False,False,False,False
+2213,Pilegarden, 1112 ,False,False,True,False,False,False,False,False,False
+2214,Palæo, 1100 ,False,False,False,False,False,False,False,False,False
+2215,Cafe Vivaldi - Falkoner Allé,,False,False,False,False,True,False,False,False,False
+2216,A Terre, 1055 ,False,False,False,False,False,False,False,False,False
+2217,Boulebar Carlsberg Byen, 1799 ,False,False,False,False,False,False,False,False,False
+2218,Crepes a la Cart, 1160 ,False,False,False,False,False,False,False,False,False
+2219,Izumi Sushi, 2100 ,False,False,False,False,False,False,False,False,False
+2220,Jagger, 2100 ,False,False,False,False,False,False,False,False,False
+2221,Stefanos Pizzabar, 2100 ,True,False,False,False,True,False,False,False,False
+2222,Østerbro Madhus, 2100 ,False,False,False,False,False,True,False,False,False
+2223,Thai take away / Ning Mao (Ning's Thai), 2100 ,False,False,False,True,False,False,False,False,False
+2224,Figaros Pizza, 2100 ,True,False,False,False,False,False,False,False,False
+2225,Evergreens, 1879 ,False,False,False,False,False,False,False,False,False
+2226,Tap 21 Craft Beer, 1879 ,False,False,False,False,False,False,False,False,False
+2227,Easylunch, 2300 ,False,False,False,False,False,False,False,False,False
+2228,Molana, 2300 ,False,False,False,False,False,False,False,False,False
+2229,Ganesha, 2300 ,False,False,False,False,False,False,True,False,False
+2230,Thapa's Restaurant, 2300 ,False,False,False,False,False,False,False,False,False
+2231,Milano Pizzabar, 2300 ,True,False,False,False,False,False,False,False,False
+2232,Restaurant Shish, 2300 ,False,False,False,False,False,False,False,False,False
+2233,La sorpresa, 2300 ,False,False,False,False,False,True,False,False,False
+2234,Bindia, 2300 ,False,False,False,False,False,False,True,False,False
+2235,King Chicken, 2300 ,False,False,False,False,False,False,False,False,False
+2236,Cafe Plus, 1360 ,False,False,False,False,True,False,False,False,False
+2237,Teteria, 1663 ,False,False,False,False,True,False,False,False,False
+2238,El Barrio, 1711 ,False,False,False,False,False,False,False,False,False
+2239,Skelbaekgade 42, 1717 ,False,False,False,False,False,True,False,False,False
+2240,1001 Nat Pizza, 1650 ,False,False,False,False,False,False,False,False,False
+2241,Small Three Gorges Restaurant, 1361 ,False,False,False,False,False,False,False,False,False
+2242,F'eta Kai Eli'es, 1362 ,False,False,False,False,False,False,False,False,False
+2243,Sushi Style, 2100 ,False,True,False,False,False,False,False,False,False
+2244,Kong Pizza, 2200 ,True,False,False,False,False,False,False,False,False
+2245,lily's Valhalla, 2200 ,False,False,False,False,False,False,False,False,False
+2246,Jakobsens Pita, 2200 ,False,False,False,False,False,False,False,False,False
+2247,Lily’s, 2200 ,False,False,False,False,False,False,False,False,False
+2248,Cafe N, 2200 ,False,False,False,False,False,False,False,False,False
+2249,Den Grønne Bønne, 2200 ,False,False,False,False,False,False,False,False,False
+2250,Dido Durum House, 2200 ,False,False,False,False,False,False,False,False,False
+2251,Vinskabet, 2200 ,False,False,False,False,False,False,False,False,False
+2252,Curry House, 2200 ,False,False,False,False,False,False,True,False,False
+2253,Ristobar, 2200 ,False,False,False,False,False,False,False,False,False
+2254,Batin, 2200 ,False,False,False,False,False,False,False,False,False
+2255,Cupenhague, 2200 ,False,False,False,False,False,False,False,False,False
+2256,Adria Pizza Kastrupvej, 2300 ,True,False,False,False,False,False,False,False,False
+2257,Esperia, 2300 ,True,False,False,False,False,True,False,False,False
+2258,13z Cafe & Studio, 2300 ,False,False,False,False,True,False,False,False,False
+2259,Mr. Bagel, ,False,False,False,False,False,False,False,False,False
+2260,Cafe Juicy, 1850 ,False,False,False,False,False,False,False,False,False
+2261,Barock,,False,False,False,False,False,False,False,False,False
+2262,Social Foodies, 1577 ,False,False,False,False,False,False,False,False,False
+2263,Pasta du Nord, 2000 ,False,False,False,False,False,False,False,False,False
+2264,Joe & The Juice, 1620 ,False,False,False,False,False,False,False,False,False
+2265,Glamourpuss, ,False,False,False,False,True,False,False,False,False
+2266,Venligbo, 1674 ,False,False,False,False,False,False,False,False,False
+2267,Bereket Pizzeria, 1620 ,True,False,False,False,False,False,False,False,False
+2268,Latitude Cafe, ,False,False,False,False,False,False,False,False,False
+2269,Natcafeen, 1123 ,False,False,False,False,False,False,False,False,False
+2270,Jitzu, 1105 ,False,True,False,False,False,False,False,False,False
+2271,SunShake, 1165 ,False,False,False,False,False,False,False,False,False
+2272,Fonden Wonderful, ,False,False,False,False,False,False,False,False,False
+2273,Blasen, 1165 ,False,False,False,False,False,False,False,False,False
+2274,Nummer Fem CPH, 1154 ,False,False,False,False,True,True,False,False,False
+2275,Mimos Fresh Bite, 1173 ,False,False,False,False,False,False,False,False,False
+2276,Mr Pizza, 1209 ,False,False,False,False,True,True,False,False,False
+2277,The American Pie Company, 1620 ,False,False,False,False,False,False,False,False,False
+2278,Pauseriet, 1900 ,False,False,False,False,True,False,False,False,False
+2279,Lille Istanbul, 1454 ,True,False,False,False,False,False,False,False,False
+2280,PizzaTime 2, ,True,False,False,False,False,True,False,False,False
+2281,Couloir - No.35, 2200 ,False,False,False,False,False,False,False,False,False
+2282,Poporoya, 2200 ,False,False,False,False,False,False,False,False,False
+2283,Friheden, 2200 ,False,False,False,False,False,False,False,False,False
+2284,Norrested, 2200 ,False,False,False,False,False,False,False,False,False
+2285,Sheddy's CPH, 2200 ,False,False,False,False,False,False,False,False,False
+2286,Zula Restaurant, 2200 ,False,False,False,False,False,False,False,False,False
+2287,Shabaz - Kaffebar & Køkken, 1870 ,False,False,False,False,False,False,False,False,False
+2288,Alanya By Night, 2400 ,True,False,False,False,False,False,False,False,False
+2289,Coffee Bean.dk, 1455 ,False,False,False,False,True,False,False,False,False
+2290,Den Persiske Kat, 1454 ,False,False,False,False,False,False,False,False,False
+2291,Amager Pizza Palace, 2300 ,True,False,False,False,False,False,False,False,False
+2292,Gasoline Grill, 1799 ,False,False,False,False,False,False,False,False,False
+2293,Istanbul Grill, 1051 ,False,False,False,False,False,False,False,False,False
+2294,Ahoy Bar, ,False,False,False,False,False,False,False,False,False
+2295,Ilimo, ,False,False,False,False,False,True,False,False,False
+2296,Hovedindgangen, 1630 ,False,False,False,False,False,False,False,False,False
+2297,Cafe' PhoneDoktor, 1360 ,False,False,False,False,True,False,False,False,False
+2298,Made Restaurant & Cocktails, ,False,False,False,False,False,False,False,False,False
+2299,Intensia, ,False,False,False,False,True,False,False,False,False
+2300,Norrlyst, 1208 ,False,False,False,False,False,False,False,False,False
+2301,Evoo, 1466 ,False,False,False,False,False,True,False,False,False
+2302,LiA Gelato, 1468 ,False,False,False,False,True,True,False,False,False
+2303,Cafe Heaven, 1161 ,False,False,False,False,False,False,False,False,False
+2304,Shawarma Kebap Palace, 1459 ,False,False,False,False,False,False,False,False,False
+2305,McDonald's, 1560 ,False,False,False,False,False,False,False,False,False
+2306,Cafe Hannemann, 2300 ,False,False,False,False,False,False,False,False,False
+2307,Break, ,False,False,False,False,True,False,False,False,False
+2308,Lime, 1608 ,False,False,False,True,False,False,False,False,False
+2309,Clausens sandwich og juice, 2100 ,False,False,False,False,False,False,False,False,False
+2310,Mooch, 1612 ,False,False,False,False,False,False,False,False,False
+2311,Restaurant Kliche, 1264 ,False,False,False,False,False,False,False,False,False
+2312,Restaurant Ma, 1117 ,False,False,False,False,False,False,False,False,False
+2313,Ciao Italian Quality  Food, 1123 ,False,False,False,False,False,True,False,False,False
+2314,The Fat Greek, 1123 ,False,False,False,False,False,False,False,False,False
+2315,Café Palmehaven, ,False,False,False,False,False,False,False,False,False
+2316,Aladdins Pizzeria & Grillbar, 2300 ,False,False,False,False,False,True,False,False,False
+2317,Flavio's kitchen, ,False,False,False,False,False,True,False,False,False
+2318,Klokken København, 1208 ,False,False,False,False,False,False,False,False,False
+2319,Drommer Pizza, ,False,False,False,False,False,True,False,False,False
